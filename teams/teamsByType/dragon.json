@@ -1,0 +1,902 @@
+{
+    "Altaria": {
+        "level": 90,
+        "abilities": [
+            "Natural Cure"
+        ],
+        "items": [
+            "Heavy-Duty Boots",
+            "Leftovers",
+            "Life Orb"
+        ],
+        "moves": [
+            "Defog",
+            "Draco Meteor",
+            "Earthquake",
+            "Fire Blast",
+            "Roost",
+            "Toxic"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "dragon",
+            "flying"
+        ]
+    },
+    "Appletun": {
+        "level": 90,
+        "abilities": [
+            "Thick Fat"
+        ],
+        "items": [
+            "Leftovers"
+        ],
+        "moves": [
+            "Apple Acid",
+            "Dragon Pulse",
+            "Leech Seed",
+            "Recover"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "grass",
+            "dragon"
+        ]
+    },
+    "Dialga": {
+        "level": 74,
+        "abilities": [
+            "Pressure"
+        ],
+        "items": [
+            "Choice Scarf",
+            "Choice Specs",
+            "Leftovers"
+        ],
+        "moves": [
+            "Draco Meteor",
+            "Fire Blast",
+            "Flash Cannon",
+            "Stealth Rock",
+            "Thunderbolt",
+            "Toxic"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "steel",
+            "dragon"
+        ]
+    },
+    "Dracovish": {
+        "level": 80,
+        "abilities": [
+            "Sand Rush",
+            "Strong Jaw"
+        ],
+        "items": [
+            "Choice Band"
+        ],
+        "moves": [
+            "Crunch",
+            "Fishious Rend",
+            "Ice Fang",
+            "Low Kick",
+            "Psychic Fangs"
+        ],
+        "types": [
+            "water",
+            "dragon"
+        ]
+    },
+    "Dracozolt": {
+        "level": 78,
+        "abilities": [
+            "Hustle"
+        ],
+        "items": [
+            "Choice Band",
+            "Choice Scarf"
+        ],
+        "moves": [
+            "Aerial Ace",
+            "Bolt Beak",
+            "Earthquake",
+            "Low Kick",
+            "Outrage"
+        ],
+        "types": [
+            "electric",
+            "dragon"
+        ]
+    },
+    "Dragalge": {
+        "level": 86,
+        "abilities": [
+            "Adaptability"
+        ],
+        "items": [
+            "Black Sludge",
+            "Choice Specs"
+        ],
+        "moves": [
+            "Draco Meteor",
+            "Dragon Pulse",
+            "Flip Turn",
+            "Focus Blast",
+            "Sludge Wave",
+            "Toxic Spikes"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "poison",
+            "dragon"
+        ]
+    },
+    "Dragapult": {
+        "level": 78,
+        "abilities": [
+            "Clear Body",
+            "Infiltrator"
+        ],
+        "items": [
+            "Choice Specs"
+        ],
+        "moves": [
+            "Draco Meteor",
+            "Fire Blast",
+            "Shadow Ball",
+            "Thunderbolt",
+            "U-turn"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "dragon",
+            "ghost"
+        ]
+    },
+    "Dragonite": {
+        "level": 75,
+        "abilities": [
+            "Multiscale"
+        ],
+        "items": [
+            "Choice Band",
+            "Heavy-Duty Boots"
+        ],
+        "moves": [
+            "Dragon Dance",
+            "Dual Wingbeat",
+            "Earthquake",
+            "Extreme Speed",
+            "Outrage"
+        ],
+        "types": [
+            "dragon",
+            "flying"
+        ]
+    },
+    "Drampa": {
+        "level": 86,
+        "abilities": [
+            "Berserk",
+            "Sap Sipper"
+        ],
+        "items": [
+            "Choice Specs",
+            "Leftovers"
+        ],
+        "moves": [
+            "Draco Meteor",
+            "Fire Blast",
+            "Glare",
+            "Hyper Voice",
+            "Roost",
+            "Thunderbolt"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "normal",
+            "dragon"
+        ]
+    },
+    "Druddigon": {
+        "level": 84,
+        "abilities": [
+            "Mold Breaker",
+            "Rough Skin"
+        ],
+        "items": [
+            "Choice Band",
+            "Leftovers",
+            "Life Orb"
+        ],
+        "moves": [
+            "Earthquake",
+            "Glare",
+            "Gunk Shot",
+            "Outrage",
+            "Stealth Rock",
+            "Sucker Punch",
+            "Superpower"
+        ],
+        "types": [
+            "dragon"
+        ]
+    },
+    "Duraludon": {
+        "level": 84,
+        "abilities": [
+            "Light Metal"
+        ],
+        "items": [
+            "Assault Vest",
+            "Focus Sash",
+            "Life Orb"
+        ],
+        "moves": [
+            "Body Press",
+            "Draco Meteor",
+            "Flash Cannon",
+            "Stealth Rock",
+            "Thunderbolt"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "steel",
+            "dragon"
+        ]
+    },
+    "Eternatus": {
+        "level": 69,
+        "abilities": [
+            "Pressure"
+        ],
+        "items": [
+            "Black Sludge",
+            "Metronome"
+        ],
+        "moves": [
+            "Dynamax Cannon",
+            "Flamethrower",
+            "Recover",
+            "Sludge Wave",
+            "Toxic"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "poison",
+            "dragon"
+        ]
+    },
+    "Flapple": {
+        "level": 84,
+        "abilities": [
+            "Hustle"
+        ],
+        "items": [
+            "Choice Band",
+            "Focus Sash",
+            "Life Orb"
+        ],
+        "moves": [
+            "Dragon Dance",
+            "Grav Apple",
+            "Outrage",
+            "Sucker Punch",
+            "U-turn"
+        ],
+        "types": [
+            "grass",
+            "dragon"
+        ]
+    },
+    "Flygon": {
+        "level": 80,
+        "abilities": [
+            "Levitate"
+        ],
+        "items": [
+            "Choice Band",
+            "Choice Scarf",
+            "Leftovers",
+            "Life Orb"
+        ],
+        "moves": [
+            "Defog",
+            "Dragon Dance",
+            "Earthquake",
+            "Fire Punch",
+            "Outrage",
+            "U-turn"
+        ],
+        "types": [
+            "ground",
+            "dragon"
+        ]
+    },
+    "Garchomp": {
+        "level": 74,
+        "abilities": [
+            "Rough Skin"
+        ],
+        "items": [
+            "Assault Vest",
+            "Choice Band",
+            "Choice Scarf",
+            "Lum Berry",
+            "Rocky Helmet"
+        ],
+        "moves": [
+            "Earthquake",
+            "Fire Blast",
+            "Fire Fang",
+            "Outrage",
+            "Stealth Rock",
+            "Stone Edge",
+            "Swords Dance"
+        ],
+        "types": [
+            "dragon",
+            "ground"
+        ]
+    },
+    "Giratina": {
+        "level": 74,
+        "abilities": [
+            "Pressure"
+        ],
+        "items": [
+            "Chesto Berry",
+            "Leftovers"
+        ],
+        "moves": [
+            "Hex",
+            "Rest",
+            "Sleep Talk",
+            "Toxic",
+            "Will-O-Wisp"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "ghost",
+            "dragon"
+        ]
+    },
+    "Goodra": {
+        "level": 82,
+        "abilities": [
+            "Sap Sipper"
+        ],
+        "items": [
+            "Assault Vest",
+            "Choice Scarf",
+            "Choice Specs"
+        ],
+        "moves": [
+            "Draco Meteor",
+            "Earthquake",
+            "Fire Blast",
+            "Power Whip",
+            "Sludge Bomb",
+            "Thunderbolt"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "dragon"
+        ]
+    },
+    "Guzzlord": {
+        "level": 84,
+        "abilities": [
+            "Beast Boost"
+        ],
+        "items": [
+            "Assault Vest",
+            "Choice Specs"
+        ],
+        "moves": [
+            "Dark Pulse",
+            "Draco Meteor",
+            "Fire Blast",
+            "Knock Off",
+            "Sludge Bomb"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "dark",
+            "dragon"
+        ]
+    },
+    "Haxorus": {
+        "level": 77,
+        "abilities": [
+            "Mold Breaker"
+        ],
+        "items": [
+            "Choice Band",
+            "Choice Scarf",
+            "Life Orb"
+        ],
+        "moves": [
+            "Close Combat",
+            "Dragon Dance",
+            "Earthquake",
+            "Outrage",
+            "Poison Jab"
+        ],
+        "types": [
+            "dragon"
+        ]
+    },
+    "Hydreigon": {
+        "level": 80,
+        "abilities": [
+            "Levitate"
+        ],
+        "items": [
+            "Choice Scarf",
+            "Choice Specs",
+            "Leftovers",
+            "Life Orb"
+        ],
+        "moves": [
+            "Dark Pulse",
+            "Draco Meteor",
+            "Fire Blast",
+            "Flash Cannon",
+            "Nasty Plot",
+            "Roost",
+            "U-turn"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "dark",
+            "dragon"
+        ]
+    },
+    "Kingdra": {
+        "level": 82,
+        "abilities": [
+            "Swift Swim"
+        ],
+        "items": [
+            "Choice Specs",
+            "Life Orb"
+        ],
+        "moves": [
+            "Draco Meteor",
+            "Flip Turn",
+            "Hurricane",
+            "Hydro Pump",
+            "Rain Dance"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "water",
+            "dragon"
+        ]
+    },
+    "Kyurem": {
+        "level": 80,
+        "abilities": [
+            "Pressure"
+        ],
+        "items": [
+            "Choice Scarf",
+            "Choice Specs",
+            "Heavy-Duty Boots",
+            "Leftovers"
+        ],
+        "moves": [
+            "Draco Meteor",
+            "Earth Power",
+            "Freeze-Dry",
+            "Ice Beam",
+            "Roost",
+            "Substitute"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "dragon",
+            "ice"
+        ]
+    },
+    "Latias": {
+        "level": 80,
+        "abilities": [
+            "Levitate"
+        ],
+        "items": [
+            "Choice Scarf",
+            "Leftovers"
+        ],
+        "moves": [
+            "Calm Mind",
+            "Draco Meteor",
+            "Healing Wish",
+            "Mystical Fire",
+            "Psychic",
+            "Roost"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "dragon",
+            "psychic"
+        ]
+    },
+    "Latios": {
+        "level": 78,
+        "abilities": [
+            "Levitate"
+        ],
+        "items": [
+            "Choice Specs",
+            "Life Orb",
+            "Soul Dew"
+        ],
+        "moves": [
+            "Calm Mind",
+            "Draco Meteor",
+            "Mystical Fire",
+            "Psyshock",
+            "Roost",
+            "Trick"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "dragon",
+            "psychic"
+        ]
+    },
+    "Naganadel": {
+        "level": 74,
+        "abilities": [
+            "Beast Boost"
+        ],
+        "items": [
+            "Choice Specs",
+            "Life Orb"
+        ],
+        "moves": [
+            "Air Slash",
+            "Draco Meteor",
+            "Fire Blast",
+            "Nasty Plot",
+            "Sludge Wave"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "poison",
+            "dragon"
+        ]
+    },
+    "Noivern": {
+        "level": 82,
+        "abilities": [
+            "Infiltrator"
+        ],
+        "items": [
+            "Choice Specs",
+            "Heavy-Duty Boots",
+            "Life Orb"
+        ],
+        "moves": [
+            "Defog",
+            "Draco Meteor",
+            "Flamethrower",
+            "Hurricane",
+            "Roost",
+            "Switcheroo"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "flying",
+            "dragon"
+        ]
+    },
+    "Palkia": {
+        "level": 74,
+        "abilities": [
+            "Pressure"
+        ],
+        "items": [
+            "Choice Scarf",
+            "Choice Specs",
+            "Lustrous Orb"
+        ],
+        "moves": [
+            "Draco Meteor",
+            "Fire Blast",
+            "Hydro Pump",
+            "Spacial Rend",
+            "Thunder Wave"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "water",
+            "dragon"
+        ]
+    },
+    "Rayquaza": {
+        "level": 74,
+        "abilities": [
+            "Air Lock"
+        ],
+        "items": [
+            "Assault Vest",
+            "Choice Band",
+            "Heavy-Duty Boots",
+            "Lum Berry"
+        ],
+        "moves": [
+            "Draco Meteor",
+            "Dragon Ascent",
+            "Dragon Dance",
+            "Earthquake",
+            "Extreme Speed",
+            "Swords Dance",
+            "V-create"
+        ],
+        "types": [
+            "dragon",
+            "flying"
+        ]
+    },
+    "Regidrago": {
+        "level": 78,
+        "abilities": [
+            "Dragon's Maw"
+        ],
+        "items": [
+            "Assault Vest",
+            "Lum Berry"
+        ],
+        "moves": [
+            "Draco Meteor",
+            "Dragon Dance",
+            "Fire Fang",
+            "Hammer Arm",
+            "Outrage"
+        ],
+        "types": [
+            "dragon"
+        ]
+    },
+    "Reshiram": {
+        "level": 74,
+        "abilities": [
+            "Turboblaze"
+        ],
+        "items": [
+            "Assault Vest",
+            "Heavy-Duty Boots",
+            "Leftovers"
+        ],
+        "moves": [
+            "Blue Flare",
+            "Defog",
+            "Draco Meteor",
+            "Earth Power",
+            "Roost",
+            "Stone Edge",
+            "Toxic"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "dragon",
+            "fire"
+        ]
+    },
+    "Salamence": {
+        "level": 76,
+        "abilities": [
+            "Moxie"
+        ],
+        "items": [
+            "Heavy-Duty Boots",
+            "Life Orb",
+            "Lum Berry"
+        ],
+        "moves": [
+            "Dragon Dance",
+            "Dual Wingbeat",
+            "Earthquake",
+            "Outrage",
+            "Roost"
+        ],
+        "types": [
+            "dragon",
+            "flying"
+        ]
+    },
+    "Turtonator": {
+        "level": 84,
+        "abilities": [
+            "Shell Armor"
+        ],
+        "items": [
+            "Heavy-Duty Boots",
+            "Leftovers",
+            "White Herb"
+        ],
+        "moves": [
+            "Body Press",
+            "Draco Meteor",
+            "Earthquake",
+            "Fire Blast",
+            "Rapid Spin",
+            "Shell Smash",
+            "Will-O-Wisp"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "fire",
+            "dragon"
+        ]
+    },
+    "Tyrantrum": {
+        "level": 82,
+        "abilities": [
+            "Rock Head"
+        ],
+        "items": [
+            "Choice Band",
+            "Choice Scarf",
+            "Life Orb"
+        ],
+        "moves": [
+            "Close Combat",
+            "Dragon Dance",
+            "Earthquake",
+            "Head Smash",
+            "Outrage"
+        ],
+        "types": [
+            "rock",
+            "dragon"
+        ]
+    },
+    "Zekrom": {
+        "level": 69,
+        "abilities": [
+            "Teravolt"
+        ],
+        "items": [
+            "Lum Berry"
+        ],
+        "moves": [
+            "Bolt Strike",
+            "Dragon Dance",
+            "Outrage",
+            "Roost"
+        ],
+        "types": [
+            "dragon",
+            "electric"
+        ]
+    },
+    "Zygarde": {
+        "level": 70,
+        "abilities": [
+            "Power Construct"
+        ],
+        "items": [
+            "Leftovers"
+        ],
+        "moves": [
+            "Dragon Dance",
+            "Outrage",
+            "Substitute",
+            "Thousand Arrows"
+        ],
+        "types": [
+            "dragon",
+            "ground"
+        ]
+    }
+}

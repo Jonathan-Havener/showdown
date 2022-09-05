@@ -33,7 +33,6 @@ def parse_args():
     global greeting_message
     global battle_ending_message
     global websocket_uri
-    global team_name
     global pokemon_mode
     global run_count
     global room_name
@@ -47,7 +46,6 @@ def parse_args():
     greeting_message = env("GREETING_MESSAGE", greeting_message)
     battle_ending_message = env("BATTLE_OVER_MESSAGE", battle_ending_message)
     websocket_uri = env("WEBSOCKET_URI", "sim.smogon.com:8000")
-    team_name = env("TEAM_NAME", None)
     pokemon_mode = env("POKEMON_MODE", constants.DEFAULT_MODE)
     run_count = int(env("RUN_COUNT", 1))
     room_name = env("ROOM_NAME", room_name)

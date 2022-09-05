@@ -1,0 +1,741 @@
+{
+    "Arctozolt": {
+        "level": 86,
+        "abilities": [
+            "Slush Rush",
+            "Volt Absorb"
+        ],
+        "items": [
+            "Assault Vest",
+            "Heavy-Duty Boots",
+            "Life Orb"
+        ],
+        "moves": [
+            "Bolt Beak",
+            "Freeze-Dry",
+            "Icicle Crash",
+            "Stomping Tantrum",
+            "Thunder Wave"
+        ],
+        "types": [
+            "electric",
+            "ice"
+        ]
+    },
+    "Boltund": {
+        "level": 84,
+        "abilities": [
+            "Strong Jaw"
+        ],
+        "items": [
+            "Choice Band",
+            "Focus Sash",
+            "Life Orb"
+        ],
+        "moves": [
+            "Bulk Up",
+            "Crunch",
+            "Fire Fang",
+            "Play Rough",
+            "Psychic Fangs",
+            "Thunder Fang",
+            "Volt Switch"
+        ],
+        "types": [
+            "electric"
+        ]
+    },
+    "Dedenne": {
+        "level": 87,
+        "abilities": [
+            "Cheek Pouch"
+        ],
+        "items": [
+            "Sitrus Berry"
+        ],
+        "moves": [
+            "Protect",
+            "Recycle",
+            "Thunderbolt",
+            "Toxic"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "electric",
+            "fairy"
+        ]
+    },
+    "Dracozolt": {
+        "level": 78,
+        "abilities": [
+            "Hustle"
+        ],
+        "items": [
+            "Choice Band",
+            "Choice Scarf"
+        ],
+        "moves": [
+            "Aerial Ace",
+            "Bolt Beak",
+            "Earthquake",
+            "Low Kick",
+            "Outrage"
+        ],
+        "types": [
+            "electric",
+            "dragon"
+        ]
+    },
+    "Electivire": {
+        "level": 82,
+        "abilities": [
+            "Motor Drive"
+        ],
+        "items": [
+            "Choice Band",
+            "Choice Scarf",
+            "Life Orb"
+        ],
+        "moves": [
+            "Cross Chop",
+            "Earthquake",
+            "Flamethrower",
+            "Ice Punch",
+            "Volt Switch",
+            "Wild Charge"
+        ],
+        "types": [
+            "electric"
+        ]
+    },
+    "Emolga": {
+        "level": 88,
+        "abilities": [
+            "Motor Drive"
+        ],
+        "items": [
+            "Choice Specs",
+            "Heavy-Duty Boots",
+            "Leftovers",
+            "Life Orb"
+        ],
+        "moves": [
+            "Air Slash",
+            "Defog",
+            "Energy Ball",
+            "Roost",
+            "Thunderbolt",
+            "Toxic",
+            "U-turn"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "electric",
+            "flying"
+        ]
+    },
+    "Galvantula": {
+        "level": 82,
+        "abilities": [
+            "Compound Eyes"
+        ],
+        "items": [
+            "Choice Specs",
+            "Focus Sash",
+            "Heavy-Duty Boots",
+            "Life Orb"
+        ],
+        "moves": [
+            "Bug Buzz",
+            "Giga Drain",
+            "Sticky Web",
+            "Thunder",
+            "Volt Switch"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "bug",
+            "electric"
+        ]
+    },
+    "Heliolisk": {
+        "level": 82,
+        "abilities": [
+            "Dry Skin"
+        ],
+        "items": [
+            "Choice Specs",
+            "Focus Sash",
+            "Life Orb"
+        ],
+        "moves": [
+            "Glare",
+            "Grass Knot",
+            "Hyper Voice",
+            "Surf",
+            "Thunderbolt",
+            "Volt Switch"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "electric",
+            "normal"
+        ]
+    },
+    "Jolteon": {
+        "level": 82,
+        "abilities": [
+            "Volt Absorb"
+        ],
+        "items": [
+            "Choice Specs"
+        ],
+        "moves": [
+            "Hyper Voice",
+            "Shadow Ball",
+            "Thunderbolt",
+            "Volt Switch"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "electric"
+        ]
+    },
+    "Lanturn": {
+        "level": 86,
+        "abilities": [
+            "Volt Absorb"
+        ],
+        "items": [
+            "Choice Specs",
+            "Leftovers",
+            "Life Orb"
+        ],
+        "moves": [
+            "Heal Bell",
+            "Ice Beam",
+            "Scald",
+            "Thunderbolt",
+            "Toxic",
+            "Volt Switch"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "water",
+            "electric"
+        ]
+    },
+    "Luxray": {
+        "level": 84,
+        "abilities": [
+            "Guts",
+            "Intimidate"
+        ],
+        "items": [
+            "Assault Vest",
+            "Flame Orb",
+            "Life Orb"
+        ],
+        "moves": [
+            "Agility",
+            "Crunch",
+            "Facade",
+            "Superpower",
+            "Volt Switch",
+            "Wild Charge"
+        ],
+        "types": [
+            "electric"
+        ]
+    },
+    "Magnezone": {
+        "level": 84,
+        "abilities": [
+            "Magnet Pull"
+        ],
+        "items": [
+            "Assault Vest",
+            "Choice Scarf"
+        ],
+        "moves": [
+            "Body Press",
+            "Flash Cannon",
+            "Mirror Coat",
+            "Thunderbolt",
+            "Volt Switch"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "electric",
+            "steel"
+        ]
+    },
+    "Manectric": {
+        "level": 86,
+        "abilities": [
+            "Lightning Rod"
+        ],
+        "items": [
+            "Choice Scarf"
+        ],
+        "moves": [
+            "Flamethrower",
+            "Overheat",
+            "Switcheroo",
+            "Thunderbolt",
+            "Volt Switch"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "electric"
+        ]
+    },
+    "Morpeko": {
+        "level": 86,
+        "abilities": [
+            "Hunger Switch"
+        ],
+        "items": [
+            "Choice Band",
+            "Focus Sash",
+            "Leftovers"
+        ],
+        "moves": [
+            "Aura Wheel",
+            "Foul Play",
+            "Parting Shot",
+            "Protect",
+            "Psychic Fangs",
+            "Rapid Spin"
+        ],
+        "types": [
+            "electric",
+            "dark"
+        ]
+    },
+    "Pikachu": {
+        "level": 92,
+        "abilities": [
+            "Lightning Rod"
+        ],
+        "items": [
+            "Light Ball"
+        ],
+        "moves": [
+            "Iron Tail",
+            "Knock Off",
+            "Surf",
+            "Volt Switch",
+            "Volt Tackle"
+        ],
+        "types": [
+            "electric"
+        ]
+    },
+    "Pincurchin": {
+        "level": 88,
+        "abilities": [
+            "Electric Surge"
+        ],
+        "items": [
+            "Shuca Berry"
+        ],
+        "moves": [
+            "Rising Voltage",
+            "Scald",
+            "Spikes",
+            "Sucker Punch",
+            "Toxic Spikes"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "electric"
+        ]
+    },
+    "Raichu": {
+        "level": 86,
+        "abilities": [
+            "Lightning Rod"
+        ],
+        "items": [
+            "Choice Specs",
+            "Focus Sash",
+            "Life Orb"
+        ],
+        "moves": [
+            "Focus Blast",
+            "Grass Knot",
+            "Nasty Plot",
+            "Surf",
+            "Thunderbolt",
+            "Volt Switch"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "electric"
+        ]
+    },
+    "Raikou": {
+        "level": 80,
+        "abilities": [
+            "Pressure"
+        ],
+        "items": [
+            "Choice Specs",
+            "Leftovers",
+            "Life Orb"
+        ],
+        "moves": [
+            "Aura Sphere",
+            "Calm Mind",
+            "Scald",
+            "Substitute",
+            "Thunderbolt",
+            "Volt Switch"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "electric"
+        ]
+    },
+    "Regieleki": {
+        "level": 78,
+        "abilities": [
+            "Transistor"
+        ],
+        "items": [
+            "Magnet"
+        ],
+        "moves": [
+            "Explosion",
+            "Substitute",
+            "Thunderbolt",
+            "Volt Switch"
+        ],
+        "types": [
+            "electric"
+        ]
+    },
+    "Rotom": {
+        "level": 84,
+        "abilities": [
+            "Levitate"
+        ],
+        "items": [
+            "Focus Sash",
+            "Leftovers",
+            "Life Orb"
+        ],
+        "moves": [
+            "Nasty Plot",
+            "Shadow Ball",
+            "Thunderbolt",
+            "Volt Switch",
+            "Will-O-Wisp"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "electric",
+            "ghost"
+        ]
+    },
+    "Stunfisk": {
+        "level": 84,
+        "abilities": [
+            "Static"
+        ],
+        "items": [
+            "Assault Vest",
+            "Leftovers"
+        ],
+        "moves": [
+            "Discharge",
+            "Earth Power",
+            "Foul Play",
+            "Sludge Bomb",
+            "Stealth Rock"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "ground",
+            "electric"
+        ]
+    },
+    "Thundurus": {
+        "level": 80,
+        "abilities": [
+            "Defiant",
+            "Prankster"
+        ],
+        "items": [
+            "Heavy-Duty Boots",
+            "Life Orb"
+        ],
+        "moves": [
+            "Grass Knot",
+            "Knock Off",
+            "Nasty Plot",
+            "Sludge Wave",
+            "Superpower",
+            "Thunder Wave",
+            "Thunderbolt"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "electric",
+            "flying"
+        ]
+    },
+    "Togedemaru": {
+        "level": 86,
+        "abilities": [
+            "Lightning Rod",
+            "Sturdy"
+        ],
+        "items": [
+            "Choice Band",
+            "Focus Sash",
+            "Leftovers"
+        ],
+        "moves": [
+            "Iron Head",
+            "Nuzzle",
+            "Spiky Shield",
+            "U-turn",
+            "Wish",
+            "Zing Zap"
+        ],
+        "types": [
+            "electric",
+            "steel"
+        ]
+    },
+    "Toxtricity": {
+        "level": 82,
+        "abilities": [
+            "Punk Rock"
+        ],
+        "items": [
+            "Choice Scarf",
+            "Choice Specs",
+            "Throat Spray"
+        ],
+        "moves": [
+            "Boomburst",
+            "Overdrive",
+            "Shift Gear",
+            "Sludge Wave",
+            "Volt Switch"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "electric",
+            "poison"
+        ]
+    },
+    "Vikavolt": {
+        "level": 82,
+        "abilities": [
+            "Levitate"
+        ],
+        "items": [
+            "Choice Specs",
+            "Focus Sash",
+            "Heavy-Duty Boots",
+            "Leftovers"
+        ],
+        "moves": [
+            "Bug Buzz",
+            "Energy Ball",
+            "Roost",
+            "Sticky Web",
+            "Thunderbolt",
+            "Volt Switch"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "bug",
+            "electric"
+        ]
+    },
+    "Xurkitree": {
+        "level": 76,
+        "abilities": [
+            "Beast Boost"
+        ],
+        "items": [
+            "Blunder Policy",
+            "Choice Scarf",
+            "Choice Specs"
+        ],
+        "moves": [
+            "Dazzling Gleam",
+            "Energy Ball",
+            "Hypnosis",
+            "Thunderbolt",
+            "Volt Switch"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "electric"
+        ]
+    },
+    "Zapdos": {
+        "level": 78,
+        "abilities": [
+            "Pressure",
+            "Static"
+        ],
+        "items": [
+            "Choice Specs",
+            "Heavy-Duty Boots",
+            "Life Orb"
+        ],
+        "moves": [
+            "Defog",
+            "Discharge",
+            "Heat Wave",
+            "Hurricane",
+            "Roost",
+            "U-turn"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "electric",
+            "flying"
+        ]
+    },
+    "Zekrom": {
+        "level": 69,
+        "abilities": [
+            "Teravolt"
+        ],
+        "items": [
+            "Lum Berry"
+        ],
+        "moves": [
+            "Bolt Strike",
+            "Dragon Dance",
+            "Outrage",
+            "Roost"
+        ],
+        "types": [
+            "dragon",
+            "electric"
+        ]
+    },
+    "Zeraora": {
+        "level": 76,
+        "abilities": [
+            "Volt Absorb"
+        ],
+        "items": [
+            "Assault Vest",
+            "Choice Band",
+            "Life Orb"
+        ],
+        "moves": [
+            "Blaze Kick",
+            "Bulk Up",
+            "Close Combat",
+            "Grass Knot",
+            "Knock Off",
+            "Plasma Fists",
+            "Play Rough",
+            "Volt Switch"
+        ],
+        "types": [
+            "electric"
+        ]
+    }
+}

@@ -13,12 +13,13 @@ import user
 from teams import load_team
 from showdown.run_battle import pokemon_battle
 from showdown.websocket_client import PSWebsocketClient
+from teams import team_generator
 
 from data import all_move_json
 from data import pokedex
 from data.mods.apply_mods import apply_mods
 
-
+import random
 
 logger = logging.getLogger(__name__)
 
@@ -54,8 +55,9 @@ async def showdown(user):
     wins = 0
     losses = 0
     while True:
-        team = load_team(config.team_name)
+        team = load_team(user.team_name)
         if user.bot_mode == constants.CHALLENGE_USER:
+            await asyncio.sleep(3)
             await ps_websocket_client.challenge_user(user.user_to_challenge, config.pokemon_mode, team)
         elif user.bot_mode == constants.ACCEPT_CHALLENGE:
             await ps_websocket_client.accept_challenge(config.pokemon_mode, team, config.room_name)
@@ -83,8 +85,13 @@ if __name__ == "__main__":
     config.parse_args()
     apply_mods(config.pokemon_mode)
 
-    user1 = user.User("epsilonbot",  "CHALLENGE_USER", "epsilonbot2")
-    user2 = user.User("epsilonbot2", "ACCEPT_CHALLENGE")
+    types = ["bug", "dark", "dragon", "electric", "fairy", "fighting", "fire", "flying", "ghost", "grass", "ground", "ice", "normal", "poison", "psychic", "rock", "steel", "water"]
+
+    teamALoc = team_generator.generateTeam(random.choice(types))
+    teamBLoc = team_generator.generateTeam(random.choice(types))
+
+    user1 = user.User("epsilonbot",  teamALoc, "CHALLENGE_USER", "epsilonbot2")
+    user2 = user.User("epsilonbot2", teamBLoc, "ACCEPT_CHALLENGE")
 
     loop = asyncio.get_event_loop()
 

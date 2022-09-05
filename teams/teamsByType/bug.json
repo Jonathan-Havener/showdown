@@ -1,0 +1,657 @@
+{
+    "Accelgor": {
+        "level": 86,
+        "abilities": [
+            "Sticky Hold"
+        ],
+        "items": [
+            "Choice Specs",
+            "Focus Sash",
+            "Heavy-Duty Boots",
+            "Leftovers",
+            "Life Orb"
+        ],
+        "moves": [
+            "Bug Buzz",
+            "Energy Ball",
+            "Focus Blast",
+            "Sludge Bomb",
+            "Spikes",
+            "Toxic",
+            "Yawn"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "bug"
+        ]
+    },
+    "Araquanid": {
+        "level": 80,
+        "abilities": [
+            "Water Bubble"
+        ],
+        "items": [
+            "Heavy-Duty Boots",
+            "Leftovers"
+        ],
+        "moves": [
+            "Leech Life",
+            "Liquidation",
+            "Mirror Coat",
+            "Sticky Web",
+            "Toxic"
+        ],
+        "types": [
+            "water",
+            "bug"
+        ]
+    },
+    "Armaldo": {
+        "level": 86,
+        "abilities": [
+            "Swift Swim"
+        ],
+        "items": [
+            "Choice Band",
+            "Heavy-Duty Boots",
+            "Life Orb"
+        ],
+        "moves": [
+            "Earthquake",
+            "Knock Off",
+            "Liquidation",
+            "Rapid Spin",
+            "Stealth Rock",
+            "Stone Edge",
+            "Swords Dance"
+        ],
+        "types": [
+            "rock",
+            "bug"
+        ]
+    },
+    "Butterfree": {
+        "level": 87,
+        "abilities": [
+            "Compound Eyes"
+        ],
+        "items": [
+            "Heavy-Duty Boots"
+        ],
+        "moves": [
+            "Energy Ball",
+            "Hurricane",
+            "Quiver Dance",
+            "Sleep Powder"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "bug",
+            "flying"
+        ]
+    },
+    "Buzzwole": {
+        "level": 77,
+        "abilities": [
+            "Beast Boost"
+        ],
+        "items": [
+            "Choice Band",
+            "Choice Scarf"
+        ],
+        "moves": [
+            "Close Combat",
+            "Darkest Lariat",
+            "Dual Wingbeat",
+            "Iron Head",
+            "Leech Life",
+            "Stone Edge"
+        ],
+        "types": [
+            "bug",
+            "fighting"
+        ]
+    },
+    "Centiskorch": {
+        "level": 84,
+        "abilities": [
+            "Flash Fire"
+        ],
+        "items": [
+            "Heavy-Duty Boots"
+        ],
+        "moves": [
+            "Coil",
+            "Fire Lash",
+            "Knock Off",
+            "Leech Life",
+            "Power Whip"
+        ],
+        "types": [
+            "fire",
+            "bug"
+        ]
+    },
+    "Crustle": {
+        "level": 82,
+        "abilities": [
+            "Sturdy"
+        ],
+        "items": [
+            "Heavy-Duty Boots",
+            "Leftovers",
+            "White Herb"
+        ],
+        "moves": [
+            "Earthquake",
+            "Shell Smash",
+            "Spikes",
+            "Stealth Rock",
+            "Stone Edge",
+            "X-Scissor"
+        ],
+        "types": [
+            "bug",
+            "rock"
+        ]
+    },
+    "Durant": {
+        "level": 78,
+        "abilities": [
+            "Hustle"
+        ],
+        "items": [
+            "Choice Band",
+            "Life Orb"
+        ],
+        "moves": [
+            "First Impression",
+            "Hone Claws",
+            "Iron Head",
+            "Rock Slide",
+            "Superpower"
+        ],
+        "types": [
+            "bug",
+            "steel"
+        ]
+    },
+    "Escavalier": {
+        "level": 84,
+        "abilities": [
+            "Overcoat",
+            "Swarm"
+        ],
+        "items": [
+            "Choice Band",
+            "Leftovers"
+        ],
+        "moves": [
+            "Close Combat",
+            "Drill Run",
+            "Iron Head",
+            "Knock Off",
+            "Megahorn",
+            "Swords Dance"
+        ],
+        "types": [
+            "bug",
+            "steel"
+        ]
+    },
+    "Frosmoth": {
+        "level": 82,
+        "abilities": [
+            "Ice Scales"
+        ],
+        "items": [
+            "Heavy-Duty Boots"
+        ],
+        "moves": [
+            "Bug Buzz",
+            "Giga Drain",
+            "Hurricane",
+            "Ice Beam",
+            "Quiver Dance"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "ice",
+            "bug"
+        ]
+    },
+    "Galvantula": {
+        "level": 82,
+        "abilities": [
+            "Compound Eyes"
+        ],
+        "items": [
+            "Choice Specs",
+            "Focus Sash",
+            "Heavy-Duty Boots",
+            "Life Orb"
+        ],
+        "moves": [
+            "Bug Buzz",
+            "Giga Drain",
+            "Sticky Web",
+            "Thunder",
+            "Volt Switch"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "bug",
+            "electric"
+        ]
+    },
+    "Genesect": {
+        "level": 74,
+        "abilities": [
+            "Download"
+        ],
+        "items": [
+            "Assault Vest",
+            "Choice Band",
+            "Life Orb"
+        ],
+        "moves": [
+            "Blaze Kick",
+            "Extreme Speed",
+            "Iron Head",
+            "Leech Life",
+            "Shift Gear",
+            "Thunderbolt",
+            "U-turn"
+        ],
+        "types": [
+            "bug",
+            "steel"
+        ]
+    },
+    "Golisopod": {
+        "level": 84,
+        "abilities": [
+            "Emergency Exit"
+        ],
+        "items": [
+            "Choice Band",
+            "Heavy-Duty Boots"
+        ],
+        "moves": [
+            "First Impression",
+            "Knock Off",
+            "Leech Life",
+            "Liquidation",
+            "Spikes"
+        ],
+        "types": [
+            "bug",
+            "water"
+        ]
+    },
+    "Heracross": {
+        "level": 82,
+        "abilities": [
+            "Guts"
+        ],
+        "items": [
+            "Flame Orb"
+        ],
+        "moves": [
+            "Close Combat",
+            "Facade",
+            "Knock Off",
+            "Megahorn"
+        ],
+        "types": [
+            "bug",
+            "fighting"
+        ]
+    },
+    "Ninjask": {
+        "level": 86,
+        "abilities": [
+            "Speed Boost"
+        ],
+        "moves": [
+            "Acrobatics",
+            "Leech Life",
+            "Swords Dance",
+            "U-turn"
+        ],
+        "types": [
+            "bug",
+            "flying"
+        ]
+    },
+    "Orbeetle": {
+        "level": 86,
+        "abilities": [
+            "Frisk"
+        ],
+        "items": [
+            "Heavy-Duty Boots",
+            "Leftovers"
+        ],
+        "moves": [
+            "Body Press",
+            "Bug Buzz",
+            "Calm Mind",
+            "Psychic",
+            "Recover",
+            "Sticky Web",
+            "U-turn"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "bug",
+            "psychic"
+        ]
+    },
+    "Pheromosa": {
+        "level": 76,
+        "abilities": [
+            "Beast Boost"
+        ],
+        "items": [
+            "Choice Band",
+            "Expert Belt",
+            "Focus Sash",
+            "Life Orb"
+        ],
+        "moves": [
+            "Close Combat",
+            "Ice Beam",
+            "Poison Jab",
+            "Throat Chop",
+            "U-turn"
+        ],
+        "types": [
+            "bug",
+            "fighting"
+        ]
+    },
+    "Pinsir": {
+        "level": 84,
+        "abilities": [
+            "Mold Breaker",
+            "Moxie"
+        ],
+        "items": [
+            "Choice Band",
+            "Choice Scarf",
+            "Focus Sash",
+            "Heavy-Duty Boots",
+            "Life Orb"
+        ],
+        "moves": [
+            "Close Combat",
+            "Earthquake",
+            "Knock Off",
+            "Stealth Rock",
+            "Stone Edge",
+            "X-Scissor"
+        ],
+        "types": [
+            "bug"
+        ]
+    },
+    "Ribombee": {
+        "level": 82,
+        "abilities": [
+            "Shield Dust",
+            "Sweet Veil"
+        ],
+        "items": [
+            "Focus Sash",
+            "Heavy-Duty Boots",
+            "Leftovers"
+        ],
+        "moves": [
+            "Moonblast",
+            "Psychic",
+            "Sticky Web",
+            "Stun Spore",
+            "U-turn"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "bug",
+            "fairy"
+        ]
+    },
+    "Scizor": {
+        "level": 80,
+        "abilities": [
+            "Technician"
+        ],
+        "items": [
+            "Choice Band",
+            "Leftovers",
+            "Life Orb"
+        ],
+        "moves": [
+            "Bullet Punch",
+            "Dual Wingbeat",
+            "Knock Off",
+            "Roost",
+            "Superpower",
+            "Swords Dance",
+            "U-turn"
+        ],
+        "types": [
+            "bug",
+            "steel"
+        ]
+    },
+    "Scolipede": {
+        "level": 80,
+        "abilities": [
+            "Speed Boost"
+        ],
+        "items": [
+            "Black Sludge",
+            "Focus Sash",
+            "Heavy-Duty Boots",
+            "Life Orb"
+        ],
+        "moves": [
+            "Earthquake",
+            "Megahorn",
+            "Poison Jab",
+            "Protect",
+            "Spikes",
+            "Swords Dance",
+            "Toxic Spikes"
+        ],
+        "types": [
+            "bug",
+            "poison"
+        ]
+    },
+    "Scyther": {
+        "level": 81,
+        "abilities": [
+            "Technician"
+        ],
+        "items": [
+            "Choice Band",
+            "Eviolite",
+            "Heavy-Duty Boots"
+        ],
+        "moves": [
+            "Brick Break",
+            "Dual Wingbeat",
+            "Knock Off",
+            "Roost",
+            "Swords Dance",
+            "U-turn"
+        ],
+        "types": [
+            "bug",
+            "flying"
+        ]
+    },
+    "Shedinja": {
+        "level": 88,
+        "abilities": [
+            "Wonder Guard"
+        ],
+        "items": [
+            "Focus Sash",
+            "Heavy-Duty Boots"
+        ],
+        "moves": [
+            "Poltergeist",
+            "Shadow Sneak",
+            "Swords Dance",
+            "Will-O-Wisp",
+            "X-Scissor"
+        ],
+        "types": [
+            "bug",
+            "ghost"
+        ]
+    },
+    "Shuckle": {
+        "level": 86,
+        "abilities": [
+            "Sturdy"
+        ],
+        "items": [
+            "Heavy-Duty Boots",
+            "Leftovers",
+            "Mental Herb"
+        ],
+        "moves": [
+            "Encore",
+            "Knock Off",
+            "Stealth Rock",
+            "Sticky Web",
+            "Toxic"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "bug",
+            "rock"
+        ]
+    },
+    "Vespiquen": {
+        "level": 96,
+        "abilities": [
+            "Pressure"
+        ],
+        "items": [
+            "Heavy-Duty Boots"
+        ],
+        "moves": [
+            "Air Slash",
+            "Defog",
+            "Roost",
+            "Toxic",
+            "U-turn"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "bug",
+            "flying"
+        ]
+    },
+    "Vikavolt": {
+        "level": 82,
+        "abilities": [
+            "Levitate"
+        ],
+        "items": [
+            "Choice Specs",
+            "Focus Sash",
+            "Heavy-Duty Boots",
+            "Leftovers"
+        ],
+        "moves": [
+            "Bug Buzz",
+            "Energy Ball",
+            "Roost",
+            "Sticky Web",
+            "Thunderbolt",
+            "Volt Switch"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "bug",
+            "electric"
+        ]
+    },
+    "Volcarona": {
+        "level": 76,
+        "abilities": [
+            "Flame Body",
+            "Swarm"
+        ],
+        "items": [
+            "Heavy-Duty Boots"
+        ],
+        "moves": [
+            "Bug Buzz",
+            "Fire Blast",
+            "Giga Drain",
+            "Quiver Dance",
+            "Roost"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "bug",
+            "fire"
+        ]
+    }
+}

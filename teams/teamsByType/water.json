@@ -1,0 +1,1332 @@
+{
+    "Araquanid": {
+        "level": 80,
+        "abilities": [
+            "Water Bubble"
+        ],
+        "items": [
+            "Heavy-Duty Boots",
+            "Leftovers"
+        ],
+        "moves": [
+            "Leech Life",
+            "Liquidation",
+            "Mirror Coat",
+            "Sticky Web",
+            "Toxic"
+        ],
+        "types": [
+            "water",
+            "bug"
+        ]
+    },
+    "Arctovish": {
+        "level": 86,
+        "abilities": [
+            "Slush Rush",
+            "Water Absorb"
+        ],
+        "items": [
+            "Assault Vest",
+            "Choice Band"
+        ],
+        "moves": [
+            "Body Slam",
+            "Fishious Rend",
+            "Freeze-Dry",
+            "Icicle Crash",
+            "Psychic Fangs"
+        ],
+        "types": [
+            "water",
+            "ice"
+        ]
+    },
+    "Azumarill": {
+        "level": 84,
+        "abilities": [
+            "Huge Power"
+        ],
+        "items": [
+            "Choice Band"
+        ],
+        "moves": [
+            "Aqua Jet",
+            "Knock Off",
+            "Liquidation",
+            "Play Rough",
+            "Superpower"
+        ],
+        "types": [
+            "water",
+            "fairy"
+        ]
+    },
+    "Barbaracle": {
+        "level": 80,
+        "abilities": [
+            "Tough Claws"
+        ],
+        "items": [
+            "Choice Band",
+            "Choice Scarf",
+            "White Herb"
+        ],
+        "moves": [
+            "Cross Chop",
+            "Earthquake",
+            "Liquidation",
+            "Shell Smash",
+            "Stone Edge"
+        ],
+        "types": [
+            "rock",
+            "water"
+        ]
+    },
+    "Barraskewda": {
+        "level": 80,
+        "abilities": [
+            "Swift Swim"
+        ],
+        "items": [
+            "Choice Band"
+        ],
+        "moves": [
+            "Close Combat",
+            "Crunch",
+            "Liquidation",
+            "Poison Jab",
+            "Psychic Fangs"
+        ],
+        "types": [
+            "water"
+        ]
+    },
+    "Basculin": {
+        "level": 86,
+        "abilities": [
+            "Adaptability"
+        ],
+        "items": [
+            "Choice Band"
+        ],
+        "moves": [
+            "Aqua Jet",
+            "Crunch",
+            "Flip Turn",
+            "Liquidation",
+            "Psychic Fangs",
+            "Superpower"
+        ],
+        "types": [
+            "water"
+        ]
+    },
+    "Blastoise": {
+        "level": 82,
+        "abilities": [
+            "Torrent"
+        ],
+        "items": [
+            "White Herb"
+        ],
+        "moves": [
+            "Earthquake",
+            "Hydro Pump",
+            "Ice Beam",
+            "Shell Smash"
+        ],
+        "types": [
+            "water"
+        ]
+    },
+    "Carracosta": {
+        "level": 84,
+        "abilities": [
+            "Solid Rock",
+            "Swift Swim"
+        ],
+        "items": [
+            "Weakness Policy",
+            "White Herb"
+        ],
+        "moves": [
+            "Aqua Jet",
+            "Hydro Pump",
+            "Shell Smash",
+            "Stone Edge",
+            "Superpower"
+        ],
+        "types": [
+            "water",
+            "rock"
+        ]
+    },
+    "Clawitzer": {
+        "level": 84,
+        "abilities": [
+            "Mega Launcher"
+        ],
+        "items": [
+            "Choice Specs"
+        ],
+        "moves": [
+            "Aura Sphere",
+            "Dark Pulse",
+            "Ice Beam",
+            "Scald",
+            "U-turn",
+            "Water Pulse"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "water"
+        ]
+    },
+    "Cloyster": {
+        "level": 80,
+        "abilities": [
+            "Skill Link"
+        ],
+        "items": [
+            "White Herb"
+        ],
+        "moves": [
+            "Explosion",
+            "Hydro Pump",
+            "Icicle Spear",
+            "Rock Blast",
+            "Shell Smash"
+        ],
+        "types": [
+            "water",
+            "ice"
+        ]
+    },
+    "Corsola": {
+        "level": 93,
+        "abilities": [
+            "Regenerator"
+        ],
+        "items": [
+            "Rocky Helmet"
+        ],
+        "moves": [
+            "Power Gem",
+            "Recover",
+            "Scald",
+            "Stealth Rock",
+            "Toxic"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "water",
+            "rock"
+        ]
+    },
+    "Cramorant": {
+        "level": 84,
+        "abilities": [
+            "Gulp Missile"
+        ],
+        "items": [
+            "Heavy-Duty Boots",
+            "Life Orb"
+        ],
+        "moves": [
+            "Brave Bird",
+            "Defog",
+            "Roost",
+            "Superpower",
+            "Surf"
+        ],
+        "types": [
+            "flying",
+            "water"
+        ]
+    },
+    "Crawdaunt": {
+        "level": 84,
+        "abilities": [
+            "Adaptability"
+        ],
+        "items": [
+            "Choice Band",
+            "Focus Sash",
+            "Life Orb"
+        ],
+        "moves": [
+            "Aqua Jet",
+            "Close Combat",
+            "Crabhammer",
+            "Dragon Dance",
+            "Knock Off"
+        ],
+        "types": [
+            "water",
+            "dark"
+        ]
+    },
+    "Dracovish": {
+        "level": 80,
+        "abilities": [
+            "Sand Rush",
+            "Strong Jaw"
+        ],
+        "items": [
+            "Choice Band"
+        ],
+        "moves": [
+            "Crunch",
+            "Fishious Rend",
+            "Ice Fang",
+            "Low Kick",
+            "Psychic Fangs"
+        ],
+        "types": [
+            "water",
+            "dragon"
+        ]
+    },
+    "Drednaw": {
+        "level": 84,
+        "abilities": [
+            "Swift Swim"
+        ],
+        "items": [
+            "Focus Sash",
+            "Life Orb"
+        ],
+        "moves": [
+            "Liquidation",
+            "Stealth Rock",
+            "Stone Edge",
+            "Superpower",
+            "Swords Dance"
+        ],
+        "types": [
+            "water",
+            "rock"
+        ]
+    },
+    "Gastrodon": {
+        "level": 84,
+        "abilities": [
+            "Storm Drain"
+        ],
+        "items": [
+            "Leftovers"
+        ],
+        "moves": [
+            "Clear Smog",
+            "Earthquake",
+            "Ice Beam",
+            "Recover",
+            "Scald",
+            "Toxic"
+        ],
+        "types": [
+            "water",
+            "ground"
+        ]
+    },
+    "Golduck": {
+        "level": 86,
+        "abilities": [
+            "Swift Swim"
+        ],
+        "items": [
+            "Choice Specs",
+            "Leftovers",
+            "Life Orb"
+        ],
+        "moves": [
+            "Calm Mind",
+            "Focus Blast",
+            "Ice Beam",
+            "Psyshock",
+            "Scald",
+            "Substitute"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "water"
+        ]
+    },
+    "Golisopod": {
+        "level": 84,
+        "abilities": [
+            "Emergency Exit"
+        ],
+        "items": [
+            "Choice Band",
+            "Heavy-Duty Boots"
+        ],
+        "moves": [
+            "First Impression",
+            "Knock Off",
+            "Leech Life",
+            "Liquidation",
+            "Spikes"
+        ],
+        "types": [
+            "bug",
+            "water"
+        ]
+    },
+    "Gyarados": {
+        "level": 76,
+        "abilities": [
+            "Intimidate",
+            "Moxie"
+        ],
+        "items": [
+            "Choice Band",
+            "Heavy-Duty Boots",
+            "Life Orb"
+        ],
+        "moves": [
+            "Bounce",
+            "Dragon Dance",
+            "Earthquake",
+            "Power Whip",
+            "Waterfall"
+        ],
+        "types": [
+            "water",
+            "flying"
+        ]
+    },
+    "Inteleon": {
+        "level": 80,
+        "abilities": [
+            "Torrent"
+        ],
+        "items": [
+            "Choice Specs"
+        ],
+        "moves": [
+            "Air Slash",
+            "Dark Pulse",
+            "Hydro Pump",
+            "Ice Beam",
+            "Scald",
+            "U-turn"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "water"
+        ]
+    },
+    "Jellicent": {
+        "level": 84,
+        "abilities": [
+            "Water Absorb"
+        ],
+        "items": [
+            "Leftovers"
+        ],
+        "moves": [
+            "Ice Beam",
+            "Recover",
+            "Scald",
+            "Shadow Ball",
+            "Toxic",
+            "Will-O-Wisp"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "water",
+            "ghost"
+        ]
+    },
+    "Kabutops": {
+        "level": 82,
+        "abilities": [
+            "Swift Swim"
+        ],
+        "items": [
+            "Assault Vest",
+            "Choice Band",
+            "Life Orb",
+            "Lum Berry"
+        ],
+        "moves": [
+            "Aqua Jet",
+            "Knock Off",
+            "Liquidation",
+            "Rapid Spin",
+            "Stone Edge",
+            "Swords Dance"
+        ],
+        "types": [
+            "rock",
+            "water"
+        ]
+    },
+    "Kingdra": {
+        "level": 82,
+        "abilities": [
+            "Swift Swim"
+        ],
+        "items": [
+            "Choice Specs",
+            "Life Orb"
+        ],
+        "moves": [
+            "Draco Meteor",
+            "Flip Turn",
+            "Hurricane",
+            "Hydro Pump",
+            "Rain Dance"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "water",
+            "dragon"
+        ]
+    },
+    "Kingler": {
+        "level": 84,
+        "abilities": [
+            "Sheer Force"
+        ],
+        "items": [
+            "Life Orb"
+        ],
+        "moves": [
+            "Agility",
+            "Liquidation",
+            "Rock Slide",
+            "Superpower",
+            "Swords Dance",
+            "X-Scissor"
+        ],
+        "types": [
+            "water"
+        ]
+    },
+    "Kyogre": {
+        "level": 72,
+        "abilities": [
+            "Drizzle"
+        ],
+        "items": [
+            "Choice Scarf",
+            "Choice Specs",
+            "Leftovers"
+        ],
+        "moves": [
+            "Calm Mind",
+            "Ice Beam",
+            "Origin Pulse",
+            "Thunder",
+            "Water Spout"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "water"
+        ]
+    },
+    "Lanturn": {
+        "level": 86,
+        "abilities": [
+            "Volt Absorb"
+        ],
+        "items": [
+            "Choice Specs",
+            "Leftovers",
+            "Life Orb"
+        ],
+        "moves": [
+            "Heal Bell",
+            "Ice Beam",
+            "Scald",
+            "Thunderbolt",
+            "Toxic",
+            "Volt Switch"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "water",
+            "electric"
+        ]
+    },
+    "Ludicolo": {
+        "level": 86,
+        "abilities": [
+            "Swift Swim"
+        ],
+        "items": [
+            "Choice Specs",
+            "Life Orb"
+        ],
+        "moves": [
+            "Giga Drain",
+            "Hydro Pump",
+            "Ice Beam",
+            "Rain Dance",
+            "Scald"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "water",
+            "grass"
+        ]
+    },
+    "Mantine": {
+        "level": 86,
+        "abilities": [
+            "Water Absorb"
+        ],
+        "items": [
+            "Heavy-Duty Boots",
+            "Leftovers"
+        ],
+        "moves": [
+            "Defog",
+            "Hurricane",
+            "Ice Beam",
+            "Roost",
+            "Scald",
+            "Toxic"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "water",
+            "flying"
+        ]
+    },
+    "Milotic": {
+        "level": 82,
+        "abilities": [
+            "Competitive",
+            "Marvel Scale"
+        ],
+        "items": [
+            "Leftovers"
+        ],
+        "moves": [
+            "Haze",
+            "Ice Beam",
+            "Recover",
+            "Scald",
+            "Toxic"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "water"
+        ]
+    },
+    "Octillery": {
+        "level": 86,
+        "abilities": [
+            "Moody"
+        ],
+        "items": [
+            "Choice Specs",
+            "Leftovers",
+            "Life Orb"
+        ],
+        "moves": [
+            "Energy Ball",
+            "Fire Blast",
+            "Gunk Shot",
+            "Hydro Pump",
+            "Ice Beam",
+            "Protect"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "water"
+        ]
+    },
+    "Omastar": {
+        "level": 82,
+        "abilities": [
+            "Swift Swim"
+        ],
+        "items": [
+            "Leftovers",
+            "Life Orb",
+            "White Herb"
+        ],
+        "moves": [
+            "Earth Power",
+            "Hydro Pump",
+            "Ice Beam",
+            "Shell Smash",
+            "Spikes",
+            "Stealth Rock"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "rock",
+            "water"
+        ]
+    },
+    "Palkia": {
+        "level": 74,
+        "abilities": [
+            "Pressure"
+        ],
+        "items": [
+            "Choice Scarf",
+            "Choice Specs",
+            "Lustrous Orb"
+        ],
+        "moves": [
+            "Draco Meteor",
+            "Fire Blast",
+            "Hydro Pump",
+            "Spacial Rend",
+            "Thunder Wave"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "water",
+            "dragon"
+        ]
+    },
+    "Pelipper": {
+        "level": 86,
+        "abilities": [
+            "Drizzle"
+        ],
+        "items": [
+            "Choice Specs",
+            "Heavy-Duty Boots"
+        ],
+        "moves": [
+            "Defog",
+            "Hurricane",
+            "Hydro Pump",
+            "Roost",
+            "Scald",
+            "U-turn"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "water",
+            "flying"
+        ]
+    },
+    "Politoed": {
+        "level": 86,
+        "abilities": [
+            "Drizzle"
+        ],
+        "items": [
+            "Chesto Berry",
+            "Leftovers"
+        ],
+        "moves": [
+            "Encore",
+            "Ice Beam",
+            "Protect",
+            "Rest",
+            "Scald",
+            "Toxic"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "water"
+        ]
+    },
+    "Poliwrath": {
+        "level": 84,
+        "abilities": [
+            "Swift Swim"
+        ],
+        "items": [
+            "Life Orb"
+        ],
+        "moves": [
+            "Close Combat",
+            "Darkest Lariat",
+            "Liquidation",
+            "Rain Dance"
+        ],
+        "types": [
+            "water",
+            "fighting"
+        ]
+    },
+    "Primarina": {
+        "level": 82,
+        "abilities": [
+            "Torrent"
+        ],
+        "items": [
+            "Choice Scarf",
+            "Choice Specs"
+        ],
+        "moves": [
+            "Energy Ball",
+            "Hydro Pump",
+            "Moonblast",
+            "Psychic",
+            "Sparkling Aria"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "water",
+            "fairy"
+        ]
+    },
+    "Pyukumuku": {
+        "level": 84,
+        "abilities": [
+            "Unaware"
+        ],
+        "items": [
+            "Leftovers"
+        ],
+        "moves": [
+            "Counter",
+            "Mirror Coat",
+            "Recover",
+            "Toxic"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "water"
+        ]
+    },
+    "Quagsire": {
+        "level": 84,
+        "abilities": [
+            "Unaware"
+        ],
+        "items": [
+            "Leftovers"
+        ],
+        "moves": [
+            "Earthquake",
+            "Ice Beam",
+            "Recover",
+            "Scald",
+            "Toxic"
+        ],
+        "types": [
+            "water",
+            "ground"
+        ]
+    },
+    "Qwilfish": {
+        "level": 84,
+        "abilities": [
+            "Intimidate"
+        ],
+        "items": [
+            "Black Sludge",
+            "Focus Sash"
+        ],
+        "moves": [
+            "Destiny Bond",
+            "Spikes",
+            "Taunt",
+            "Thunder Wave",
+            "Toxic Spikes",
+            "Waterfall"
+        ],
+        "types": [
+            "water",
+            "poison"
+        ]
+    },
+    "Relicanth": {
+        "level": 86,
+        "abilities": [
+            "Rock Head"
+        ],
+        "items": [
+            "Choice Band",
+            "Leftovers"
+        ],
+        "moves": [
+            "Body Press",
+            "Earthquake",
+            "Head Smash",
+            "Liquidation",
+            "Stealth Rock",
+            "Yawn"
+        ],
+        "types": [
+            "water",
+            "rock"
+        ]
+    },
+    "Seaking": {
+        "level": 88,
+        "abilities": [
+            "Lightning Rod",
+            "Swift Swim"
+        ],
+        "items": [
+            "Choice Band",
+            "Life Orb"
+        ],
+        "moves": [
+            "Drill Run",
+            "Knock Off",
+            "Megahorn",
+            "Swords Dance",
+            "Waterfall"
+        ],
+        "types": [
+            "water"
+        ]
+    },
+    "Seismitoad": {
+        "level": 84,
+        "abilities": [
+            "Swift Swim",
+            "Water Absorb"
+        ],
+        "items": [
+            "Life Orb"
+        ],
+        "moves": [
+            "Earthquake",
+            "Liquidation",
+            "Rain Dance",
+            "Sludge Bomb",
+            "Stealth Rock"
+        ],
+        "types": [
+            "water",
+            "ground"
+        ]
+    },
+    "Sharpedo": {
+        "level": 82,
+        "abilities": [
+            "Speed Boost"
+        ],
+        "items": [
+            "Life Orb"
+        ],
+        "moves": [
+            "Close Combat",
+            "Crunch",
+            "Hydro Pump",
+            "Protect"
+        ],
+        "types": [
+            "water",
+            "dark"
+        ]
+    },
+    "Slowbro": {
+        "level": 84,
+        "abilities": [
+            "Regenerator"
+        ],
+        "items": [
+            "Leftovers"
+        ],
+        "moves": [
+            "Future Sight",
+            "Ice Beam",
+            "Scald",
+            "Slack Off",
+            "Teleport",
+            "Thunder Wave"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "water",
+            "psychic"
+        ]
+    },
+    "Slowking": {
+        "level": 86,
+        "abilities": [
+            "Regenerator"
+        ],
+        "items": [
+            "Choice Specs",
+            "Leftovers"
+        ],
+        "moves": [
+            "Fire Blast",
+            "Future Sight",
+            "Psyshock",
+            "Scald",
+            "Slack Off",
+            "Teleport",
+            "Toxic",
+            "Trick"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "water",
+            "psychic"
+        ]
+    },
+    "Starmie": {
+        "level": 84,
+        "abilities": [
+            "Analytic",
+            "Natural Cure"
+        ],
+        "items": [
+            "Choice Specs",
+            "Heavy-Duty Boots",
+            "Leftovers",
+            "Life Orb"
+        ],
+        "moves": [
+            "Hydro Pump",
+            "Ice Beam",
+            "Psyshock",
+            "Rapid Spin",
+            "Recover",
+            "Scald",
+            "Thunderbolt"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "water",
+            "psychic"
+        ]
+    },
+    "Suicune": {
+        "level": 80,
+        "abilities": [
+            "Pressure"
+        ],
+        "items": [
+            "Chesto Berry",
+            "Leftovers"
+        ],
+        "moves": [
+            "Air Slash",
+            "Calm Mind",
+            "Ice Beam",
+            "Rest",
+            "Scald",
+            "Sleep Talk"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "water"
+        ]
+    },
+    "Swampert": {
+        "level": 80,
+        "abilities": [
+            "Torrent"
+        ],
+        "items": [
+            "Assault Vest",
+            "Leftovers"
+        ],
+        "moves": [
+            "Earthquake",
+            "Flip Turn",
+            "Ice Beam",
+            "Protect",
+            "Scald",
+            "Stealth Rock",
+            "Toxic"
+        ],
+        "types": [
+            "water",
+            "ground"
+        ]
+    },
+    "Tentacruel": {
+        "level": 84,
+        "abilities": [
+            "Clear Body",
+            "Liquid Ooze"
+        ],
+        "items": [
+            "Assault Vest",
+            "Black Sludge",
+            "Life Orb"
+        ],
+        "moves": [
+            "Haze",
+            "Knock Off",
+            "Rapid Spin",
+            "Scald",
+            "Sludge Bomb",
+            "Toxic Spikes"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "water",
+            "poison"
+        ]
+    },
+    "Toxapex": {
+        "level": 82,
+        "abilities": [
+            "Regenerator"
+        ],
+        "items": [
+            "Black Sludge"
+        ],
+        "moves": [
+            "Baneful Bunker",
+            "Haze",
+            "Recover",
+            "Scald",
+            "Toxic",
+            "Toxic Spikes"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "poison",
+            "water"
+        ]
+    },
+    "Vaporeon": {
+        "level": 84,
+        "abilities": [
+            "Water Absorb"
+        ],
+        "items": [
+            "Leftovers"
+        ],
+        "moves": [
+            "Heal Bell",
+            "Ice Beam",
+            "Protect",
+            "Scald",
+            "Toxic",
+            "Wish"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "water"
+        ]
+    },
+    "Volcanion": {
+        "level": 80,
+        "abilities": [
+            "Water Absorb"
+        ],
+        "items": [
+            "Choice Scarf",
+            "Choice Specs",
+            "Heavy-Duty Boots"
+        ],
+        "moves": [
+            "Defog",
+            "Earth Power",
+            "Flamethrower",
+            "Sludge Bomb",
+            "Steam Eruption"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "fire",
+            "water"
+        ]
+    },
+    "Wailord": {
+        "level": 90,
+        "abilities": [
+            "Water Veil"
+        ],
+        "items": [
+            "Choice Specs"
+        ],
+        "moves": [
+            "Hydro Pump",
+            "Hyper Voice",
+            "Ice Beam",
+            "Water Spout"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "water"
+        ]
+    },
+    "Walrein": {
+        "level": 86,
+        "abilities": [
+            "Thick Fat"
+        ],
+        "items": [
+            "Leftovers"
+        ],
+        "moves": [
+            "Ice Beam",
+            "Protect",
+            "Surf",
+            "Toxic"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "ice",
+            "water"
+        ]
+    },
+    "Whiscash": {
+        "level": 86,
+        "abilities": [
+            "Oblivious"
+        ],
+        "items": [
+            "Choice Band",
+            "Life Orb"
+        ],
+        "moves": [
+            "Dragon Dance",
+            "Earthquake",
+            "Liquidation",
+            "Stone Edge",
+            "Zen Headbutt"
+        ],
+        "types": [
+            "water",
+            "ground"
+        ]
+    }
+}

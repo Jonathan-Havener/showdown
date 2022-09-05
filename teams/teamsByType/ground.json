@@ -1,0 +1,682 @@
+{
+    "Claydol": {
+        "level": 86,
+        "abilities": [
+            "Levitate"
+        ],
+        "items": [
+            "Assault Vest",
+            "Leftovers"
+        ],
+        "moves": [
+            "Earthquake",
+            "Ice Beam",
+            "Psychic",
+            "Rapid Spin",
+            "Stealth Rock",
+            "Toxic"
+        ],
+        "types": [
+            "ground",
+            "psychic"
+        ]
+    },
+    "Diggersby": {
+        "level": 80,
+        "abilities": [
+            "Huge Power"
+        ],
+        "items": [
+            "Choice Band",
+            "Choice Scarf",
+            "Life Orb"
+        ],
+        "moves": [
+            "Body Slam",
+            "Earthquake",
+            "Knock Off",
+            "Quick Attack",
+            "Swords Dance",
+            "U-turn"
+        ],
+        "types": [
+            "normal",
+            "ground"
+        ]
+    },
+    "Dugtrio": {
+        "level": 82,
+        "abilities": [
+            "Arena Trap"
+        ],
+        "items": [
+            "Choice Band"
+        ],
+        "moves": [
+            "Earthquake",
+            "Memento",
+            "Stone Edge",
+            "Sucker Punch"
+        ],
+        "types": [
+            "ground"
+        ]
+    },
+    "Excadrill": {
+        "level": 78,
+        "abilities": [
+            "Mold Breaker",
+            "Sand Rush"
+        ],
+        "items": [
+            "Assault Vest",
+            "Leftovers",
+            "Life Orb"
+        ],
+        "moves": [
+            "Earthquake",
+            "Iron Head",
+            "Rapid Spin",
+            "Rock Slide",
+            "Swords Dance"
+        ],
+        "types": [
+            "ground",
+            "steel"
+        ]
+    },
+    "Flygon": {
+        "level": 80,
+        "abilities": [
+            "Levitate"
+        ],
+        "items": [
+            "Choice Band",
+            "Choice Scarf",
+            "Leftovers",
+            "Life Orb"
+        ],
+        "moves": [
+            "Defog",
+            "Dragon Dance",
+            "Earthquake",
+            "Fire Punch",
+            "Outrage",
+            "U-turn"
+        ],
+        "types": [
+            "ground",
+            "dragon"
+        ]
+    },
+    "Garchomp": {
+        "level": 74,
+        "abilities": [
+            "Rough Skin"
+        ],
+        "items": [
+            "Assault Vest",
+            "Choice Band",
+            "Choice Scarf",
+            "Lum Berry",
+            "Rocky Helmet"
+        ],
+        "moves": [
+            "Earthquake",
+            "Fire Blast",
+            "Fire Fang",
+            "Outrage",
+            "Stealth Rock",
+            "Stone Edge",
+            "Swords Dance"
+        ],
+        "types": [
+            "dragon",
+            "ground"
+        ]
+    },
+    "Gastrodon": {
+        "level": 84,
+        "abilities": [
+            "Storm Drain"
+        ],
+        "items": [
+            "Leftovers"
+        ],
+        "moves": [
+            "Clear Smog",
+            "Earthquake",
+            "Ice Beam",
+            "Recover",
+            "Scald",
+            "Toxic"
+        ],
+        "types": [
+            "water",
+            "ground"
+        ]
+    },
+    "Golurk": {
+        "level": 82,
+        "abilities": [
+            "No Guard"
+        ],
+        "items": [
+            "Choice Band",
+            "Life Orb"
+        ],
+        "moves": [
+            "Dynamic Punch",
+            "Earthquake",
+            "Poltergeist",
+            "Rock Polish",
+            "Stone Edge"
+        ],
+        "types": [
+            "ground",
+            "ghost"
+        ]
+    },
+    "Groudon": {
+        "level": 73,
+        "abilities": [
+            "Drought"
+        ],
+        "items": [
+            "Choice Band",
+            "Choice Scarf",
+            "Leftovers"
+        ],
+        "moves": [
+            "Heat Crash",
+            "Heavy Slam",
+            "Precipice Blades",
+            "Stealth Rock",
+            "Stone Edge",
+            "Swords Dance",
+            "Thunder Wave"
+        ],
+        "types": [
+            "ground"
+        ]
+    },
+    "Hippowdon": {
+        "level": 80,
+        "abilities": [
+            "Sand Stream"
+        ],
+        "items": [
+            "Leftovers"
+        ],
+        "moves": [
+            "Earthquake",
+            "Slack Off",
+            "Stealth Rock",
+            "Stone Edge",
+            "Toxic",
+            "Whirlwind"
+        ],
+        "types": [
+            "ground"
+        ]
+    },
+    "Krookodile": {
+        "level": 78,
+        "abilities": [
+            "Intimidate",
+            "Moxie"
+        ],
+        "items": [
+            "Choice Band",
+            "Choice Scarf",
+            "Focus Sash",
+            "Life Orb"
+        ],
+        "moves": [
+            "Close Combat",
+            "Earthquake",
+            "Knock Off",
+            "Stealth Rock",
+            "Stone Edge"
+        ],
+        "types": [
+            "ground",
+            "dark"
+        ]
+    },
+    "Landorus": {
+        "level": 76,
+        "abilities": [
+            "Sheer Force"
+        ],
+        "items": [
+            "Life Orb"
+        ],
+        "moves": [
+            "Earth Power",
+            "Focus Blast",
+            "Knock Off",
+            "Rock Polish",
+            "Rock Slide",
+            "Sludge Wave",
+            "Stealth Rock"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "ground",
+            "flying"
+        ]
+    },
+    "Mamoswine": {
+        "level": 80,
+        "abilities": [
+            "Thick Fat"
+        ],
+        "items": [
+            "Choice Band",
+            "Choice Scarf",
+            "Focus Sash",
+            "Life Orb"
+        ],
+        "moves": [
+            "Earthquake",
+            "Ice Shard",
+            "Icicle Crash",
+            "Knock Off",
+            "Stealth Rock",
+            "Superpower"
+        ],
+        "types": [
+            "ice",
+            "ground"
+        ]
+    },
+    "Marowak": {
+        "level": 86,
+        "abilities": [
+            "Battle Armor",
+            "Rock Head"
+        ],
+        "items": [
+            "Thick Club"
+        ],
+        "moves": [
+            "Double-Edge",
+            "Earthquake",
+            "Knock Off",
+            "Stealth Rock",
+            "Stone Edge",
+            "Swords Dance"
+        ],
+        "types": [
+            "ground"
+        ]
+    },
+    "Mudsdale": {
+        "level": 82,
+        "abilities": [
+            "Stamina"
+        ],
+        "items": [
+            "Choice Band",
+            "Leftovers"
+        ],
+        "moves": [
+            "Body Press",
+            "Earthquake",
+            "Heavy Slam",
+            "Rock Slide",
+            "Stealth Rock"
+        ],
+        "types": [
+            "ground"
+        ]
+    },
+    "Nidoking": {
+        "level": 82,
+        "abilities": [
+            "Sheer Force"
+        ],
+        "items": [
+            "Life Orb"
+        ],
+        "moves": [
+            "Earth Power",
+            "Ice Beam",
+            "Sludge Wave",
+            "Substitute",
+            "Superpower"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "poison",
+            "ground"
+        ]
+    },
+    "Nidoqueen": {
+        "level": 84,
+        "abilities": [
+            "Sheer Force"
+        ],
+        "items": [
+            "Life Orb"
+        ],
+        "moves": [
+            "Earth Power",
+            "Ice Beam",
+            "Sludge Wave",
+            "Stealth Rock",
+            "Toxic Spikes"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "poison",
+            "ground"
+        ]
+    },
+    "Palossand": {
+        "level": 86,
+        "abilities": [
+            "Sand Veil",
+            "Water Compaction"
+        ],
+        "items": [
+            "Leftovers"
+        ],
+        "moves": [
+            "Earth Power",
+            "Scorching Sands",
+            "Shadow Ball",
+            "Shore Up",
+            "Stealth Rock",
+            "Toxic"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "ghost",
+            "ground"
+        ]
+    },
+    "Quagsire": {
+        "level": 84,
+        "abilities": [
+            "Unaware"
+        ],
+        "items": [
+            "Leftovers"
+        ],
+        "moves": [
+            "Earthquake",
+            "Ice Beam",
+            "Recover",
+            "Scald",
+            "Toxic"
+        ],
+        "types": [
+            "water",
+            "ground"
+        ]
+    },
+    "Rhydon": {
+        "level": 87,
+        "abilities": [
+            "Lightning Rod",
+            "Reckless",
+            "Rock Head"
+        ],
+        "items": [
+            "Eviolite"
+        ],
+        "moves": [
+            "Earthquake",
+            "Megahorn",
+            "Stealth Rock",
+            "Stone Edge",
+            "Toxic"
+        ],
+        "types": [
+            "ground",
+            "rock"
+        ]
+    },
+    "Rhyperior": {
+        "level": 82,
+        "abilities": [
+            "Solid Rock"
+        ],
+        "items": [
+            "Choice Band",
+            "Weakness Policy"
+        ],
+        "moves": [
+            "Earthquake",
+            "Fire Punch",
+            "Megahorn",
+            "Rock Polish",
+            "Stone Edge"
+        ],
+        "types": [
+            "ground",
+            "rock"
+        ]
+    },
+    "Runerigus": {
+        "level": 84,
+        "abilities": [
+            "Wandering Spirit"
+        ],
+        "items": [
+            "Leftovers"
+        ],
+        "moves": [
+            "Earthquake",
+            "Haze",
+            "Poltergeist",
+            "Stealth Rock",
+            "Toxic Spikes",
+            "Will-O-Wisp"
+        ],
+        "types": [
+            "ground",
+            "ghost"
+        ]
+    },
+    "Sandaconda": {
+        "level": 84,
+        "abilities": [
+            "Shed Skin"
+        ],
+        "items": [
+            "Leftovers"
+        ],
+        "moves": [
+            "Coil",
+            "Earthquake",
+            "Glare",
+            "Rest",
+            "Stealth Rock",
+            "Stone Edge"
+        ],
+        "types": [
+            "ground"
+        ]
+    },
+    "Sandslash": {
+        "level": 86,
+        "abilities": [
+            "Sand Rush"
+        ],
+        "items": [
+            "Assault Vest",
+            "Focus Sash",
+            "Leftovers",
+            "Life Orb"
+        ],
+        "moves": [
+            "Earthquake",
+            "Knock Off",
+            "Rapid Spin",
+            "Spikes",
+            "Stealth Rock",
+            "Stone Edge",
+            "Swords Dance",
+            "Toxic"
+        ],
+        "types": [
+            "ground"
+        ]
+    },
+    "Seismitoad": {
+        "level": 84,
+        "abilities": [
+            "Swift Swim",
+            "Water Absorb"
+        ],
+        "items": [
+            "Life Orb"
+        ],
+        "moves": [
+            "Earthquake",
+            "Liquidation",
+            "Rain Dance",
+            "Sludge Bomb",
+            "Stealth Rock"
+        ],
+        "types": [
+            "water",
+            "ground"
+        ]
+    },
+    "Steelix": {
+        "level": 84,
+        "abilities": [
+            "Rock Head",
+            "Sturdy"
+        ],
+        "items": [
+            "Leftovers"
+        ],
+        "moves": [
+            "Dragon Dance",
+            "Earthquake",
+            "Head Smash",
+            "Heavy Slam",
+            "Stealth Rock",
+            "Toxic"
+        ],
+        "types": [
+            "steel",
+            "ground"
+        ]
+    },
+    "Stunfisk": {
+        "level": 84,
+        "abilities": [
+            "Static"
+        ],
+        "items": [
+            "Assault Vest",
+            "Leftovers"
+        ],
+        "moves": [
+            "Discharge",
+            "Earth Power",
+            "Foul Play",
+            "Sludge Bomb",
+            "Stealth Rock"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "ground",
+            "electric"
+        ]
+    },
+    "Swampert": {
+        "level": 80,
+        "abilities": [
+            "Torrent"
+        ],
+        "items": [
+            "Assault Vest",
+            "Leftovers"
+        ],
+        "moves": [
+            "Earthquake",
+            "Flip Turn",
+            "Ice Beam",
+            "Protect",
+            "Scald",
+            "Stealth Rock",
+            "Toxic"
+        ],
+        "types": [
+            "water",
+            "ground"
+        ]
+    },
+    "Whiscash": {
+        "level": 86,
+        "abilities": [
+            "Oblivious"
+        ],
+        "items": [
+            "Choice Band",
+            "Life Orb"
+        ],
+        "moves": [
+            "Dragon Dance",
+            "Earthquake",
+            "Liquidation",
+            "Stone Edge",
+            "Zen Headbutt"
+        ],
+        "types": [
+            "water",
+            "ground"
+        ]
+    },
+    "Zygarde": {
+        "level": 70,
+        "abilities": [
+            "Power Construct"
+        ],
+        "items": [
+            "Leftovers"
+        ],
+        "moves": [
+            "Dragon Dance",
+            "Outrage",
+            "Substitute",
+            "Thousand Arrows"
+        ],
+        "types": [
+            "dragon",
+            "ground"
+        ]
+    }
+}

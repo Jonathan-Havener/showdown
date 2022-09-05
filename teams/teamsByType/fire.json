@@ -1,0 +1,624 @@
+{
+    "Arcanine": {
+        "level": 82,
+        "abilities": [
+            "Flash Fire",
+            "Intimidate"
+        ],
+        "items": [
+            "Choice Band",
+            "Heavy-Duty Boots",
+            "Leftovers",
+            "Life Orb"
+        ],
+        "moves": [
+            "Close Combat",
+            "Extreme Speed",
+            "Flare Blitz",
+            "Morning Sun",
+            "Toxic",
+            "Wild Charge",
+            "Will-O-Wisp"
+        ],
+        "types": [
+            "fire"
+        ]
+    },
+    "Blacephalon": {
+        "level": 80,
+        "abilities": [
+            "Beast Boost"
+        ],
+        "items": [
+            "Choice Scarf",
+            "Focus Sash",
+            "Heavy-Duty Boots",
+            "Life Orb"
+        ],
+        "moves": [
+            "Calm Mind",
+            "Fire Blast",
+            "Psyshock",
+            "Shadow Ball",
+            "Trick"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "fire",
+            "ghost"
+        ]
+    },
+    "Blaziken": {
+        "level": 76,
+        "abilities": [
+            "Speed Boost"
+        ],
+        "items": [
+            "Choice Band",
+            "Life Orb"
+        ],
+        "moves": [
+            "Close Combat",
+            "Flare Blitz",
+            "Knock Off",
+            "Stone Edge",
+            "Swords Dance"
+        ],
+        "types": [
+            "fire",
+            "fighting"
+        ]
+    },
+    "Centiskorch": {
+        "level": 84,
+        "abilities": [
+            "Flash Fire"
+        ],
+        "items": [
+            "Heavy-Duty Boots"
+        ],
+        "moves": [
+            "Coil",
+            "Fire Lash",
+            "Knock Off",
+            "Leech Life",
+            "Power Whip"
+        ],
+        "types": [
+            "fire",
+            "bug"
+        ]
+    },
+    "Chandelure": {
+        "level": 82,
+        "abilities": [
+            "Flash Fire"
+        ],
+        "items": [
+            "Choice Scarf",
+            "Heavy-Duty Boots",
+            "Leftovers",
+            "Life Orb"
+        ],
+        "moves": [
+            "Calm Mind",
+            "Energy Ball",
+            "Fire Blast",
+            "Shadow Ball",
+            "Substitute",
+            "Trick"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "ghost",
+            "fire"
+        ]
+    },
+    "Charizard": {
+        "level": 82,
+        "abilities": [
+            "Solar Power"
+        ],
+        "items": [
+            "Heavy-Duty Boots"
+        ],
+        "moves": [
+            "Air Slash",
+            "Earthquake",
+            "Fire Blast",
+            "Focus Blast",
+            "Roost"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "fire",
+            "flying"
+        ]
+    },
+    "Cinderace": {
+        "level": 74,
+        "abilities": [
+            "Libero"
+        ],
+        "items": [
+            "Choice Band",
+            "Heavy-Duty Boots"
+        ],
+        "moves": [
+            "Court Change",
+            "Gunk Shot",
+            "High Jump Kick",
+            "Pyro Ball",
+            "U-turn",
+            "Zen Headbutt"
+        ],
+        "types": [
+            "fire"
+        ]
+    },
+    "Darmanitan": {
+        "level": 80,
+        "abilities": [
+            "Sheer Force"
+        ],
+        "items": [
+            "Life Orb"
+        ],
+        "moves": [
+            "Earthquake",
+            "Flare Blitz",
+            "Rock Slide",
+            "Superpower",
+            "U-turn"
+        ],
+        "types": [
+            "fire"
+        ]
+    },
+    "Entei": {
+        "level": 78,
+        "abilities": [
+            "Inner Focus"
+        ],
+        "items": [
+            "Choice Band"
+        ],
+        "moves": [
+            "Extreme Speed",
+            "Flare Blitz",
+            "Sacred Fire",
+            "Stomping Tantrum",
+            "Stone Edge"
+        ],
+        "types": [
+            "fire"
+        ]
+    },
+    "Flareon": {
+        "level": 86,
+        "abilities": [
+            "Guts"
+        ],
+        "items": [
+            "Toxic Orb"
+        ],
+        "moves": [
+            "Facade",
+            "Flame Charge",
+            "Flare Blitz",
+            "Quick Attack",
+            "Superpower"
+        ],
+        "evs": {
+            "hp": 81
+        },
+        "types": [
+            "fire"
+        ]
+    },
+    "Heatmor": {
+        "level": 90,
+        "abilities": [
+            "Flash Fire"
+        ],
+        "items": [
+            "Heavy-Duty Boots",
+            "Leftovers",
+            "Life Orb"
+        ],
+        "moves": [
+            "Fire Lash",
+            "Giga Drain",
+            "Knock Off",
+            "Substitute",
+            "Sucker Punch",
+            "Superpower"
+        ],
+        "types": [
+            "fire"
+        ]
+    },
+    "Heatran": {
+        "level": 78,
+        "abilities": [
+            "Flash Fire"
+        ],
+        "items": [
+            "Air Balloon",
+            "Leftovers"
+        ],
+        "moves": [
+            "Earth Power",
+            "Flash Cannon",
+            "Lava Plume",
+            "Protect",
+            "Stealth Rock",
+            "Taunt",
+            "Toxic"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "fire",
+            "steel"
+        ]
+    },
+    "Incineroar": {
+        "level": 80,
+        "abilities": [
+            "Intimidate"
+        ],
+        "items": [
+            "Choice Band",
+            "Choice Scarf",
+            "Heavy-Duty Boots"
+        ],
+        "moves": [
+            "Earthquake",
+            "Flare Blitz",
+            "Knock Off",
+            "Parting Shot",
+            "U-turn",
+            "Will-O-Wisp"
+        ],
+        "types": [
+            "fire",
+            "dark"
+        ]
+    },
+    "Magmortar": {
+        "level": 86,
+        "abilities": [
+            "Flame Body",
+            "Vital Spirit"
+        ],
+        "items": [
+            "Assault Vest",
+            "Choice Scarf",
+            "Choice Specs",
+            "Heavy-Duty Boots",
+            "Life Orb"
+        ],
+        "moves": [
+            "Earthquake",
+            "Fire Blast",
+            "Focus Blast",
+            "Psychic",
+            "Taunt",
+            "Thunderbolt"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "fire"
+        ]
+    },
+    "Moltres": {
+        "level": 80,
+        "abilities": [
+            "Flame Body",
+            "Pressure"
+        ],
+        "items": [
+            "Heavy-Duty Boots"
+        ],
+        "moves": [
+            "Air Slash",
+            "Defog",
+            "Fire Blast",
+            "Roost",
+            "U-turn"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "fire",
+            "flying"
+        ]
+    },
+    "Ninetales": {
+        "level": 82,
+        "abilities": [
+            "Drought"
+        ],
+        "items": [
+            "Heavy-Duty Boots",
+            "Leftovers",
+            "Life Orb"
+        ],
+        "moves": [
+            "Fire Blast",
+            "Nasty Plot",
+            "Scorching Sands",
+            "Solar Beam",
+            "Will-O-Wisp"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "fire"
+        ]
+    },
+    "Rapidash": {
+        "level": 84,
+        "abilities": [
+            "Flash Fire"
+        ],
+        "items": [
+            "Heavy-Duty Boots",
+            "Leftovers",
+            "Life Orb"
+        ],
+        "moves": [
+            "Flare Blitz",
+            "High Horsepower",
+            "Morning Sun",
+            "Swords Dance",
+            "Wild Charge",
+            "Will-O-Wisp"
+        ],
+        "types": [
+            "fire"
+        ]
+    },
+    "Reshiram": {
+        "level": 74,
+        "abilities": [
+            "Turboblaze"
+        ],
+        "items": [
+            "Assault Vest",
+            "Heavy-Duty Boots",
+            "Leftovers"
+        ],
+        "moves": [
+            "Blue Flare",
+            "Defog",
+            "Draco Meteor",
+            "Earth Power",
+            "Roost",
+            "Stone Edge",
+            "Toxic"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "dragon",
+            "fire"
+        ]
+    },
+    "Salazzle": {
+        "level": 82,
+        "abilities": [
+            "Corrosion"
+        ],
+        "items": [
+            "Black Sludge"
+        ],
+        "moves": [
+            "Flamethrower",
+            "Protect",
+            "Substitute",
+            "Toxic"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "poison",
+            "fire"
+        ]
+    },
+    "Talonflame": {
+        "level": 81,
+        "abilities": [
+            "Gale Wings"
+        ],
+        "items": [
+            "Heavy-Duty Boots"
+        ],
+        "moves": [
+            "Brave Bird",
+            "Defog",
+            "Flare Blitz",
+            "Roost",
+            "Swords Dance",
+            "U-turn"
+        ],
+        "types": [
+            "fire",
+            "flying"
+        ]
+    },
+    "Torkoal": {
+        "level": 86,
+        "abilities": [
+            "Drought"
+        ],
+        "items": [
+            "Heavy-Duty Boots",
+            "Leftovers"
+        ],
+        "moves": [
+            "Earthquake",
+            "Lava Plume",
+            "Rapid Spin",
+            "Solar Beam",
+            "Stealth Rock"
+        ],
+        "types": [
+            "fire"
+        ]
+    },
+    "Turtonator": {
+        "level": 84,
+        "abilities": [
+            "Shell Armor"
+        ],
+        "items": [
+            "Heavy-Duty Boots",
+            "Leftovers",
+            "White Herb"
+        ],
+        "moves": [
+            "Body Press",
+            "Draco Meteor",
+            "Earthquake",
+            "Fire Blast",
+            "Rapid Spin",
+            "Shell Smash",
+            "Will-O-Wisp"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "fire",
+            "dragon"
+        ]
+    },
+    "Victini": {
+        "level": 78,
+        "abilities": [
+            "Victory Star"
+        ],
+        "items": [
+            "Assault Vest",
+            "Choice Band",
+            "Choice Scarf",
+            "Choice Specs"
+        ],
+        "moves": [
+            "Blue Flare",
+            "Bolt Strike",
+            "Energy Ball",
+            "Glaciate",
+            "U-turn",
+            "V-create",
+            "Zen Headbutt"
+        ],
+        "evs": {
+            "hp": 81
+        },
+        "types": [
+            "psychic",
+            "fire"
+        ]
+    },
+    "Volcanion": {
+        "level": 80,
+        "abilities": [
+            "Water Absorb"
+        ],
+        "items": [
+            "Choice Scarf",
+            "Choice Specs",
+            "Heavy-Duty Boots"
+        ],
+        "moves": [
+            "Defog",
+            "Earth Power",
+            "Flamethrower",
+            "Sludge Bomb",
+            "Steam Eruption"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "fire",
+            "water"
+        ]
+    },
+    "Volcarona": {
+        "level": 76,
+        "abilities": [
+            "Flame Body",
+            "Swarm"
+        ],
+        "items": [
+            "Heavy-Duty Boots"
+        ],
+        "moves": [
+            "Bug Buzz",
+            "Fire Blast",
+            "Giga Drain",
+            "Quiver Dance",
+            "Roost"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "bug",
+            "fire"
+        ]
+    }
+}

@@ -108,6 +108,11 @@ understanding of Pokeon sets that may appear in gen8ou.
 Still uses the `safest` decision making method for picking a move, but in theory the knowledge of sets should
 result in better decision making.
 
+### Pokemon Mode
+Options include
+gen8ou
+gen8randombattle
+
 ### Most Damage
 use `BATTLE_BOT=most_damage`
 

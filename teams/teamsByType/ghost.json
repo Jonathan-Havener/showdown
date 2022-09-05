@@ -1,0 +1,685 @@
+{
+    "Aegislash": {
+        "level": 80,
+        "abilities": [
+            "Stance Change"
+        ],
+        "items": [
+            "Leftovers",
+            "Life Orb"
+        ],
+        "moves": [
+            "Close Combat",
+            "Flash Cannon",
+            "King's Shield",
+            "Shadow Ball",
+            "Shadow Sneak",
+            "Substitute",
+            "Toxic"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "steel",
+            "ghost"
+        ]
+    },
+    "Blacephalon": {
+        "level": 80,
+        "abilities": [
+            "Beast Boost"
+        ],
+        "items": [
+            "Choice Scarf",
+            "Focus Sash",
+            "Heavy-Duty Boots",
+            "Life Orb"
+        ],
+        "moves": [
+            "Calm Mind",
+            "Fire Blast",
+            "Psyshock",
+            "Shadow Ball",
+            "Trick"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "fire",
+            "ghost"
+        ]
+    },
+    "Chandelure": {
+        "level": 82,
+        "abilities": [
+            "Flash Fire"
+        ],
+        "items": [
+            "Choice Scarf",
+            "Heavy-Duty Boots",
+            "Leftovers",
+            "Life Orb"
+        ],
+        "moves": [
+            "Calm Mind",
+            "Energy Ball",
+            "Fire Blast",
+            "Shadow Ball",
+            "Substitute",
+            "Trick"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "ghost",
+            "fire"
+        ]
+    },
+    "Cofagrigus": {
+        "level": 86,
+        "abilities": [
+            "Mummy"
+        ],
+        "items": [
+            "Leftovers"
+        ],
+        "moves": [
+            "Body Press",
+            "Memento",
+            "Shadow Ball",
+            "Toxic Spikes",
+            "Will-O-Wisp"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "ghost"
+        ]
+    },
+    "Cursola": {
+        "level": 86,
+        "abilities": [
+            "Perish Body",
+            "Weak Armor"
+        ],
+        "items": [
+            "Choice Specs",
+            "Focus Sash",
+            "Leftovers"
+        ],
+        "moves": [
+            "Earth Power",
+            "Hydro Pump",
+            "Ice Beam",
+            "Shadow Ball",
+            "Stealth Rock",
+            "Strength Sap"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "ghost"
+        ]
+    },
+    "Decidueye": {
+        "level": 86,
+        "abilities": [
+            "Overgrow"
+        ],
+        "items": [
+            "Choice Band",
+            "Life Orb",
+            "Lum Berry"
+        ],
+        "moves": [
+            "Brave Bird",
+            "Leaf Blade",
+            "Poltergeist",
+            "Roost",
+            "Shadow Sneak",
+            "Swords Dance"
+        ],
+        "types": [
+            "grass",
+            "ghost"
+        ]
+    },
+    "Dhelmise": {
+        "level": 86,
+        "abilities": [
+            "Steelworker"
+        ],
+        "items": [
+            "Assault Vest",
+            "Choice Band",
+            "Lum Berry"
+        ],
+        "moves": [
+            "Anchor Shot",
+            "Earthquake",
+            "Poltergeist",
+            "Power Whip",
+            "Rapid Spin",
+            "Swords Dance"
+        ],
+        "types": [
+            "ghost",
+            "grass"
+        ]
+    },
+    "Doublade": {
+        "level": 82,
+        "abilities": [
+            "No Guard"
+        ],
+        "items": [
+            "Eviolite"
+        ],
+        "moves": [
+            "Close Combat",
+            "Iron Head",
+            "Shadow Claw",
+            "Shadow Sneak",
+            "Swords Dance"
+        ],
+        "types": [
+            "steel",
+            "ghost"
+        ]
+    },
+    "Dragapult": {
+        "level": 78,
+        "abilities": [
+            "Clear Body",
+            "Infiltrator"
+        ],
+        "items": [
+            "Choice Specs"
+        ],
+        "moves": [
+            "Draco Meteor",
+            "Fire Blast",
+            "Shadow Ball",
+            "Thunderbolt",
+            "U-turn"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "dragon",
+            "ghost"
+        ]
+    },
+    "Drifblim": {
+        "level": 84,
+        "abilities": [
+            "Unburden"
+        ],
+        "items": [
+            "Sitrus Berry"
+        ],
+        "moves": [
+            "Calm Mind",
+            "Shadow Ball",
+            "Strength Sap",
+            "Thunderbolt"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "ghost",
+            "flying"
+        ]
+    },
+    "Dusknoir": {
+        "level": 86,
+        "abilities": [
+            "Frisk",
+            "Pressure"
+        ],
+        "items": [
+            "Choice Band",
+            "Leftovers"
+        ],
+        "moves": [
+            "Earthquake",
+            "Ice Punch",
+            "Pain Split",
+            "Poltergeist",
+            "Shadow Sneak",
+            "Trick",
+            "Will-O-Wisp"
+        ],
+        "types": [
+            "ghost"
+        ]
+    },
+    "Froslass": {
+        "level": 84,
+        "abilities": [
+            "Cursed Body"
+        ],
+        "items": [
+            "Wide Lens"
+        ],
+        "moves": [
+            "Destiny Bond",
+            "Poltergeist",
+            "Spikes",
+            "Taunt",
+            "Triple Axel",
+            "Will-O-Wisp"
+        ],
+        "types": [
+            "ice",
+            "ghost"
+        ]
+    },
+    "Giratina": {
+        "level": 74,
+        "abilities": [
+            "Pressure"
+        ],
+        "items": [
+            "Chesto Berry",
+            "Leftovers"
+        ],
+        "moves": [
+            "Hex",
+            "Rest",
+            "Sleep Talk",
+            "Toxic",
+            "Will-O-Wisp"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "ghost",
+            "dragon"
+        ]
+    },
+    "Golurk": {
+        "level": 82,
+        "abilities": [
+            "No Guard"
+        ],
+        "items": [
+            "Choice Band",
+            "Life Orb"
+        ],
+        "moves": [
+            "Dynamic Punch",
+            "Earthquake",
+            "Poltergeist",
+            "Rock Polish",
+            "Stone Edge"
+        ],
+        "types": [
+            "ground",
+            "ghost"
+        ]
+    },
+    "Gourgeist": {
+        "level": 84,
+        "abilities": [
+            "Frisk"
+        ],
+        "items": [
+            "Leftovers",
+            "Life Orb"
+        ],
+        "moves": [
+            "Poltergeist",
+            "Power Whip",
+            "Shadow Sneak",
+            "Synthesis",
+            "Will-O-Wisp"
+        ],
+        "types": [
+            "ghost",
+            "grass"
+        ]
+    },
+    "Jellicent": {
+        "level": 84,
+        "abilities": [
+            "Water Absorb"
+        ],
+        "items": [
+            "Leftovers"
+        ],
+        "moves": [
+            "Ice Beam",
+            "Recover",
+            "Scald",
+            "Shadow Ball",
+            "Toxic",
+            "Will-O-Wisp"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "water",
+            "ghost"
+        ]
+    },
+    "Lunala": {
+        "level": 72,
+        "abilities": [
+            "Shadow Shield"
+        ],
+        "items": [
+            "Leftovers"
+        ],
+        "moves": [
+            "Calm Mind",
+            "Moonblast",
+            "Moongeist Beam",
+            "Psyshock",
+            "Roost"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "psychic",
+            "ghost"
+        ]
+    },
+    "Marshadow": {
+        "level": 70,
+        "abilities": [
+            "Technician"
+        ],
+        "items": [
+            "Choice Band",
+            "Life Orb"
+        ],
+        "moves": [
+            "Bulk Up",
+            "Close Combat",
+            "Ice Punch",
+            "Rock Tomb",
+            "Shadow Sneak",
+            "Spectral Thief"
+        ],
+        "types": [
+            "fighting",
+            "ghost"
+        ]
+    },
+    "Mimikyu": {
+        "level": 76,
+        "abilities": [
+            "Disguise"
+        ],
+        "items": [
+            "Life Orb"
+        ],
+        "moves": [
+            "Drain Punch",
+            "Play Rough",
+            "Shadow Claw",
+            "Shadow Sneak",
+            "Swords Dance"
+        ],
+        "types": [
+            "ghost",
+            "fairy"
+        ]
+    },
+    "Palossand": {
+        "level": 86,
+        "abilities": [
+            "Sand Veil",
+            "Water Compaction"
+        ],
+        "items": [
+            "Leftovers"
+        ],
+        "moves": [
+            "Earth Power",
+            "Scorching Sands",
+            "Shadow Ball",
+            "Shore Up",
+            "Stealth Rock",
+            "Toxic"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "ghost",
+            "ground"
+        ]
+    },
+    "Polteageist": {
+        "level": 78,
+        "abilities": [
+            "Cursed Body"
+        ],
+        "items": [
+            "White Herb"
+        ],
+        "moves": [
+            "Giga Drain",
+            "Shadow Ball",
+            "Shell Smash",
+            "Stored Power",
+            "Strength Sap"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "ghost"
+        ]
+    },
+    "Rotom": {
+        "level": 84,
+        "abilities": [
+            "Levitate"
+        ],
+        "items": [
+            "Focus Sash",
+            "Leftovers",
+            "Life Orb"
+        ],
+        "moves": [
+            "Nasty Plot",
+            "Shadow Ball",
+            "Thunderbolt",
+            "Volt Switch",
+            "Will-O-Wisp"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "electric",
+            "ghost"
+        ]
+    },
+    "Runerigus": {
+        "level": 84,
+        "abilities": [
+            "Wandering Spirit"
+        ],
+        "items": [
+            "Leftovers"
+        ],
+        "moves": [
+            "Earthquake",
+            "Haze",
+            "Poltergeist",
+            "Stealth Rock",
+            "Toxic Spikes",
+            "Will-O-Wisp"
+        ],
+        "types": [
+            "ground",
+            "ghost"
+        ]
+    },
+    "Sableye": {
+        "level": 88,
+        "abilities": [
+            "Prankster"
+        ],
+        "items": [
+            "Leftovers"
+        ],
+        "moves": [
+            "Knock Off",
+            "Recover",
+            "Taunt",
+            "Toxic",
+            "Will-O-Wisp"
+        ],
+        "types": [
+            "dark",
+            "ghost"
+        ]
+    },
+    "Shedinja": {
+        "level": 88,
+        "abilities": [
+            "Wonder Guard"
+        ],
+        "items": [
+            "Focus Sash",
+            "Heavy-Duty Boots"
+        ],
+        "moves": [
+            "Poltergeist",
+            "Shadow Sneak",
+            "Swords Dance",
+            "Will-O-Wisp",
+            "X-Scissor"
+        ],
+        "types": [
+            "bug",
+            "ghost"
+        ]
+    },
+    "Spectrier": {
+        "level": 74,
+        "abilities": [
+            "Grim Neigh"
+        ],
+        "items": [
+            "Leftovers"
+        ],
+        "moves": [
+            "Dark Pulse",
+            "Nasty Plot",
+            "Shadow Ball",
+            "Substitute"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "ghost"
+        ]
+    },
+    "Spiritomb": {
+        "level": 88,
+        "abilities": [
+            "Infiltrator"
+        ],
+        "items": [
+            "Choice Band"
+        ],
+        "moves": [
+            "Foul Play",
+            "Poltergeist",
+            "Shadow Sneak",
+            "Sucker Punch",
+            "Trick"
+        ],
+        "types": [
+            "ghost",
+            "dark"
+        ]
+    },
+    "Trevenant": {
+        "level": 86,
+        "abilities": [
+            "Natural Cure"
+        ],
+        "items": [
+            "Choice Band",
+            "Life Orb"
+        ],
+        "moves": [
+            "Earthquake",
+            "Horn Leech",
+            "Poltergeist",
+            "Rock Slide",
+            "Trick Room",
+            "Wood Hammer"
+        ],
+        "evs": {
+            "spe": 0
+        },
+        "ivs": {
+            "spe": 0
+        },
+        "types": [
+            "ghost",
+            "grass"
+        ]
+    }
+}

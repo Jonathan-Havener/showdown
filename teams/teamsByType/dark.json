@@ -1,0 +1,665 @@
+{
+    "Absol": {
+        "level": 84,
+        "abilities": [
+            "Justified"
+        ],
+        "items": [
+            "Choice Band",
+            "Focus Sash",
+            "Life Orb"
+        ],
+        "moves": [
+            "Close Combat",
+            "Knock Off",
+            "Play Rough",
+            "Sucker Punch",
+            "Swords Dance"
+        ],
+        "types": [
+            "dark"
+        ]
+    },
+    "Bisharp": {
+        "level": 80,
+        "abilities": [
+            "Defiant"
+        ],
+        "items": [
+            "Focus Sash",
+            "Life Orb"
+        ],
+        "moves": [
+            "Iron Head",
+            "Knock Off",
+            "Stealth Rock",
+            "Sucker Punch",
+            "Swords Dance"
+        ],
+        "types": [
+            "dark",
+            "steel"
+        ]
+    },
+    "Crawdaunt": {
+        "level": 84,
+        "abilities": [
+            "Adaptability"
+        ],
+        "items": [
+            "Choice Band",
+            "Focus Sash",
+            "Life Orb"
+        ],
+        "moves": [
+            "Aqua Jet",
+            "Close Combat",
+            "Crabhammer",
+            "Dragon Dance",
+            "Knock Off"
+        ],
+        "types": [
+            "water",
+            "dark"
+        ]
+    },
+    "Drapion": {
+        "level": 82,
+        "abilities": [
+            "Sniper"
+        ],
+        "items": [
+            "Black Sludge",
+            "Choice Band",
+            "Life Orb"
+        ],
+        "moves": [
+            "Aqua Tail",
+            "Earthquake",
+            "Knock Off",
+            "Poison Jab",
+            "Swords Dance",
+            "Taunt",
+            "Toxic Spikes"
+        ],
+        "types": [
+            "poison",
+            "dark"
+        ]
+    },
+    "Grimmsnarl": {
+        "level": 82,
+        "abilities": [
+            "Prankster"
+        ],
+        "items": [
+            "Leftovers",
+            "Light Clay"
+        ],
+        "moves": [
+            "Light Screen",
+            "Reflect",
+            "Spirit Break",
+            "Taunt",
+            "Thunder Wave"
+        ],
+        "types": [
+            "dark",
+            "fairy"
+        ]
+    },
+    "Guzzlord": {
+        "level": 84,
+        "abilities": [
+            "Beast Boost"
+        ],
+        "items": [
+            "Assault Vest",
+            "Choice Specs"
+        ],
+        "moves": [
+            "Dark Pulse",
+            "Draco Meteor",
+            "Fire Blast",
+            "Knock Off",
+            "Sludge Bomb"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "dark",
+            "dragon"
+        ]
+    },
+    "Hydreigon": {
+        "level": 80,
+        "abilities": [
+            "Levitate"
+        ],
+        "items": [
+            "Choice Scarf",
+            "Choice Specs",
+            "Leftovers",
+            "Life Orb"
+        ],
+        "moves": [
+            "Dark Pulse",
+            "Draco Meteor",
+            "Fire Blast",
+            "Flash Cannon",
+            "Nasty Plot",
+            "Roost",
+            "U-turn"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "dark",
+            "dragon"
+        ]
+    },
+    "Incineroar": {
+        "level": 80,
+        "abilities": [
+            "Intimidate"
+        ],
+        "items": [
+            "Choice Band",
+            "Choice Scarf",
+            "Heavy-Duty Boots"
+        ],
+        "moves": [
+            "Earthquake",
+            "Flare Blitz",
+            "Knock Off",
+            "Parting Shot",
+            "U-turn",
+            "Will-O-Wisp"
+        ],
+        "types": [
+            "fire",
+            "dark"
+        ]
+    },
+    "Krookodile": {
+        "level": 78,
+        "abilities": [
+            "Intimidate",
+            "Moxie"
+        ],
+        "items": [
+            "Choice Band",
+            "Choice Scarf",
+            "Focus Sash",
+            "Life Orb"
+        ],
+        "moves": [
+            "Close Combat",
+            "Earthquake",
+            "Knock Off",
+            "Stealth Rock",
+            "Stone Edge"
+        ],
+        "types": [
+            "ground",
+            "dark"
+        ]
+    },
+    "Liepard": {
+        "level": 86,
+        "abilities": [
+            "Prankster"
+        ],
+        "items": [
+            "Choice Band",
+            "Focus Sash",
+            "Leftovers"
+        ],
+        "moves": [
+            "Copycat",
+            "Encore",
+            "Knock Off",
+            "Play Rough",
+            "Thunder Wave",
+            "U-turn"
+        ],
+        "types": [
+            "dark"
+        ]
+    },
+    "Malamar": {
+        "level": 80,
+        "abilities": [
+            "Contrary"
+        ],
+        "items": [
+            "Chesto Berry",
+            "Leftovers"
+        ],
+        "moves": [
+            "Knock Off",
+            "Psycho Cut",
+            "Rest",
+            "Sleep Talk",
+            "Substitute",
+            "Superpower"
+        ],
+        "types": [
+            "dark",
+            "psychic"
+        ]
+    },
+    "Mandibuzz": {
+        "level": 82,
+        "abilities": [
+            "Overcoat"
+        ],
+        "items": [
+            "Heavy-Duty Boots",
+            "Leftovers"
+        ],
+        "moves": [
+            "Brave Bird",
+            "Defog",
+            "Foul Play",
+            "Roost",
+            "Toxic"
+        ],
+        "types": [
+            "dark",
+            "flying"
+        ]
+    },
+    "Morpeko": {
+        "level": 86,
+        "abilities": [
+            "Hunger Switch"
+        ],
+        "items": [
+            "Choice Band",
+            "Focus Sash",
+            "Leftovers"
+        ],
+        "moves": [
+            "Aura Wheel",
+            "Foul Play",
+            "Parting Shot",
+            "Protect",
+            "Psychic Fangs",
+            "Rapid Spin"
+        ],
+        "types": [
+            "electric",
+            "dark"
+        ]
+    },
+    "Obstagoon": {
+        "level": 80,
+        "abilities": [
+            "Guts"
+        ],
+        "items": [
+            "Flame Orb"
+        ],
+        "moves": [
+            "Bulk Up",
+            "Close Combat",
+            "Facade",
+            "Knock Off",
+            "Parting Shot"
+        ],
+        "types": [
+            "dark",
+            "normal"
+        ]
+    },
+    "Pangoro": {
+        "level": 84,
+        "abilities": [
+            "Scrappy"
+        ],
+        "items": [
+            "Choice Band"
+        ],
+        "moves": [
+            "Close Combat",
+            "Gunk Shot",
+            "Ice Punch",
+            "Knock Off",
+            "Parting Shot"
+        ],
+        "types": [
+            "fighting",
+            "dark"
+        ]
+    },
+    "Sableye": {
+        "level": 88,
+        "abilities": [
+            "Prankster"
+        ],
+        "items": [
+            "Leftovers"
+        ],
+        "moves": [
+            "Knock Off",
+            "Recover",
+            "Taunt",
+            "Toxic",
+            "Will-O-Wisp"
+        ],
+        "types": [
+            "dark",
+            "ghost"
+        ]
+    },
+    "Scrafty": {
+        "level": 82,
+        "abilities": [
+            "Intimidate",
+            "Moxie"
+        ],
+        "items": [
+            "Choice Band",
+            "Lum Berry"
+        ],
+        "moves": [
+            "Close Combat",
+            "Dragon Dance",
+            "Ice Punch",
+            "Knock Off",
+            "Poison Jab"
+        ],
+        "types": [
+            "dark",
+            "fighting"
+        ]
+    },
+    "Sharpedo": {
+        "level": 82,
+        "abilities": [
+            "Speed Boost"
+        ],
+        "items": [
+            "Life Orb"
+        ],
+        "moves": [
+            "Close Combat",
+            "Crunch",
+            "Hydro Pump",
+            "Protect"
+        ],
+        "types": [
+            "water",
+            "dark"
+        ]
+    },
+    "Shiftry": {
+        "level": 86,
+        "abilities": [
+            "Chlorophyll"
+        ],
+        "items": [
+            "Focus Sash",
+            "Life Orb"
+        ],
+        "moves": [
+            "Dark Pulse",
+            "Defog",
+            "Heat Wave",
+            "Leaf Storm",
+            "Nasty Plot",
+            "Sucker Punch"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "grass",
+            "dark"
+        ]
+    },
+    "Skuntank": {
+        "level": 85,
+        "abilities": [
+            "Aftermath"
+        ],
+        "items": [
+            "Black Sludge",
+            "Life Orb"
+        ],
+        "moves": [
+            "Crunch",
+            "Defog",
+            "Fire Blast",
+            "Poison Jab",
+            "Sucker Punch",
+            "Taunt",
+            "Toxic"
+        ],
+        "types": [
+            "poison",
+            "dark"
+        ]
+    },
+    "Spiritomb": {
+        "level": 88,
+        "abilities": [
+            "Infiltrator"
+        ],
+        "items": [
+            "Choice Band"
+        ],
+        "moves": [
+            "Foul Play",
+            "Poltergeist",
+            "Shadow Sneak",
+            "Sucker Punch",
+            "Trick"
+        ],
+        "types": [
+            "ghost",
+            "dark"
+        ]
+    },
+    "Thievul": {
+        "level": 86,
+        "abilities": [
+            "Stakeout"
+        ],
+        "items": [
+            "Choice Specs",
+            "Expert Belt",
+            "Leftovers",
+            "Life Orb"
+        ],
+        "moves": [
+            "Dark Pulse",
+            "Foul Play",
+            "Grass Knot",
+            "Nasty Plot",
+            "Parting Shot",
+            "Psychic"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "dark"
+        ]
+    },
+    "Tyranitar": {
+        "level": 78,
+        "abilities": [
+            "Sand Stream"
+        ],
+        "items": [
+            "Choice Band",
+            "Choice Scarf",
+            "Leftovers",
+            "Lum Berry"
+        ],
+        "moves": [
+            "Crunch",
+            "Dragon Dance",
+            "Earthquake",
+            "Fire Punch",
+            "Stealth Rock",
+            "Stone Edge"
+        ],
+        "types": [
+            "rock",
+            "dark"
+        ]
+    },
+    "Umbreon": {
+        "level": 82,
+        "abilities": [
+            "Synchronize"
+        ],
+        "items": [
+            "Leftovers"
+        ],
+        "moves": [
+            "Foul Play",
+            "Protect",
+            "Toxic",
+            "Wish"
+        ],
+        "types": [
+            "dark"
+        ]
+    },
+    "Urshifu": {
+        "level": 76,
+        "abilities": [
+            "Unseen Fist"
+        ],
+        "items": [
+            "Choice Band",
+            "Choice Scarf"
+        ],
+        "moves": [
+            "Close Combat",
+            "Iron Head",
+            "Sucker Punch",
+            "U-turn",
+            "Wicked Blow"
+        ],
+        "types": [
+            "fighting",
+            "dark"
+        ]
+    },
+    "Weavile": {
+        "level": 79,
+        "abilities": [
+            "Pickpocket"
+        ],
+        "items": [
+            "Choice Band",
+            "Heavy-Duty Boots",
+            "Life Orb"
+        ],
+        "moves": [
+            "Ice Shard",
+            "Knock Off",
+            "Low Kick",
+            "Swords Dance",
+            "Triple Axel"
+        ],
+        "types": [
+            "dark",
+            "ice"
+        ]
+    },
+    "Yveltal": {
+        "level": 69,
+        "abilities": [
+            "Dark Aura"
+        ],
+        "items": [
+            "Assault Vest",
+            "Heavy-Duty Boots",
+            "Leftovers",
+            "Life Orb"
+        ],
+        "moves": [
+            "Defog",
+            "Heat Wave",
+            "Knock Off",
+            "Oblivion Wing",
+            "Roost",
+            "Sucker Punch",
+            "Taunt"
+        ],
+        "types": [
+            "dark",
+            "flying"
+        ]
+    },
+    "Zarude": {
+        "level": 78,
+        "abilities": [
+            "Leaf Guard"
+        ],
+        "items": [
+            "Choice Band",
+            "Choice Scarf",
+            "Leftovers"
+        ],
+        "moves": [
+            "Bulk Up",
+            "Close Combat",
+            "Darkest Lariat",
+            "Jungle Healing",
+            "Power Whip",
+            "U-turn"
+        ],
+        "types": [
+            "dark",
+            "grass"
+        ]
+    },
+    "Zoroark": {
+        "level": 0,
+        "abilities": [
+            "Illusion"
+        ],
+        "items": [
+            "Choice Scarf",
+            "Focus Sash",
+            "Life Orb"
+        ],
+        "moves": [
+            "Dark Pulse",
+            "Flamethrower",
+            "Nasty Plot",
+            "Sludge Bomb",
+            "Trick"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "dark"
+        ]
+    }
+}

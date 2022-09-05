@@ -1,0 +1,729 @@
+{
+    "Aerodactyl": {
+        "level": 82,
+        "abilities": [
+            "Unnerve"
+        ],
+        "items": [
+            "Choice Band",
+            "Heavy-Duty Boots",
+            "Life Orb"
+        ],
+        "moves": [
+            "Aqua Tail",
+            "Dual Wingbeat",
+            "Earthquake",
+            "Hone Claws",
+            "Stone Edge"
+        ],
+        "types": [
+            "rock",
+            "flying"
+        ]
+    },
+    "Aggron": {
+        "level": 85,
+        "abilities": [
+            "Rock Head"
+        ],
+        "items": [
+            "Air Balloon",
+            "Choice Band"
+        ],
+        "moves": [
+            "Body Press",
+            "Earthquake",
+            "Head Smash",
+            "Heavy Slam",
+            "Rock Polish",
+            "Stealth Rock"
+        ],
+        "types": [
+            "steel",
+            "rock"
+        ]
+    },
+    "Archeops": {
+        "level": 82,
+        "abilities": [
+            "Defeatist"
+        ],
+        "items": [
+            "Choice Band",
+            "Heavy-Duty Boots"
+        ],
+        "moves": [
+            "Dual Wingbeat",
+            "Earthquake",
+            "Roost",
+            "Stone Edge",
+            "U-turn"
+        ],
+        "types": [
+            "rock",
+            "flying"
+        ]
+    },
+    "Armaldo": {
+        "level": 86,
+        "abilities": [
+            "Swift Swim"
+        ],
+        "items": [
+            "Choice Band",
+            "Heavy-Duty Boots",
+            "Life Orb"
+        ],
+        "moves": [
+            "Earthquake",
+            "Knock Off",
+            "Liquidation",
+            "Rapid Spin",
+            "Stealth Rock",
+            "Stone Edge",
+            "Swords Dance"
+        ],
+        "types": [
+            "rock",
+            "bug"
+        ]
+    },
+    "Aurorus": {
+        "level": 84,
+        "abilities": [
+            "Snow Warning"
+        ],
+        "items": [
+            "Choice Specs",
+            "Heavy-Duty Boots",
+            "Leftovers"
+        ],
+        "moves": [
+            "Ancient Power",
+            "Blizzard",
+            "Earth Power",
+            "Freeze-Dry",
+            "Stealth Rock",
+            "Thunder Wave"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "rock",
+            "ice"
+        ]
+    },
+    "Barbaracle": {
+        "level": 80,
+        "abilities": [
+            "Tough Claws"
+        ],
+        "items": [
+            "Choice Band",
+            "Choice Scarf",
+            "White Herb"
+        ],
+        "moves": [
+            "Cross Chop",
+            "Earthquake",
+            "Liquidation",
+            "Shell Smash",
+            "Stone Edge"
+        ],
+        "types": [
+            "rock",
+            "water"
+        ]
+    },
+    "Carbink": {
+        "level": 86,
+        "abilities": [
+            "Sturdy"
+        ],
+        "items": [
+            "Leftovers",
+            "Light Clay"
+        ],
+        "moves": [
+            "Body Press",
+            "Light Screen",
+            "Moonblast",
+            "Reflect",
+            "Stealth Rock"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "rock",
+            "fairy"
+        ]
+    },
+    "Carracosta": {
+        "level": 84,
+        "abilities": [
+            "Solid Rock",
+            "Swift Swim"
+        ],
+        "items": [
+            "Weakness Policy",
+            "White Herb"
+        ],
+        "moves": [
+            "Aqua Jet",
+            "Hydro Pump",
+            "Shell Smash",
+            "Stone Edge",
+            "Superpower"
+        ],
+        "types": [
+            "water",
+            "rock"
+        ]
+    },
+    "Corsola": {
+        "level": 93,
+        "abilities": [
+            "Regenerator"
+        ],
+        "items": [
+            "Rocky Helmet"
+        ],
+        "moves": [
+            "Power Gem",
+            "Recover",
+            "Scald",
+            "Stealth Rock",
+            "Toxic"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "water",
+            "rock"
+        ]
+    },
+    "Cradily": {
+        "level": 86,
+        "abilities": [
+            "Storm Drain"
+        ],
+        "items": [
+            "Leftovers"
+        ],
+        "moves": [
+            "Power Whip",
+            "Recover",
+            "Stealth Rock",
+            "Stone Edge",
+            "Swords Dance",
+            "Toxic"
+        ],
+        "types": [
+            "rock",
+            "grass"
+        ]
+    },
+    "Crustle": {
+        "level": 82,
+        "abilities": [
+            "Sturdy"
+        ],
+        "items": [
+            "Heavy-Duty Boots",
+            "Leftovers",
+            "White Herb"
+        ],
+        "moves": [
+            "Earthquake",
+            "Shell Smash",
+            "Spikes",
+            "Stealth Rock",
+            "Stone Edge",
+            "X-Scissor"
+        ],
+        "types": [
+            "bug",
+            "rock"
+        ]
+    },
+    "Diancie": {
+        "level": 82,
+        "abilities": [
+            "Clear Body"
+        ],
+        "items": [
+            "Assault Vest",
+            "Leftovers"
+        ],
+        "moves": [
+            "Body Press",
+            "Diamond Storm",
+            "Earth Power",
+            "Moonblast",
+            "Stealth Rock",
+            "Toxic"
+        ],
+        "types": [
+            "rock",
+            "fairy"
+        ]
+    },
+    "Drednaw": {
+        "level": 84,
+        "abilities": [
+            "Swift Swim"
+        ],
+        "items": [
+            "Focus Sash",
+            "Life Orb"
+        ],
+        "moves": [
+            "Liquidation",
+            "Stealth Rock",
+            "Stone Edge",
+            "Superpower",
+            "Swords Dance"
+        ],
+        "types": [
+            "water",
+            "rock"
+        ]
+    },
+    "Gigalith": {
+        "level": 82,
+        "abilities": [
+            "Sand Stream"
+        ],
+        "items": [
+            "Choice Band",
+            "Leftovers"
+        ],
+        "moves": [
+            "Earthquake",
+            "Explosion",
+            "Stealth Rock",
+            "Stone Edge",
+            "Superpower"
+        ],
+        "types": [
+            "rock"
+        ]
+    },
+    "Kabutops": {
+        "level": 82,
+        "abilities": [
+            "Swift Swim"
+        ],
+        "items": [
+            "Assault Vest",
+            "Choice Band",
+            "Life Orb",
+            "Lum Berry"
+        ],
+        "moves": [
+            "Aqua Jet",
+            "Knock Off",
+            "Liquidation",
+            "Rapid Spin",
+            "Stone Edge",
+            "Swords Dance"
+        ],
+        "types": [
+            "rock",
+            "water"
+        ]
+    },
+    "Lunatone": {
+        "level": 86,
+        "abilities": [
+            "Levitate"
+        ],
+        "items": [
+            "Choice Specs",
+            "Focus Sash",
+            "Life Orb"
+        ],
+        "moves": [
+            "Earth Power",
+            "Moonblast",
+            "Nasty Plot",
+            "Power Gem",
+            "Psychic",
+            "Stealth Rock"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "rock",
+            "psychic"
+        ]
+    },
+    "Lycanroc": {
+        "level": 80,
+        "abilities": [
+            "Sand Rush"
+        ],
+        "items": [
+            "Choice Band",
+            "Focus Sash",
+            "Life Orb"
+        ],
+        "moves": [
+            "Accelerock",
+            "Close Combat",
+            "Psychic Fangs",
+            "Stone Edge",
+            "Swords Dance"
+        ],
+        "types": [
+            "rock"
+        ]
+    },
+    "Nihilego": {
+        "level": 79,
+        "abilities": [
+            "Beast Boost"
+        ],
+        "items": [
+            "Black Sludge",
+            "Choice Scarf",
+            "Choice Specs"
+        ],
+        "moves": [
+            "Grass Knot",
+            "Power Gem",
+            "Sludge Wave",
+            "Stealth Rock",
+            "Thunderbolt",
+            "Toxic Spikes"
+        ],
+        "evs": {
+            "atk": 0,
+            "spd": 53
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "rock",
+            "poison"
+        ]
+    },
+    "Omastar": {
+        "level": 82,
+        "abilities": [
+            "Swift Swim"
+        ],
+        "items": [
+            "Leftovers",
+            "Life Orb",
+            "White Herb"
+        ],
+        "moves": [
+            "Earth Power",
+            "Hydro Pump",
+            "Ice Beam",
+            "Shell Smash",
+            "Spikes",
+            "Stealth Rock"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "rock",
+            "water"
+        ]
+    },
+    "Regirock": {
+        "level": 85,
+        "abilities": [
+            "Sturdy"
+        ],
+        "items": [
+            "Chesto Berry",
+            "Choice Band",
+            "Leftovers"
+        ],
+        "moves": [
+            "Body Press",
+            "Curse",
+            "Earthquake",
+            "Explosion",
+            "Rest",
+            "Rock Slide",
+            "Stone Edge"
+        ],
+        "types": [
+            "rock"
+        ]
+    },
+    "Relicanth": {
+        "level": 86,
+        "abilities": [
+            "Rock Head"
+        ],
+        "items": [
+            "Choice Band",
+            "Leftovers"
+        ],
+        "moves": [
+            "Body Press",
+            "Earthquake",
+            "Head Smash",
+            "Liquidation",
+            "Stealth Rock",
+            "Yawn"
+        ],
+        "types": [
+            "water",
+            "rock"
+        ]
+    },
+    "Rhydon": {
+        "level": 87,
+        "abilities": [
+            "Lightning Rod",
+            "Reckless",
+            "Rock Head"
+        ],
+        "items": [
+            "Eviolite"
+        ],
+        "moves": [
+            "Earthquake",
+            "Megahorn",
+            "Stealth Rock",
+            "Stone Edge",
+            "Toxic"
+        ],
+        "types": [
+            "ground",
+            "rock"
+        ]
+    },
+    "Rhyperior": {
+        "level": 82,
+        "abilities": [
+            "Solid Rock"
+        ],
+        "items": [
+            "Choice Band",
+            "Weakness Policy"
+        ],
+        "moves": [
+            "Earthquake",
+            "Fire Punch",
+            "Megahorn",
+            "Rock Polish",
+            "Stone Edge"
+        ],
+        "types": [
+            "ground",
+            "rock"
+        ]
+    },
+    "Shuckle": {
+        "level": 86,
+        "abilities": [
+            "Sturdy"
+        ],
+        "items": [
+            "Heavy-Duty Boots",
+            "Leftovers",
+            "Mental Herb"
+        ],
+        "moves": [
+            "Encore",
+            "Knock Off",
+            "Stealth Rock",
+            "Sticky Web",
+            "Toxic"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "bug",
+            "rock"
+        ]
+    },
+    "Solrock": {
+        "level": 88,
+        "abilities": [
+            "Levitate"
+        ],
+        "items": [
+            "Leftovers",
+            "Life Orb"
+        ],
+        "moves": [
+            "Earthquake",
+            "Explosion",
+            "Morning Sun",
+            "Rock Slide",
+            "Stealth Rock",
+            "Will-O-Wisp"
+        ],
+        "types": [
+            "rock",
+            "psychic"
+        ]
+    },
+    "Stakataka": {
+        "level": 80,
+        "abilities": [
+            "Beast Boost"
+        ],
+        "items": [
+            "Air Balloon",
+            "Choice Band"
+        ],
+        "moves": [
+            "Body Press",
+            "Earthquake",
+            "Gyro Ball",
+            "Stealth Rock",
+            "Stone Edge",
+            "Trick Room"
+        ],
+        "evs": {
+            "spe": 0
+        },
+        "ivs": {
+            "spe": 0
+        },
+        "types": [
+            "rock",
+            "steel"
+        ]
+    },
+    "Stonjourner": {
+        "level": 88,
+        "abilities": [
+            "Power Spot"
+        ],
+        "items": [
+            "Life Orb"
+        ],
+        "moves": [
+            "Earthquake",
+            "Heat Crash",
+            "Rock Polish",
+            "Stealth Rock",
+            "Stone Edge"
+        ],
+        "types": [
+            "rock"
+        ]
+    },
+    "Sudowoodo": {
+        "level": 86,
+        "abilities": [
+            "Rock Head"
+        ],
+        "items": [
+            "Choice Band",
+            "Leftovers"
+        ],
+        "moves": [
+            "Earthquake",
+            "Head Smash",
+            "Stealth Rock",
+            "Sucker Punch",
+            "Wood Hammer"
+        ],
+        "types": [
+            "rock"
+        ]
+    },
+    "Terrakion": {
+        "level": 78,
+        "abilities": [
+            "Justified"
+        ],
+        "items": [
+            "Choice Band",
+            "Life Orb"
+        ],
+        "moves": [
+            "Close Combat",
+            "Earthquake",
+            "Quick Attack",
+            "Stone Edge",
+            "Swords Dance"
+        ],
+        "types": [
+            "rock",
+            "fighting"
+        ]
+    },
+    "Tyranitar": {
+        "level": 78,
+        "abilities": [
+            "Sand Stream"
+        ],
+        "items": [
+            "Choice Band",
+            "Choice Scarf",
+            "Leftovers",
+            "Lum Berry"
+        ],
+        "moves": [
+            "Crunch",
+            "Dragon Dance",
+            "Earthquake",
+            "Fire Punch",
+            "Stealth Rock",
+            "Stone Edge"
+        ],
+        "types": [
+            "rock",
+            "dark"
+        ]
+    },
+    "Tyrantrum": {
+        "level": 82,
+        "abilities": [
+            "Rock Head"
+        ],
+        "items": [
+            "Choice Band",
+            "Choice Scarf",
+            "Life Orb"
+        ],
+        "moves": [
+            "Close Combat",
+            "Dragon Dance",
+            "Earthquake",
+            "Head Smash",
+            "Outrage"
+        ],
+        "types": [
+            "rock",
+            "dragon"
+        ]
+    }
+}

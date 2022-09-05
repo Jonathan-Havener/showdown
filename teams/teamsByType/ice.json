@@ -1,0 +1,557 @@
+{
+    "Abomasnow": {
+        "level": 82,
+        "abilities": [
+            "Snow Warning"
+        ],
+        "items": [
+            "Assault Vest",
+            "Light Clay"
+        ],
+        "moves": [
+            "Aurora Veil",
+            "Blizzard",
+            "Earthquake",
+            "Ice Shard",
+            "Wood Hammer"
+        ],
+        "types": [
+            "grass",
+            "ice"
+        ]
+    },
+    "Arctovish": {
+        "level": 86,
+        "abilities": [
+            "Slush Rush",
+            "Water Absorb"
+        ],
+        "items": [
+            "Assault Vest",
+            "Choice Band"
+        ],
+        "moves": [
+            "Body Slam",
+            "Fishious Rend",
+            "Freeze-Dry",
+            "Icicle Crash",
+            "Psychic Fangs"
+        ],
+        "types": [
+            "water",
+            "ice"
+        ]
+    },
+    "Arctozolt": {
+        "level": 86,
+        "abilities": [
+            "Slush Rush",
+            "Volt Absorb"
+        ],
+        "items": [
+            "Assault Vest",
+            "Heavy-Duty Boots",
+            "Life Orb"
+        ],
+        "moves": [
+            "Bolt Beak",
+            "Freeze-Dry",
+            "Icicle Crash",
+            "Stomping Tantrum",
+            "Thunder Wave"
+        ],
+        "types": [
+            "electric",
+            "ice"
+        ]
+    },
+    "Articuno": {
+        "level": 84,
+        "abilities": [
+            "Pressure"
+        ],
+        "items": [
+            "Heavy-Duty Boots"
+        ],
+        "moves": [
+            "Defog",
+            "Freeze-Dry",
+            "Heal Bell",
+            "Roost",
+            "Toxic"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "ice",
+            "flying"
+        ]
+    },
+    "Aurorus": {
+        "level": 84,
+        "abilities": [
+            "Snow Warning"
+        ],
+        "items": [
+            "Choice Specs",
+            "Heavy-Duty Boots",
+            "Leftovers"
+        ],
+        "moves": [
+            "Ancient Power",
+            "Blizzard",
+            "Earth Power",
+            "Freeze-Dry",
+            "Stealth Rock",
+            "Thunder Wave"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "rock",
+            "ice"
+        ]
+    },
+    "Avalugg": {
+        "level": 86,
+        "abilities": [
+            "Sturdy"
+        ],
+        "items": [
+            "Heavy-Duty Boots",
+            "Leftovers"
+        ],
+        "moves": [
+            "Avalanche",
+            "Body Press",
+            "Curse",
+            "Rapid Spin",
+            "Recover"
+        ],
+        "types": [
+            "ice"
+        ]
+    },
+    "Beartic": {
+        "level": 86,
+        "abilities": [
+            "Slush Rush"
+        ],
+        "items": [
+            "Choice Band",
+            "Heavy-Duty Boots",
+            "Life Orb"
+        ],
+        "moves": [
+            "Aqua Jet",
+            "Icicle Crash",
+            "Stone Edge",
+            "Superpower",
+            "Swords Dance"
+        ],
+        "types": [
+            "ice"
+        ]
+    },
+    "Cloyster": {
+        "level": 80,
+        "abilities": [
+            "Skill Link"
+        ],
+        "items": [
+            "White Herb"
+        ],
+        "moves": [
+            "Explosion",
+            "Hydro Pump",
+            "Icicle Spear",
+            "Rock Blast",
+            "Shell Smash"
+        ],
+        "types": [
+            "water",
+            "ice"
+        ]
+    },
+    "Cryogonal": {
+        "level": 86,
+        "abilities": [
+            "Levitate"
+        ],
+        "items": [
+            "Heavy-Duty Boots",
+            "Leftovers"
+        ],
+        "moves": [
+            "Freeze-Dry",
+            "Haze",
+            "Rapid Spin",
+            "Recover",
+            "Toxic"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "ice"
+        ]
+    },
+    "Delibird": {
+        "level": 100,
+        "abilities": [
+            "Vital Spirit"
+        ],
+        "items": [
+            "Heavy-Duty Boots"
+        ],
+        "moves": [
+            "Freeze-Dry",
+            "Memento",
+            "Rapid Spin",
+            "Spikes"
+        ],
+        "types": [
+            "ice",
+            "flying"
+        ]
+    },
+    "Eiscue": {
+        "level": 82,
+        "abilities": [
+            "Ice Face"
+        ],
+        "items": [
+            "Salac Berry",
+            "Sitrus Berry"
+        ],
+        "moves": [
+            "Belly Drum",
+            "Icicle Crash",
+            "Liquidation",
+            "Substitute",
+            "Zen Headbutt"
+        ],
+        "evs": {
+            "hp": 81
+        },
+        "types": [
+            "ice"
+        ]
+    },
+    "Froslass": {
+        "level": 84,
+        "abilities": [
+            "Cursed Body"
+        ],
+        "items": [
+            "Wide Lens"
+        ],
+        "moves": [
+            "Destiny Bond",
+            "Poltergeist",
+            "Spikes",
+            "Taunt",
+            "Triple Axel",
+            "Will-O-Wisp"
+        ],
+        "types": [
+            "ice",
+            "ghost"
+        ]
+    },
+    "Frosmoth": {
+        "level": 82,
+        "abilities": [
+            "Ice Scales"
+        ],
+        "items": [
+            "Heavy-Duty Boots"
+        ],
+        "moves": [
+            "Bug Buzz",
+            "Giga Drain",
+            "Hurricane",
+            "Ice Beam",
+            "Quiver Dance"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "ice",
+            "bug"
+        ]
+    },
+    "Glaceon": {
+        "level": 88,
+        "abilities": [
+            "Ice Body",
+            "Snow Cloak"
+        ],
+        "items": [
+            "Heavy-Duty Boots",
+            "Leftovers"
+        ],
+        "moves": [
+            "Freeze-Dry",
+            "Protect",
+            "Shadow Ball",
+            "Toxic",
+            "Wish"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "ice"
+        ]
+    },
+    "Glalie": {
+        "level": 80,
+        "abilities": [
+            "Moody"
+        ],
+        "items": [
+            "Leftovers"
+        ],
+        "moves": [
+            "Disable",
+            "Earthquake",
+            "Freeze-Dry",
+            "Protect",
+            "Substitute"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "ice"
+        ]
+    },
+    "Glastrier": {
+        "level": 82,
+        "abilities": [
+            "Chilling Neigh"
+        ],
+        "items": [
+            "Heavy-Duty Boots",
+            "Lum Berry"
+        ],
+        "moves": [
+            "Close Combat",
+            "High Horsepower",
+            "Icicle Crash",
+            "Swords Dance"
+        ],
+        "types": [
+            "ice"
+        ]
+    },
+    "Jynx": {
+        "level": 86,
+        "abilities": [
+            "Dry Skin"
+        ],
+        "items": [
+            "Choice Scarf",
+            "Focus Sash",
+            "Heavy-Duty Boots",
+            "Leftovers",
+            "Life Orb"
+        ],
+        "moves": [
+            "Focus Blast",
+            "Ice Beam",
+            "Lovely Kiss",
+            "Nasty Plot",
+            "Psyshock",
+            "Trick"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "ice",
+            "psychic"
+        ]
+    },
+    "Kyurem": {
+        "level": 80,
+        "abilities": [
+            "Pressure"
+        ],
+        "items": [
+            "Choice Scarf",
+            "Choice Specs",
+            "Heavy-Duty Boots",
+            "Leftovers"
+        ],
+        "moves": [
+            "Draco Meteor",
+            "Earth Power",
+            "Freeze-Dry",
+            "Ice Beam",
+            "Roost",
+            "Substitute"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "dragon",
+            "ice"
+        ]
+    },
+    "Mamoswine": {
+        "level": 80,
+        "abilities": [
+            "Thick Fat"
+        ],
+        "items": [
+            "Choice Band",
+            "Choice Scarf",
+            "Focus Sash",
+            "Life Orb"
+        ],
+        "moves": [
+            "Earthquake",
+            "Ice Shard",
+            "Icicle Crash",
+            "Knock Off",
+            "Stealth Rock",
+            "Superpower"
+        ],
+        "types": [
+            "ice",
+            "ground"
+        ]
+    },
+    "Regice": {
+        "level": 84,
+        "abilities": [
+            "Clear Body"
+        ],
+        "items": [
+            "Chesto Berry",
+            "Leftovers",
+            "Weakness Policy"
+        ],
+        "moves": [
+            "Focus Blast",
+            "Ice Beam",
+            "Rest",
+            "Rock Polish",
+            "Sleep Talk",
+            "Thunderbolt"
+        ],
+        "evs": {
+            "hp": 81,
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "ice"
+        ]
+    },
+    "Vanilluxe": {
+        "level": 82,
+        "abilities": [
+            "Snow Warning"
+        ],
+        "items": [
+            "Assault Vest",
+            "Light Clay"
+        ],
+        "moves": [
+            "Aurora Veil",
+            "Blizzard",
+            "Explosion",
+            "Flash Cannon",
+            "Freeze-Dry"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "ice"
+        ]
+    },
+    "Walrein": {
+        "level": 86,
+        "abilities": [
+            "Thick Fat"
+        ],
+        "items": [
+            "Leftovers"
+        ],
+        "moves": [
+            "Ice Beam",
+            "Protect",
+            "Surf",
+            "Toxic"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "ice",
+            "water"
+        ]
+    },
+    "Weavile": {
+        "level": 79,
+        "abilities": [
+            "Pickpocket"
+        ],
+        "items": [
+            "Choice Band",
+            "Heavy-Duty Boots",
+            "Life Orb"
+        ],
+        "moves": [
+            "Ice Shard",
+            "Knock Off",
+            "Low Kick",
+            "Swords Dance",
+            "Triple Axel"
+        ],
+        "types": [
+            "dark",
+            "ice"
+        ]
+    }
+}

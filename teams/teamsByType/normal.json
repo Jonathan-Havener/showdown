@@ -1,0 +1,745 @@
+{
+    "Audino": {
+        "level": 91,
+        "abilities": [
+            "Regenerator"
+        ],
+        "items": [
+            "Leftovers"
+        ],
+        "moves": [
+            "Heal Bell",
+            "Knock Off",
+            "Protect",
+            "Toxic",
+            "Wish"
+        ],
+        "types": [
+            "normal"
+        ]
+    },
+    "Bewear": {
+        "level": 82,
+        "abilities": [
+            "Fluffy"
+        ],
+        "items": [
+            "Choice Band",
+            "Choice Scarf",
+            "Life Orb"
+        ],
+        "moves": [
+            "Close Combat",
+            "Darkest Lariat",
+            "Double-Edge",
+            "Ice Punch",
+            "Swords Dance"
+        ],
+        "types": [
+            "normal",
+            "fighting"
+        ]
+    },
+    "Blissey": {
+        "level": 83,
+        "abilities": [
+            "Natural Cure"
+        ],
+        "items": [
+            "Leftovers"
+        ],
+        "moves": [
+            "Seismic Toss",
+            "Soft-Boiled",
+            "Stealth Rock",
+            "Teleport",
+            "Toxic"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "normal"
+        ]
+    },
+    "Bouffalant": {
+        "level": 84,
+        "abilities": [
+            "Reckless",
+            "Sap Sipper"
+        ],
+        "items": [
+            "Choice Band",
+            "Leftovers"
+        ],
+        "moves": [
+            "Close Combat",
+            "Earthquake",
+            "Head Charge",
+            "Megahorn",
+            "Swords Dance"
+        ],
+        "types": [
+            "normal"
+        ]
+    },
+    "Braviary": {
+        "level": 82,
+        "abilities": [
+            "Defiant"
+        ],
+        "items": [
+            "Heavy-Duty Boots",
+            "Leftovers"
+        ],
+        "moves": [
+            "Brave Bird",
+            "Bulk Up",
+            "Close Combat",
+            "Roost"
+        ],
+        "types": [
+            "normal",
+            "flying"
+        ]
+    },
+    "Chansey": {
+        "level": 84,
+        "abilities": [
+            "Natural Cure"
+        ],
+        "items": [
+            "Eviolite"
+        ],
+        "moves": [
+            "Heal Bell",
+            "Seismic Toss",
+            "Soft-Boiled",
+            "Stealth Rock",
+            "Toxic"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "normal"
+        ]
+    },
+    "Cinccino": {
+        "level": 84,
+        "abilities": [
+            "Skill Link"
+        ],
+        "items": [
+            "Choice Band",
+            "Life Orb"
+        ],
+        "moves": [
+            "Bullet Seed",
+            "Knock Off",
+            "Rock Blast",
+            "Tail Slap",
+            "U-turn"
+        ],
+        "types": [
+            "normal"
+        ]
+    },
+    "Diggersby": {
+        "level": 80,
+        "abilities": [
+            "Huge Power"
+        ],
+        "items": [
+            "Choice Band",
+            "Choice Scarf",
+            "Life Orb"
+        ],
+        "moves": [
+            "Body Slam",
+            "Earthquake",
+            "Knock Off",
+            "Quick Attack",
+            "Swords Dance",
+            "U-turn"
+        ],
+        "types": [
+            "normal",
+            "ground"
+        ]
+    },
+    "Ditto": {
+        "level": 76,
+        "abilities": [
+            "Imposter"
+        ],
+        "items": [
+            "Choice Scarf"
+        ],
+        "moves": [
+            "Transform"
+        ],
+        "types": [
+            "normal"
+        ]
+    },
+    "Drampa": {
+        "level": 86,
+        "abilities": [
+            "Berserk",
+            "Sap Sipper"
+        ],
+        "items": [
+            "Choice Specs",
+            "Leftovers"
+        ],
+        "moves": [
+            "Draco Meteor",
+            "Fire Blast",
+            "Glare",
+            "Hyper Voice",
+            "Roost",
+            "Thunderbolt"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "normal",
+            "dragon"
+        ]
+    },
+    "Dubwool": {
+        "level": 86,
+        "abilities": [
+            "Bulletproof",
+            "Fluffy"
+        ],
+        "items": [
+            "Leftovers"
+        ],
+        "moves": [
+            "Body Press",
+            "Cotton Guard",
+            "Rest",
+            "Sleep Talk"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "normal"
+        ]
+    },
+    "Dunsparce": {
+        "level": 90,
+        "abilities": [
+            "Serene Grace"
+        ],
+        "items": [
+            "Leftovers"
+        ],
+        "moves": [
+            "Body Slam",
+            "Coil",
+            "Earthquake",
+            "Roost"
+        ],
+        "types": [
+            "normal"
+        ]
+    },
+    "Exploud": {
+        "level": 84,
+        "abilities": [
+            "Scrappy"
+        ],
+        "items": [
+            "Choice Specs"
+        ],
+        "moves": [
+            "Boomburst",
+            "Fire Blast",
+            "Focus Blast",
+            "Surf"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "normal"
+        ]
+    },
+    "Greedent": {
+        "level": 84,
+        "abilities": [
+            "Cheek Pouch"
+        ],
+        "items": [
+            "Sitrus Berry"
+        ],
+        "moves": [
+            "Body Slam",
+            "Earthquake",
+            "Fire Fang",
+            "Payback",
+            "Swords Dance"
+        ],
+        "types": [
+            "normal"
+        ]
+    },
+    "Heliolisk": {
+        "level": 82,
+        "abilities": [
+            "Dry Skin"
+        ],
+        "items": [
+            "Choice Specs",
+            "Focus Sash",
+            "Life Orb"
+        ],
+        "moves": [
+            "Glare",
+            "Grass Knot",
+            "Hyper Voice",
+            "Surf",
+            "Thunderbolt",
+            "Volt Switch"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "electric",
+            "normal"
+        ]
+    },
+    "Indeedee": {
+        "level": 83,
+        "abilities": [
+            "Psychic Surge"
+        ],
+        "items": [
+            "Choice Scarf",
+            "Focus Sash",
+            "Life Orb"
+        ],
+        "moves": [
+            "Calm Mind",
+            "Expanding Force",
+            "Hyper Voice",
+            "Mystical Fire",
+            "Trick"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "psychic",
+            "normal"
+        ]
+    },
+    "Kangaskhan": {
+        "level": 84,
+        "abilities": [
+            "Scrappy"
+        ],
+        "items": [
+            "Assault Vest",
+            "Choice Band"
+        ],
+        "moves": [
+            "Double-Edge",
+            "Earthquake",
+            "Fake Out",
+            "Hammer Arm",
+            "Sucker Punch"
+        ],
+        "types": [
+            "normal"
+        ]
+    },
+    "Lickilicky": {
+        "level": 86,
+        "abilities": [
+            "Oblivious"
+        ],
+        "items": [
+            "Choice Band",
+            "Leftovers"
+        ],
+        "moves": [
+            "Body Slam",
+            "Earthquake",
+            "Explosion",
+            "Heal Bell",
+            "Knock Off",
+            "Protect",
+            "Swords Dance",
+            "Wish"
+        ],
+        "types": [
+            "normal"
+        ]
+    },
+    "Linoone": {
+        "level": 84,
+        "abilities": [
+            "Gluttony"
+        ],
+        "items": [
+            "Aguav Berry",
+            "Figy Berry",
+            "Iapapa Berry",
+            "Mago Berry",
+            "Wiki Berry"
+        ],
+        "moves": [
+            "Belly Drum",
+            "Extreme Speed",
+            "Stomping Tantrum",
+            "Throat Chop"
+        ],
+        "types": [
+            "normal"
+        ]
+    },
+    "Lopunny": {
+        "level": 90,
+        "abilities": [
+            "Cute Charm"
+        ],
+        "items": [
+            "Toxic Orb"
+        ],
+        "moves": [
+            "Close Combat",
+            "Facade",
+            "Healing Wish",
+            "Switcheroo"
+        ],
+        "types": [
+            "normal"
+        ]
+    },
+    "Miltank": {
+        "level": 84,
+        "abilities": [
+            "Sap Sipper",
+            "Scrappy",
+            "Thick Fat"
+        ],
+        "items": [
+            "Leftovers"
+        ],
+        "moves": [
+            "Body Slam",
+            "Earthquake",
+            "Heal Bell",
+            "Milk Drink",
+            "Stealth Rock",
+            "Toxic"
+        ],
+        "types": [
+            "normal"
+        ]
+    },
+    "Noctowl": {
+        "level": 88,
+        "abilities": [
+            "Tinted Lens"
+        ],
+        "items": [
+            "Heavy-Duty Boots",
+            "Leftovers"
+        ],
+        "moves": [
+            "Defog",
+            "Heat Wave",
+            "Hurricane",
+            "Nasty Plot",
+            "Roost"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "normal",
+            "flying"
+        ]
+    },
+    "Obstagoon": {
+        "level": 80,
+        "abilities": [
+            "Guts"
+        ],
+        "items": [
+            "Flame Orb"
+        ],
+        "moves": [
+            "Bulk Up",
+            "Close Combat",
+            "Facade",
+            "Knock Off",
+            "Parting Shot"
+        ],
+        "types": [
+            "dark",
+            "normal"
+        ]
+    },
+    "Oranguru": {
+        "level": 86,
+        "abilities": [
+            "Inner Focus"
+        ],
+        "items": [
+            "Leftovers"
+        ],
+        "moves": [
+            "Focus Blast",
+            "Nasty Plot",
+            "Psychic",
+            "Thunderbolt",
+            "Trick Room"
+        ],
+        "evs": {
+            "atk": 0,
+            "spe": 0
+        },
+        "ivs": {
+            "atk": 0,
+            "spe": 0
+        },
+        "types": [
+            "normal",
+            "psychic"
+        ]
+    },
+    "Persian": {
+        "level": 88,
+        "abilities": [
+            "Limber",
+            "Technician"
+        ],
+        "items": [
+            "Choice Band",
+            "Life Orb"
+        ],
+        "moves": [
+            "Double-Edge",
+            "Fake Out",
+            "Knock Off",
+            "Play Rough",
+            "U-turn"
+        ],
+        "types": [
+            "normal"
+        ]
+    },
+    "Porygon2": {
+        "level": 82,
+        "abilities": [
+            "Download",
+            "Trace"
+        ],
+        "items": [
+            "Eviolite"
+        ],
+        "moves": [
+            "Discharge",
+            "Ice Beam",
+            "Recover",
+            "Toxic",
+            "Tri Attack"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "normal"
+        ]
+    },
+    "Regigigas": {
+        "level": 82,
+        "abilities": [
+            "Slow Start"
+        ],
+        "items": [
+            "Leftovers"
+        ],
+        "moves": [
+            "Body Slam",
+            "Protect",
+            "Substitute",
+            "Toxic"
+        ],
+        "types": [
+            "normal"
+        ]
+    },
+    "Silvally": {
+        "level": 84,
+        "abilities": [
+            "RKS System"
+        ],
+        "items": [
+            "Assault Vest",
+            "Choice Band",
+            "Leftovers",
+            "Life Orb"
+        ],
+        "moves": [
+            "Crunch",
+            "Explosion",
+            "Flame Charge",
+            "Flamethrower",
+            "Multi-Attack",
+            "Swords Dance",
+            "U-turn"
+        ],
+        "types": [
+            "normal"
+        ]
+    },
+    "Snorlax": {
+        "level": 82,
+        "abilities": [
+            "Thick Fat"
+        ],
+        "items": [
+            "Choice Band"
+        ],
+        "moves": [
+            "Darkest Lariat",
+            "Double-Edge",
+            "Earthquake",
+            "Facade",
+            "Heat Crash"
+        ],
+        "types": [
+            "normal"
+        ]
+    },
+    "Stoutland": {
+        "level": 86,
+        "abilities": [
+            "Intimidate",
+            "Sand Rush",
+            "Scrappy"
+        ],
+        "items": [
+            "Choice Band",
+            "Choice Scarf"
+        ],
+        "moves": [
+            "Crunch",
+            "Facade",
+            "Play Rough",
+            "Superpower",
+            "Wild Charge"
+        ],
+        "types": [
+            "normal"
+        ]
+    },
+    "Tauros": {
+        "level": 82,
+        "abilities": [
+            "Sheer Force"
+        ],
+        "items": [
+            "Life Orb"
+        ],
+        "moves": [
+            "Body Slam",
+            "Close Combat",
+            "Rock Slide",
+            "Throat Chop",
+            "Zen Headbutt"
+        ],
+        "types": [
+            "normal"
+        ]
+    },
+    "Unfezant": {
+        "level": 84,
+        "abilities": [
+            "Super Luck"
+        ],
+        "items": [
+            "Scope Lens"
+        ],
+        "moves": [
+            "Brave Bird",
+            "Defog",
+            "Night Slash",
+            "Roost",
+            "U-turn"
+        ],
+        "evs": {
+            "hp": 81
+        },
+        "types": [
+            "normal",
+            "flying"
+        ]
+    },
+    "Wigglytuff": {
+        "level": 90,
+        "abilities": [
+            "Competitive",
+            "Frisk"
+        ],
+        "items": [
+            "Leftovers",
+            "Light Clay"
+        ],
+        "moves": [
+            "Dazzling Gleam",
+            "Fire Blast",
+            "Heal Bell",
+            "Light Screen",
+            "Reflect",
+            "Stealth Rock"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "normal",
+            "fairy"
+        ]
+    }
+}

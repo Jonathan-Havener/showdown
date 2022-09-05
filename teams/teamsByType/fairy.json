@@ -1,0 +1,578 @@
+{
+    "Aromatisse": {
+        "level": 88,
+        "abilities": [
+            "Aroma Veil"
+        ],
+        "items": [
+            "Leftovers"
+        ],
+        "moves": [
+            "Calm Mind",
+            "Moonblast",
+            "Protect",
+            "Toxic",
+            "Wish"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "fairy"
+        ]
+    },
+    "Azumarill": {
+        "level": 84,
+        "abilities": [
+            "Huge Power"
+        ],
+        "items": [
+            "Choice Band"
+        ],
+        "moves": [
+            "Aqua Jet",
+            "Knock Off",
+            "Liquidation",
+            "Play Rough",
+            "Superpower"
+        ],
+        "types": [
+            "water",
+            "fairy"
+        ]
+    },
+    "Carbink": {
+        "level": 86,
+        "abilities": [
+            "Sturdy"
+        ],
+        "items": [
+            "Leftovers",
+            "Light Clay"
+        ],
+        "moves": [
+            "Body Press",
+            "Light Screen",
+            "Moonblast",
+            "Reflect",
+            "Stealth Rock"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "rock",
+            "fairy"
+        ]
+    },
+    "Clefable": {
+        "level": 82,
+        "abilities": [
+            "Magic Guard",
+            "Unaware"
+        ],
+        "items": [
+            "Leftovers",
+            "Life Orb"
+        ],
+        "moves": [
+            "Calm Mind",
+            "Fire Blast",
+            "Moonblast",
+            "Soft-Boiled",
+            "Stealth Rock",
+            "Thunder Wave"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "fairy"
+        ]
+    },
+    "Comfey": {
+        "level": 86,
+        "abilities": [
+            "Triage"
+        ],
+        "items": [
+            "Choice Specs",
+            "Life Orb"
+        ],
+        "moves": [
+            "Calm Mind",
+            "Draining Kiss",
+            "Giga Drain",
+            "Stored Power",
+            "Trick",
+            "U-turn"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "fairy"
+        ]
+    },
+    "Dedenne": {
+        "level": 87,
+        "abilities": [
+            "Cheek Pouch"
+        ],
+        "items": [
+            "Sitrus Berry"
+        ],
+        "moves": [
+            "Protect",
+            "Recycle",
+            "Thunderbolt",
+            "Toxic"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "electric",
+            "fairy"
+        ]
+    },
+    "Diancie": {
+        "level": 82,
+        "abilities": [
+            "Clear Body"
+        ],
+        "items": [
+            "Assault Vest",
+            "Leftovers"
+        ],
+        "moves": [
+            "Body Press",
+            "Diamond Storm",
+            "Earth Power",
+            "Moonblast",
+            "Stealth Rock",
+            "Toxic"
+        ],
+        "types": [
+            "rock",
+            "fairy"
+        ]
+    },
+    "Gardevoir": {
+        "level": 82,
+        "abilities": [
+            "Trace"
+        ],
+        "items": [
+            "Choice Scarf",
+            "Leftovers",
+            "Life Orb"
+        ],
+        "moves": [
+            "Calm Mind",
+            "Moonblast",
+            "Mystical Fire",
+            "Psyshock",
+            "Substitute",
+            "Trick",
+            "Will-O-Wisp"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "psychic",
+            "fairy"
+        ]
+    },
+    "Grimmsnarl": {
+        "level": 82,
+        "abilities": [
+            "Prankster"
+        ],
+        "items": [
+            "Leftovers",
+            "Light Clay"
+        ],
+        "moves": [
+            "Light Screen",
+            "Reflect",
+            "Spirit Break",
+            "Taunt",
+            "Thunder Wave"
+        ],
+        "types": [
+            "dark",
+            "fairy"
+        ]
+    },
+    "Klefki": {
+        "level": 82,
+        "abilities": [
+            "Prankster"
+        ],
+        "items": [
+            "Focus Sash",
+            "Leftovers"
+        ],
+        "moves": [
+            "Magnet Rise",
+            "Play Rough",
+            "Spikes",
+            "Thunder Wave",
+            "Toxic"
+        ],
+        "types": [
+            "steel",
+            "fairy"
+        ]
+    },
+    "Magearna": {
+        "level": 76,
+        "abilities": [
+            "Soul-Heart"
+        ],
+        "items": [
+            "Leftovers"
+        ],
+        "moves": [
+            "Agility",
+            "Calm Mind",
+            "Flash Cannon",
+            "Fleur Cannon"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "steel",
+            "fairy"
+        ]
+    },
+    "Mawile": {
+        "level": 86,
+        "abilities": [
+            "Intimidate",
+            "Sheer Force"
+        ],
+        "items": [
+            "Focus Sash",
+            "Life Orb"
+        ],
+        "moves": [
+            "Iron Head",
+            "Play Rough",
+            "Stealth Rock",
+            "Sucker Punch",
+            "Swords Dance"
+        ],
+        "types": [
+            "steel",
+            "fairy"
+        ]
+    },
+    "Mimikyu": {
+        "level": 76,
+        "abilities": [
+            "Disguise"
+        ],
+        "items": [
+            "Life Orb"
+        ],
+        "moves": [
+            "Drain Punch",
+            "Play Rough",
+            "Shadow Claw",
+            "Shadow Sneak",
+            "Swords Dance"
+        ],
+        "types": [
+            "ghost",
+            "fairy"
+        ]
+    },
+    "Primarina": {
+        "level": 82,
+        "abilities": [
+            "Torrent"
+        ],
+        "items": [
+            "Choice Scarf",
+            "Choice Specs"
+        ],
+        "moves": [
+            "Energy Ball",
+            "Hydro Pump",
+            "Moonblast",
+            "Psychic",
+            "Sparkling Aria"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "water",
+            "fairy"
+        ]
+    },
+    "Ribombee": {
+        "level": 82,
+        "abilities": [
+            "Shield Dust",
+            "Sweet Veil"
+        ],
+        "items": [
+            "Focus Sash",
+            "Heavy-Duty Boots",
+            "Leftovers"
+        ],
+        "moves": [
+            "Moonblast",
+            "Psychic",
+            "Sticky Web",
+            "Stun Spore",
+            "U-turn"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "bug",
+            "fairy"
+        ]
+    },
+    "Shiinotic": {
+        "level": 86,
+        "abilities": [
+            "Effect Spore"
+        ],
+        "items": [
+            "Leftovers"
+        ],
+        "moves": [
+            "Energy Ball",
+            "Leech Seed",
+            "Moonblast",
+            "Spore",
+            "Strength Sap"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "grass",
+            "fairy"
+        ]
+    },
+    "Slurpuff": {
+        "level": 80,
+        "abilities": [
+            "Unburden"
+        ],
+        "items": [
+            "Sitrus Berry"
+        ],
+        "moves": [
+            "Belly Drum",
+            "Drain Punch",
+            "Facade",
+            "Play Rough"
+        ],
+        "types": [
+            "fairy"
+        ]
+    },
+    "Sylveon": {
+        "level": 84,
+        "abilities": [
+            "Pixilate"
+        ],
+        "items": [
+            "Choice Scarf",
+            "Choice Specs",
+            "Leftovers"
+        ],
+        "moves": [
+            "Calm Mind",
+            "Hyper Voice",
+            "Mystical Fire",
+            "Protect",
+            "Psyshock",
+            "Shadow Ball",
+            "Wish"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "fairy"
+        ]
+    },
+    "Togekiss": {
+        "level": 80,
+        "abilities": [
+            "Serene Grace"
+        ],
+        "items": [
+            "Choice Scarf",
+            "Heavy-Duty Boots",
+            "Leftovers"
+        ],
+        "moves": [
+            "Air Slash",
+            "Aura Sphere",
+            "Fire Blast",
+            "Nasty Plot",
+            "Roost",
+            "Thunder Wave",
+            "Trick"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "fairy",
+            "flying"
+        ]
+    },
+    "Whimsicott": {
+        "level": 84,
+        "abilities": [
+            "Prankster"
+        ],
+        "items": [
+            "Leftovers"
+        ],
+        "moves": [
+            "Defog",
+            "Energy Ball",
+            "Leech Seed",
+            "Moonblast",
+            "Stun Spore",
+            "Taunt",
+            "U-turn"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "grass",
+            "fairy"
+        ]
+    },
+    "Wigglytuff": {
+        "level": 90,
+        "abilities": [
+            "Competitive",
+            "Frisk"
+        ],
+        "items": [
+            "Leftovers",
+            "Light Clay"
+        ],
+        "moves": [
+            "Dazzling Gleam",
+            "Fire Blast",
+            "Heal Bell",
+            "Light Screen",
+            "Reflect",
+            "Stealth Rock"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "normal",
+            "fairy"
+        ]
+    },
+    "Xerneas": {
+        "level": 67,
+        "abilities": [
+            "Fairy Aura"
+        ],
+        "items": [
+            "Choice Scarf",
+            "Choice Specs",
+            "Power Herb"
+        ],
+        "moves": [
+            "Focus Blast",
+            "Geomancy",
+            "Moonblast",
+            "Psyshock",
+            "Thunderbolt"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "fairy"
+        ]
+    },
+    "Zacian": {
+        "level": 68,
+        "abilities": [
+            "Intrepid Sword"
+        ],
+        "items": [
+            "Choice Band",
+            "Lum Berry"
+        ],
+        "moves": [
+            "Close Combat",
+            "Crunch",
+            "Play Rough",
+            "Psychic Fangs",
+            "Swords Dance"
+        ],
+        "types": [
+            "fairy"
+        ]
+    }
+}

@@ -1,0 +1,1022 @@
+{
+    "Aerodactyl": {
+        "level": 82,
+        "abilities": [
+            "Unnerve"
+        ],
+        "items": [
+            "Choice Band",
+            "Heavy-Duty Boots",
+            "Life Orb"
+        ],
+        "moves": [
+            "Aqua Tail",
+            "Dual Wingbeat",
+            "Earthquake",
+            "Hone Claws",
+            "Stone Edge"
+        ],
+        "types": [
+            "rock",
+            "flying"
+        ]
+    },
+    "Altaria": {
+        "level": 90,
+        "abilities": [
+            "Natural Cure"
+        ],
+        "items": [
+            "Heavy-Duty Boots",
+            "Leftovers",
+            "Life Orb"
+        ],
+        "moves": [
+            "Defog",
+            "Draco Meteor",
+            "Earthquake",
+            "Fire Blast",
+            "Roost",
+            "Toxic"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "dragon",
+            "flying"
+        ]
+    },
+    "Archeops": {
+        "level": 82,
+        "abilities": [
+            "Defeatist"
+        ],
+        "items": [
+            "Choice Band",
+            "Heavy-Duty Boots"
+        ],
+        "moves": [
+            "Dual Wingbeat",
+            "Earthquake",
+            "Roost",
+            "Stone Edge",
+            "U-turn"
+        ],
+        "types": [
+            "rock",
+            "flying"
+        ]
+    },
+    "Articuno": {
+        "level": 84,
+        "abilities": [
+            "Pressure"
+        ],
+        "items": [
+            "Heavy-Duty Boots"
+        ],
+        "moves": [
+            "Defog",
+            "Freeze-Dry",
+            "Heal Bell",
+            "Roost",
+            "Toxic"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "ice",
+            "flying"
+        ]
+    },
+    "Braviary": {
+        "level": 82,
+        "abilities": [
+            "Defiant"
+        ],
+        "items": [
+            "Heavy-Duty Boots",
+            "Leftovers"
+        ],
+        "moves": [
+            "Brave Bird",
+            "Bulk Up",
+            "Close Combat",
+            "Roost"
+        ],
+        "types": [
+            "normal",
+            "flying"
+        ]
+    },
+    "Butterfree": {
+        "level": 87,
+        "abilities": [
+            "Compound Eyes"
+        ],
+        "items": [
+            "Heavy-Duty Boots"
+        ],
+        "moves": [
+            "Energy Ball",
+            "Hurricane",
+            "Quiver Dance",
+            "Sleep Powder"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "bug",
+            "flying"
+        ]
+    },
+    "Celesteela": {
+        "level": 77,
+        "abilities": [
+            "Beast Boost"
+        ],
+        "items": [
+            "Assault Vest",
+            "Leftovers"
+        ],
+        "moves": [
+            "Air Slash",
+            "Earthquake",
+            "Fire Blast",
+            "Flash Cannon",
+            "Leech Seed",
+            "Protect"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "steel",
+            "flying"
+        ]
+    },
+    "Charizard": {
+        "level": 82,
+        "abilities": [
+            "Solar Power"
+        ],
+        "items": [
+            "Heavy-Duty Boots"
+        ],
+        "moves": [
+            "Air Slash",
+            "Earthquake",
+            "Fire Blast",
+            "Focus Blast",
+            "Roost"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "fire",
+            "flying"
+        ]
+    },
+    "Corviknight": {
+        "level": 78,
+        "abilities": [
+            "Mirror Armor",
+            "Pressure"
+        ],
+        "items": [
+            "Leftovers"
+        ],
+        "moves": [
+            "Body Press",
+            "Brave Bird",
+            "Bulk Up",
+            "Defog",
+            "Roost"
+        ],
+        "types": [
+            "flying",
+            "steel"
+        ]
+    },
+    "Cramorant": {
+        "level": 84,
+        "abilities": [
+            "Gulp Missile"
+        ],
+        "items": [
+            "Heavy-Duty Boots",
+            "Life Orb"
+        ],
+        "moves": [
+            "Brave Bird",
+            "Defog",
+            "Roost",
+            "Superpower",
+            "Surf"
+        ],
+        "types": [
+            "flying",
+            "water"
+        ]
+    },
+    "Crobat": {
+        "level": 82,
+        "abilities": [
+            "Infiltrator"
+        ],
+        "items": [
+            "Black Sludge",
+            "Heavy-Duty Boots"
+        ],
+        "moves": [
+            "Brave Bird",
+            "Defog",
+            "Roost",
+            "Super Fang",
+            "Taunt",
+            "Toxic",
+            "U-turn"
+        ],
+        "types": [
+            "poison",
+            "flying"
+        ]
+    },
+    "Delibird": {
+        "level": 100,
+        "abilities": [
+            "Vital Spirit"
+        ],
+        "items": [
+            "Heavy-Duty Boots"
+        ],
+        "moves": [
+            "Freeze-Dry",
+            "Memento",
+            "Rapid Spin",
+            "Spikes"
+        ],
+        "types": [
+            "ice",
+            "flying"
+        ]
+    },
+    "Dragonite": {
+        "level": 75,
+        "abilities": [
+            "Multiscale"
+        ],
+        "items": [
+            "Choice Band",
+            "Heavy-Duty Boots"
+        ],
+        "moves": [
+            "Dragon Dance",
+            "Dual Wingbeat",
+            "Earthquake",
+            "Extreme Speed",
+            "Outrage"
+        ],
+        "types": [
+            "dragon",
+            "flying"
+        ]
+    },
+    "Drifblim": {
+        "level": 84,
+        "abilities": [
+            "Unburden"
+        ],
+        "items": [
+            "Sitrus Berry"
+        ],
+        "moves": [
+            "Calm Mind",
+            "Shadow Ball",
+            "Strength Sap",
+            "Thunderbolt"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "ghost",
+            "flying"
+        ]
+    },
+    "Emolga": {
+        "level": 88,
+        "abilities": [
+            "Motor Drive"
+        ],
+        "items": [
+            "Choice Specs",
+            "Heavy-Duty Boots",
+            "Leftovers",
+            "Life Orb"
+        ],
+        "moves": [
+            "Air Slash",
+            "Defog",
+            "Energy Ball",
+            "Roost",
+            "Thunderbolt",
+            "Toxic",
+            "U-turn"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "electric",
+            "flying"
+        ]
+    },
+    "Gyarados": {
+        "level": 76,
+        "abilities": [
+            "Intimidate",
+            "Moxie"
+        ],
+        "items": [
+            "Choice Band",
+            "Heavy-Duty Boots",
+            "Life Orb"
+        ],
+        "moves": [
+            "Bounce",
+            "Dragon Dance",
+            "Earthquake",
+            "Power Whip",
+            "Waterfall"
+        ],
+        "types": [
+            "water",
+            "flying"
+        ]
+    },
+    "Hawlucha": {
+        "level": 80,
+        "abilities": [
+            "Mold Breaker",
+            "Unburden"
+        ],
+        "items": [
+            "Choice Band",
+            "White Herb"
+        ],
+        "moves": [
+            "Brave Bird",
+            "Close Combat",
+            "Roost",
+            "Stone Edge",
+            "Swords Dance",
+            "Throat Chop"
+        ],
+        "types": [
+            "fighting",
+            "flying"
+        ]
+    },
+    "Landorus": {
+        "level": 76,
+        "abilities": [
+            "Sheer Force"
+        ],
+        "items": [
+            "Life Orb"
+        ],
+        "moves": [
+            "Earth Power",
+            "Focus Blast",
+            "Knock Off",
+            "Rock Polish",
+            "Rock Slide",
+            "Sludge Wave",
+            "Stealth Rock"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "ground",
+            "flying"
+        ]
+    },
+    "Lugia": {
+        "level": 74,
+        "abilities": [
+            "Multiscale"
+        ],
+        "items": [
+            "Heavy-Duty Boots"
+        ],
+        "moves": [
+            "Air Slash",
+            "Earthquake",
+            "Roost",
+            "Substitute",
+            "Toxic"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "psychic",
+            "flying"
+        ]
+    },
+    "Mandibuzz": {
+        "level": 82,
+        "abilities": [
+            "Overcoat"
+        ],
+        "items": [
+            "Heavy-Duty Boots",
+            "Leftovers"
+        ],
+        "moves": [
+            "Brave Bird",
+            "Defog",
+            "Foul Play",
+            "Roost",
+            "Toxic"
+        ],
+        "types": [
+            "dark",
+            "flying"
+        ]
+    },
+    "Mantine": {
+        "level": 86,
+        "abilities": [
+            "Water Absorb"
+        ],
+        "items": [
+            "Heavy-Duty Boots",
+            "Leftovers"
+        ],
+        "moves": [
+            "Defog",
+            "Hurricane",
+            "Ice Beam",
+            "Roost",
+            "Scald",
+            "Toxic"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "water",
+            "flying"
+        ]
+    },
+    "Moltres": {
+        "level": 80,
+        "abilities": [
+            "Flame Body",
+            "Pressure"
+        ],
+        "items": [
+            "Heavy-Duty Boots"
+        ],
+        "moves": [
+            "Air Slash",
+            "Defog",
+            "Fire Blast",
+            "Roost",
+            "U-turn"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "fire",
+            "flying"
+        ]
+    },
+    "Ninjask": {
+        "level": 86,
+        "abilities": [
+            "Speed Boost"
+        ],
+        "moves": [
+            "Acrobatics",
+            "Leech Life",
+            "Swords Dance",
+            "U-turn"
+        ],
+        "types": [
+            "bug",
+            "flying"
+        ]
+    },
+    "Noctowl": {
+        "level": 88,
+        "abilities": [
+            "Tinted Lens"
+        ],
+        "items": [
+            "Heavy-Duty Boots",
+            "Leftovers"
+        ],
+        "moves": [
+            "Defog",
+            "Heat Wave",
+            "Hurricane",
+            "Nasty Plot",
+            "Roost"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "normal",
+            "flying"
+        ]
+    },
+    "Noivern": {
+        "level": 82,
+        "abilities": [
+            "Infiltrator"
+        ],
+        "items": [
+            "Choice Specs",
+            "Heavy-Duty Boots",
+            "Life Orb"
+        ],
+        "moves": [
+            "Defog",
+            "Draco Meteor",
+            "Flamethrower",
+            "Hurricane",
+            "Roost",
+            "Switcheroo"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "flying",
+            "dragon"
+        ]
+    },
+    "Pelipper": {
+        "level": 86,
+        "abilities": [
+            "Drizzle"
+        ],
+        "items": [
+            "Choice Specs",
+            "Heavy-Duty Boots"
+        ],
+        "moves": [
+            "Defog",
+            "Hurricane",
+            "Hydro Pump",
+            "Roost",
+            "Scald",
+            "U-turn"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "water",
+            "flying"
+        ]
+    },
+    "Rayquaza": {
+        "level": 74,
+        "abilities": [
+            "Air Lock"
+        ],
+        "items": [
+            "Assault Vest",
+            "Choice Band",
+            "Heavy-Duty Boots",
+            "Lum Berry"
+        ],
+        "moves": [
+            "Draco Meteor",
+            "Dragon Ascent",
+            "Dragon Dance",
+            "Earthquake",
+            "Extreme Speed",
+            "Swords Dance",
+            "V-create"
+        ],
+        "types": [
+            "dragon",
+            "flying"
+        ]
+    },
+    "Salamence": {
+        "level": 76,
+        "abilities": [
+            "Moxie"
+        ],
+        "items": [
+            "Heavy-Duty Boots",
+            "Life Orb",
+            "Lum Berry"
+        ],
+        "moves": [
+            "Dragon Dance",
+            "Dual Wingbeat",
+            "Earthquake",
+            "Outrage",
+            "Roost"
+        ],
+        "types": [
+            "dragon",
+            "flying"
+        ]
+    },
+    "Scyther": {
+        "level": 81,
+        "abilities": [
+            "Technician"
+        ],
+        "items": [
+            "Choice Band",
+            "Eviolite",
+            "Heavy-Duty Boots"
+        ],
+        "moves": [
+            "Brick Break",
+            "Dual Wingbeat",
+            "Knock Off",
+            "Roost",
+            "Swords Dance",
+            "U-turn"
+        ],
+        "types": [
+            "bug",
+            "flying"
+        ]
+    },
+    "Sigilyph": {
+        "level": 83,
+        "abilities": [
+            "Magic Guard",
+            "Tinted Lens"
+        ],
+        "items": [
+            "Choice Specs",
+            "Life Orb"
+        ],
+        "moves": [
+            "Air Slash",
+            "Defog",
+            "Energy Ball",
+            "Heat Wave",
+            "Psychic"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "psychic",
+            "flying"
+        ]
+    },
+    "Skarmory": {
+        "level": 80,
+        "abilities": [
+            "Sturdy"
+        ],
+        "items": [
+            "Leftovers"
+        ],
+        "moves": [
+            "Body Press",
+            "Brave Bird",
+            "Roost",
+            "Spikes",
+            "Stealth Rock",
+            "Whirlwind"
+        ],
+        "types": [
+            "steel",
+            "flying"
+        ]
+    },
+    "Swoobat": {
+        "level": 86,
+        "abilities": [
+            "Simple"
+        ],
+        "items": [
+            "Focus Sash",
+            "Heavy-Duty Boots",
+            "Leftovers",
+            "Life Orb"
+        ],
+        "moves": [
+            "Air Slash",
+            "Calm Mind",
+            "Heat Wave",
+            "Roost",
+            "Stored Power"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "psychic",
+            "flying"
+        ]
+    },
+    "Talonflame": {
+        "level": 81,
+        "abilities": [
+            "Gale Wings"
+        ],
+        "items": [
+            "Heavy-Duty Boots"
+        ],
+        "moves": [
+            "Brave Bird",
+            "Defog",
+            "Flare Blitz",
+            "Roost",
+            "Swords Dance",
+            "U-turn"
+        ],
+        "types": [
+            "fire",
+            "flying"
+        ]
+    },
+    "Thundurus": {
+        "level": 80,
+        "abilities": [
+            "Defiant",
+            "Prankster"
+        ],
+        "items": [
+            "Heavy-Duty Boots",
+            "Life Orb"
+        ],
+        "moves": [
+            "Grass Knot",
+            "Knock Off",
+            "Nasty Plot",
+            "Sludge Wave",
+            "Superpower",
+            "Thunder Wave",
+            "Thunderbolt"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "electric",
+            "flying"
+        ]
+    },
+    "Togekiss": {
+        "level": 80,
+        "abilities": [
+            "Serene Grace"
+        ],
+        "items": [
+            "Choice Scarf",
+            "Heavy-Duty Boots",
+            "Leftovers"
+        ],
+        "moves": [
+            "Air Slash",
+            "Aura Sphere",
+            "Fire Blast",
+            "Nasty Plot",
+            "Roost",
+            "Thunder Wave",
+            "Trick"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "fairy",
+            "flying"
+        ]
+    },
+    "Tornadus": {
+        "level": 80,
+        "abilities": [
+            "Prankster"
+        ],
+        "items": [
+            "Heavy-Duty Boots",
+            "Life Orb"
+        ],
+        "moves": [
+            "Defog",
+            "Grass Knot",
+            "Heat Wave",
+            "Hurricane",
+            "Nasty Plot"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "flying"
+        ]
+    },
+    "Unfezant": {
+        "level": 84,
+        "abilities": [
+            "Super Luck"
+        ],
+        "items": [
+            "Scope Lens"
+        ],
+        "moves": [
+            "Brave Bird",
+            "Defog",
+            "Night Slash",
+            "Roost",
+            "U-turn"
+        ],
+        "evs": {
+            "hp": 81
+        },
+        "types": [
+            "normal",
+            "flying"
+        ]
+    },
+    "Vespiquen": {
+        "level": 96,
+        "abilities": [
+            "Pressure"
+        ],
+        "items": [
+            "Heavy-Duty Boots"
+        ],
+        "moves": [
+            "Air Slash",
+            "Defog",
+            "Roost",
+            "Toxic",
+            "U-turn"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "bug",
+            "flying"
+        ]
+    },
+    "Xatu": {
+        "level": 89,
+        "abilities": [
+            "Magic Bounce"
+        ],
+        "items": [
+            "Heavy-Duty Boots",
+            "Leftovers"
+        ],
+        "moves": [
+            "Heat Wave",
+            "Psychic",
+            "Roost",
+            "Teleport",
+            "Thunder Wave"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "psychic",
+            "flying"
+        ]
+    },
+    "Yveltal": {
+        "level": 69,
+        "abilities": [
+            "Dark Aura"
+        ],
+        "items": [
+            "Assault Vest",
+            "Heavy-Duty Boots",
+            "Leftovers",
+            "Life Orb"
+        ],
+        "moves": [
+            "Defog",
+            "Heat Wave",
+            "Knock Off",
+            "Oblivion Wing",
+            "Roost",
+            "Sucker Punch",
+            "Taunt"
+        ],
+        "types": [
+            "dark",
+            "flying"
+        ]
+    },
+    "Zapdos": {
+        "level": 78,
+        "abilities": [
+            "Pressure",
+            "Static"
+        ],
+        "items": [
+            "Choice Specs",
+            "Heavy-Duty Boots",
+            "Life Orb"
+        ],
+        "moves": [
+            "Defog",
+            "Discharge",
+            "Heat Wave",
+            "Hurricane",
+            "Roost",
+            "U-turn"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "electric",
+            "flying"
+        ]
+    }
+}

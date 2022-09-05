@@ -1,0 +1,648 @@
+{
+    "Bewear": {
+        "level": 82,
+        "abilities": [
+            "Fluffy"
+        ],
+        "items": [
+            "Choice Band",
+            "Choice Scarf",
+            "Life Orb"
+        ],
+        "moves": [
+            "Close Combat",
+            "Darkest Lariat",
+            "Double-Edge",
+            "Ice Punch",
+            "Swords Dance"
+        ],
+        "types": [
+            "normal",
+            "fighting"
+        ]
+    },
+    "Blaziken": {
+        "level": 76,
+        "abilities": [
+            "Speed Boost"
+        ],
+        "items": [
+            "Choice Band",
+            "Life Orb"
+        ],
+        "moves": [
+            "Close Combat",
+            "Flare Blitz",
+            "Knock Off",
+            "Stone Edge",
+            "Swords Dance"
+        ],
+        "types": [
+            "fire",
+            "fighting"
+        ]
+    },
+    "Buzzwole": {
+        "level": 77,
+        "abilities": [
+            "Beast Boost"
+        ],
+        "items": [
+            "Choice Band",
+            "Choice Scarf"
+        ],
+        "moves": [
+            "Close Combat",
+            "Darkest Lariat",
+            "Dual Wingbeat",
+            "Iron Head",
+            "Leech Life",
+            "Stone Edge"
+        ],
+        "types": [
+            "bug",
+            "fighting"
+        ]
+    },
+    "Cobalion": {
+        "level": 78,
+        "abilities": [
+            "Justified"
+        ],
+        "items": [
+            "Assault Vest",
+            "Leftovers",
+            "Lum Berry"
+        ],
+        "moves": [
+            "Close Combat",
+            "Iron Head",
+            "Stealth Rock",
+            "Stone Edge",
+            "Swords Dance",
+            "Volt Switch"
+        ],
+        "types": [
+            "steel",
+            "fighting"
+        ]
+    },
+    "Conkeldurr": {
+        "level": 80,
+        "abilities": [
+            "Guts"
+        ],
+        "items": [
+            "Flame Orb"
+        ],
+        "moves": [
+            "Close Combat",
+            "Drain Punch",
+            "Facade",
+            "Knock Off",
+            "Mach Punch"
+        ],
+        "types": [
+            "fighting"
+        ]
+    },
+    "Falinks": {
+        "level": 84,
+        "abilities": [
+            "Defiant"
+        ],
+        "items": [
+            "Choice Band",
+            "Choice Scarf",
+            "Life Orb"
+        ],
+        "moves": [
+            "Close Combat",
+            "No Retreat",
+            "Poison Jab",
+            "Rock Slide",
+            "Throat Chop"
+        ],
+        "types": [
+            "fighting"
+        ]
+    },
+    "Gallade": {
+        "level": 82,
+        "abilities": [
+            "Justified"
+        ],
+        "items": [
+            "Choice Band",
+            "Choice Scarf",
+            "Life Orb"
+        ],
+        "moves": [
+            "Close Combat",
+            "Knock Off",
+            "Shadow Sneak",
+            "Swords Dance",
+            "Trick",
+            "Zen Headbutt"
+        ],
+        "types": [
+            "psychic",
+            "fighting"
+        ]
+    },
+    "Grapploct": {
+        "level": 86,
+        "abilities": [
+            "Limber",
+            "Technician"
+        ],
+        "items": [
+            "Life Orb"
+        ],
+        "moves": [
+            "Brutal Swing",
+            "Bulk Up",
+            "Drain Punch",
+            "Ice Punch",
+            "Sucker Punch"
+        ],
+        "types": [
+            "fighting"
+        ]
+    },
+    "Gurdurr": {
+        "level": 83,
+        "abilities": [
+            "Guts"
+        ],
+        "items": [
+            "Eviolite"
+        ],
+        "moves": [
+            "Bulk Up",
+            "Defog",
+            "Drain Punch",
+            "Knock Off",
+            "Mach Punch"
+        ],
+        "types": [
+            "fighting"
+        ]
+    },
+    "Hawlucha": {
+        "level": 80,
+        "abilities": [
+            "Mold Breaker",
+            "Unburden"
+        ],
+        "items": [
+            "Choice Band",
+            "White Herb"
+        ],
+        "moves": [
+            "Brave Bird",
+            "Close Combat",
+            "Roost",
+            "Stone Edge",
+            "Swords Dance",
+            "Throat Chop"
+        ],
+        "types": [
+            "fighting",
+            "flying"
+        ]
+    },
+    "Heracross": {
+        "level": 82,
+        "abilities": [
+            "Guts"
+        ],
+        "items": [
+            "Flame Orb"
+        ],
+        "moves": [
+            "Close Combat",
+            "Facade",
+            "Knock Off",
+            "Megahorn"
+        ],
+        "types": [
+            "bug",
+            "fighting"
+        ]
+    },
+    "Hitmonchan": {
+        "level": 86,
+        "abilities": [
+            "Iron Fist"
+        ],
+        "items": [
+            "Assault Vest",
+            "Choice Band",
+            "Leftovers",
+            "Life Orb"
+        ],
+        "moves": [
+            "Bulk Up",
+            "Drain Punch",
+            "Ice Punch",
+            "Mach Punch",
+            "Rapid Spin",
+            "Throat Chop"
+        ],
+        "types": [
+            "fighting"
+        ]
+    },
+    "Hitmonlee": {
+        "level": 84,
+        "abilities": [
+            "Reckless",
+            "Unburden"
+        ],
+        "items": [
+            "Choice Band",
+            "Choice Scarf",
+            "White Herb"
+        ],
+        "moves": [
+            "Close Combat",
+            "Curse",
+            "High Jump Kick",
+            "Knock Off",
+            "Poison Jab",
+            "Stone Edge"
+        ],
+        "types": [
+            "fighting"
+        ]
+    },
+    "Hitmontop": {
+        "level": 85,
+        "abilities": [
+            "Intimidate",
+            "Technician"
+        ],
+        "items": [
+            "Assault Vest",
+            "Choice Band",
+            "Leftovers",
+            "Life Orb"
+        ],
+        "moves": [
+            "Close Combat",
+            "Earthquake",
+            "Rapid Spin",
+            "Sucker Punch",
+            "Toxic",
+            "Triple Axel"
+        ],
+        "types": [
+            "fighting"
+        ]
+    },
+    "Lucario": {
+        "level": 82,
+        "abilities": [
+            "Justified"
+        ],
+        "items": [
+            "Choice Band",
+            "Focus Sash",
+            "Life Orb"
+        ],
+        "moves": [
+            "Close Combat",
+            "Extreme Speed",
+            "Meteor Mash",
+            "Stone Edge",
+            "Swords Dance"
+        ],
+        "types": [
+            "fighting",
+            "steel"
+        ]
+    },
+    "Machamp": {
+        "level": 82,
+        "abilities": [
+            "Guts",
+            "No Guard"
+        ],
+        "items": [
+            "Choice Band",
+            "Flame Orb"
+        ],
+        "moves": [
+            "Bullet Punch",
+            "Close Combat",
+            "Dynamic Punch",
+            "Facade",
+            "Knock Off",
+            "Stone Edge"
+        ],
+        "types": [
+            "fighting"
+        ]
+    },
+    "Marshadow": {
+        "level": 70,
+        "abilities": [
+            "Technician"
+        ],
+        "items": [
+            "Choice Band",
+            "Life Orb"
+        ],
+        "moves": [
+            "Bulk Up",
+            "Close Combat",
+            "Ice Punch",
+            "Rock Tomb",
+            "Shadow Sneak",
+            "Spectral Thief"
+        ],
+        "types": [
+            "fighting",
+            "ghost"
+        ]
+    },
+    "Mienshao": {
+        "level": 82,
+        "abilities": [
+            "Regenerator"
+        ],
+        "items": [
+            "Choice Band",
+            "Choice Scarf",
+            "Focus Sash",
+            "Life Orb"
+        ],
+        "moves": [
+            "Close Combat",
+            "Fake Out",
+            "Knock Off",
+            "Poison Jab",
+            "Stone Edge",
+            "Swords Dance",
+            "U-turn"
+        ],
+        "types": [
+            "fighting"
+        ]
+    },
+    "Pangoro": {
+        "level": 84,
+        "abilities": [
+            "Scrappy"
+        ],
+        "items": [
+            "Choice Band"
+        ],
+        "moves": [
+            "Close Combat",
+            "Gunk Shot",
+            "Ice Punch",
+            "Knock Off",
+            "Parting Shot"
+        ],
+        "types": [
+            "fighting",
+            "dark"
+        ]
+    },
+    "Passimian": {
+        "level": 82,
+        "abilities": [
+            "Defiant"
+        ],
+        "items": [
+            "Choice Band",
+            "Choice Scarf"
+        ],
+        "moves": [
+            "Close Combat",
+            "Earthquake",
+            "Gunk Shot",
+            "Knock Off",
+            "Rock Slide",
+            "U-turn"
+        ],
+        "types": [
+            "fighting"
+        ]
+    },
+    "Pheromosa": {
+        "level": 76,
+        "abilities": [
+            "Beast Boost"
+        ],
+        "items": [
+            "Choice Band",
+            "Expert Belt",
+            "Focus Sash",
+            "Life Orb"
+        ],
+        "moves": [
+            "Close Combat",
+            "Ice Beam",
+            "Poison Jab",
+            "Throat Chop",
+            "U-turn"
+        ],
+        "types": [
+            "bug",
+            "fighting"
+        ]
+    },
+    "Poliwrath": {
+        "level": 84,
+        "abilities": [
+            "Swift Swim"
+        ],
+        "items": [
+            "Life Orb"
+        ],
+        "moves": [
+            "Close Combat",
+            "Darkest Lariat",
+            "Liquidation",
+            "Rain Dance"
+        ],
+        "types": [
+            "water",
+            "fighting"
+        ]
+    },
+    "Sawk": {
+        "level": 86,
+        "abilities": [
+            "Mold Breaker",
+            "Sturdy"
+        ],
+        "items": [
+            "Choice Band",
+            "Choice Scarf",
+            "Life Orb"
+        ],
+        "moves": [
+            "Bulk Up",
+            "Close Combat",
+            "Knock Off",
+            "Poison Jab",
+            "Stone Edge"
+        ],
+        "types": [
+            "fighting"
+        ]
+    },
+    "Scrafty": {
+        "level": 82,
+        "abilities": [
+            "Intimidate",
+            "Moxie"
+        ],
+        "items": [
+            "Choice Band",
+            "Lum Berry"
+        ],
+        "moves": [
+            "Close Combat",
+            "Dragon Dance",
+            "Ice Punch",
+            "Knock Off",
+            "Poison Jab"
+        ],
+        "types": [
+            "dark",
+            "fighting"
+        ]
+    },
+    "Terrakion": {
+        "level": 78,
+        "abilities": [
+            "Justified"
+        ],
+        "items": [
+            "Choice Band",
+            "Life Orb"
+        ],
+        "moves": [
+            "Close Combat",
+            "Earthquake",
+            "Quick Attack",
+            "Stone Edge",
+            "Swords Dance"
+        ],
+        "types": [
+            "rock",
+            "fighting"
+        ]
+    },
+    "Throh": {
+        "level": 86,
+        "abilities": [
+            "Guts"
+        ],
+        "items": [
+            "Chesto Berry",
+            "Flame Orb",
+            "Leftovers"
+        ],
+        "moves": [
+            "Bulk Up",
+            "Circle Throw",
+            "Ice Punch",
+            "Knock Off",
+            "Rest",
+            "Sleep Talk",
+            "Storm Throw"
+        ],
+        "types": [
+            "fighting"
+        ]
+    },
+    "Toxicroak": {
+        "level": 84,
+        "abilities": [
+            "Dry Skin"
+        ],
+        "items": [
+            "Black Sludge",
+            "Choice Band",
+            "Choice Scarf",
+            "Life Orb"
+        ],
+        "moves": [
+            "Drain Punch",
+            "Gunk Shot",
+            "Ice Punch",
+            "Knock Off",
+            "Substitute",
+            "Sucker Punch",
+            "Swords Dance"
+        ],
+        "types": [
+            "poison",
+            "fighting"
+        ]
+    },
+    "Urshifu": {
+        "level": 76,
+        "abilities": [
+            "Unseen Fist"
+        ],
+        "items": [
+            "Choice Band",
+            "Choice Scarf"
+        ],
+        "moves": [
+            "Close Combat",
+            "Iron Head",
+            "Sucker Punch",
+            "U-turn",
+            "Wicked Blow"
+        ],
+        "types": [
+            "fighting",
+            "dark"
+        ]
+    },
+    "Virizion": {
+        "level": 82,
+        "abilities": [
+            "Justified"
+        ],
+        "items": [
+            "Lum Berry"
+        ],
+        "moves": [
+            "Close Combat",
+            "Leaf Blade",
+            "Stone Edge",
+            "Swords Dance"
+        ],
+        "types": [
+            "grass",
+            "fighting"
+        ]
+    },
+    "Zamazenta": {
+        "level": 73,
+        "abilities": [
+            "Dauntless Shield"
+        ],
+        "items": [
+            "Choice Band"
+        ],
+        "moves": [
+            "Close Combat",
+            "Crunch",
+            "Psychic Fangs",
+            "Wild Charge"
+        ],
+        "types": [
+            "fighting"
+        ]
+    }
+}

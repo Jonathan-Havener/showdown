@@ -1,0 +1,821 @@
+{
+    "Aegislash": {
+        "level": 80,
+        "abilities": [
+            "Stance Change"
+        ],
+        "items": [
+            "Leftovers",
+            "Life Orb"
+        ],
+        "moves": [
+            "Close Combat",
+            "Flash Cannon",
+            "King's Shield",
+            "Shadow Ball",
+            "Shadow Sneak",
+            "Substitute",
+            "Toxic"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "steel",
+            "ghost"
+        ]
+    },
+    "Aggron": {
+        "level": 85,
+        "abilities": [
+            "Rock Head"
+        ],
+        "items": [
+            "Air Balloon",
+            "Choice Band"
+        ],
+        "moves": [
+            "Body Press",
+            "Earthquake",
+            "Head Smash",
+            "Heavy Slam",
+            "Rock Polish",
+            "Stealth Rock"
+        ],
+        "types": [
+            "steel",
+            "rock"
+        ]
+    },
+    "Bisharp": {
+        "level": 80,
+        "abilities": [
+            "Defiant"
+        ],
+        "items": [
+            "Focus Sash",
+            "Life Orb"
+        ],
+        "moves": [
+            "Iron Head",
+            "Knock Off",
+            "Stealth Rock",
+            "Sucker Punch",
+            "Swords Dance"
+        ],
+        "types": [
+            "dark",
+            "steel"
+        ]
+    },
+    "Bronzong": {
+        "level": 82,
+        "abilities": [
+            "Levitate"
+        ],
+        "items": [
+            "Leftovers"
+        ],
+        "moves": [
+            "Earthquake",
+            "Iron Head",
+            "Protect",
+            "Stealth Rock",
+            "Toxic"
+        ],
+        "types": [
+            "steel",
+            "psychic"
+        ]
+    },
+    "Celesteela": {
+        "level": 77,
+        "abilities": [
+            "Beast Boost"
+        ],
+        "items": [
+            "Assault Vest",
+            "Leftovers"
+        ],
+        "moves": [
+            "Air Slash",
+            "Earthquake",
+            "Fire Blast",
+            "Flash Cannon",
+            "Leech Seed",
+            "Protect"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "steel",
+            "flying"
+        ]
+    },
+    "Cobalion": {
+        "level": 78,
+        "abilities": [
+            "Justified"
+        ],
+        "items": [
+            "Assault Vest",
+            "Leftovers",
+            "Lum Berry"
+        ],
+        "moves": [
+            "Close Combat",
+            "Iron Head",
+            "Stealth Rock",
+            "Stone Edge",
+            "Swords Dance",
+            "Volt Switch"
+        ],
+        "types": [
+            "steel",
+            "fighting"
+        ]
+    },
+    "Copperajah": {
+        "level": 84,
+        "abilities": [
+            "Sheer Force"
+        ],
+        "items": [
+            "Life Orb"
+        ],
+        "moves": [
+            "Earthquake",
+            "Iron Head",
+            "Play Rough",
+            "Rock Slide",
+            "Stealth Rock"
+        ],
+        "types": [
+            "steel"
+        ]
+    },
+    "Corviknight": {
+        "level": 78,
+        "abilities": [
+            "Mirror Armor",
+            "Pressure"
+        ],
+        "items": [
+            "Leftovers"
+        ],
+        "moves": [
+            "Body Press",
+            "Brave Bird",
+            "Bulk Up",
+            "Defog",
+            "Roost"
+        ],
+        "types": [
+            "flying",
+            "steel"
+        ]
+    },
+    "Dialga": {
+        "level": 74,
+        "abilities": [
+            "Pressure"
+        ],
+        "items": [
+            "Choice Scarf",
+            "Choice Specs",
+            "Leftovers"
+        ],
+        "moves": [
+            "Draco Meteor",
+            "Fire Blast",
+            "Flash Cannon",
+            "Stealth Rock",
+            "Thunderbolt",
+            "Toxic"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "steel",
+            "dragon"
+        ]
+    },
+    "Doublade": {
+        "level": 82,
+        "abilities": [
+            "No Guard"
+        ],
+        "items": [
+            "Eviolite"
+        ],
+        "moves": [
+            "Close Combat",
+            "Iron Head",
+            "Shadow Claw",
+            "Shadow Sneak",
+            "Swords Dance"
+        ],
+        "types": [
+            "steel",
+            "ghost"
+        ]
+    },
+    "Duraludon": {
+        "level": 84,
+        "abilities": [
+            "Light Metal"
+        ],
+        "items": [
+            "Assault Vest",
+            "Focus Sash",
+            "Life Orb"
+        ],
+        "moves": [
+            "Body Press",
+            "Draco Meteor",
+            "Flash Cannon",
+            "Stealth Rock",
+            "Thunderbolt"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "steel",
+            "dragon"
+        ]
+    },
+    "Durant": {
+        "level": 78,
+        "abilities": [
+            "Hustle"
+        ],
+        "items": [
+            "Choice Band",
+            "Life Orb"
+        ],
+        "moves": [
+            "First Impression",
+            "Hone Claws",
+            "Iron Head",
+            "Rock Slide",
+            "Superpower"
+        ],
+        "types": [
+            "bug",
+            "steel"
+        ]
+    },
+    "Escavalier": {
+        "level": 84,
+        "abilities": [
+            "Overcoat",
+            "Swarm"
+        ],
+        "items": [
+            "Choice Band",
+            "Leftovers"
+        ],
+        "moves": [
+            "Close Combat",
+            "Drill Run",
+            "Iron Head",
+            "Knock Off",
+            "Megahorn",
+            "Swords Dance"
+        ],
+        "types": [
+            "bug",
+            "steel"
+        ]
+    },
+    "Excadrill": {
+        "level": 78,
+        "abilities": [
+            "Mold Breaker",
+            "Sand Rush"
+        ],
+        "items": [
+            "Assault Vest",
+            "Leftovers",
+            "Life Orb"
+        ],
+        "moves": [
+            "Earthquake",
+            "Iron Head",
+            "Rapid Spin",
+            "Rock Slide",
+            "Swords Dance"
+        ],
+        "types": [
+            "ground",
+            "steel"
+        ]
+    },
+    "Ferrothorn": {
+        "level": 78,
+        "abilities": [
+            "Iron Barbs"
+        ],
+        "items": [
+            "Leftovers"
+        ],
+        "moves": [
+            "Gyro Ball",
+            "Knock Off",
+            "Leech Seed",
+            "Power Whip",
+            "Protect",
+            "Spikes",
+            "Stealth Rock"
+        ],
+        "evs": {
+            "spe": 0
+        },
+        "ivs": {
+            "spe": 0
+        },
+        "types": [
+            "grass",
+            "steel"
+        ]
+    },
+    "Genesect": {
+        "level": 74,
+        "abilities": [
+            "Download"
+        ],
+        "items": [
+            "Assault Vest",
+            "Choice Band",
+            "Life Orb"
+        ],
+        "moves": [
+            "Blaze Kick",
+            "Extreme Speed",
+            "Iron Head",
+            "Leech Life",
+            "Shift Gear",
+            "Thunderbolt",
+            "U-turn"
+        ],
+        "types": [
+            "bug",
+            "steel"
+        ]
+    },
+    "Heatran": {
+        "level": 78,
+        "abilities": [
+            "Flash Fire"
+        ],
+        "items": [
+            "Air Balloon",
+            "Leftovers"
+        ],
+        "moves": [
+            "Earth Power",
+            "Flash Cannon",
+            "Lava Plume",
+            "Protect",
+            "Stealth Rock",
+            "Taunt",
+            "Toxic"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "fire",
+            "steel"
+        ]
+    },
+    "Jirachi": {
+        "level": 79,
+        "abilities": [
+            "Serene Grace"
+        ],
+        "items": [
+            "Assault Vest",
+            "Choice Scarf",
+            "Leftovers"
+        ],
+        "moves": [
+            "Body Slam",
+            "Fire Punch",
+            "Iron Head",
+            "Stealth Rock",
+            "Toxic",
+            "Trick",
+            "U-turn"
+        ],
+        "types": [
+            "steel",
+            "psychic"
+        ]
+    },
+    "Kartana": {
+        "level": 74,
+        "abilities": [
+            "Beast Boost"
+        ],
+        "items": [
+            "Choice Band",
+            "Life Orb"
+        ],
+        "moves": [
+            "Knock Off",
+            "Leaf Blade",
+            "Sacred Sword",
+            "Smart Strike",
+            "Swords Dance"
+        ],
+        "types": [
+            "grass",
+            "steel"
+        ]
+    },
+    "Klefki": {
+        "level": 82,
+        "abilities": [
+            "Prankster"
+        ],
+        "items": [
+            "Focus Sash",
+            "Leftovers"
+        ],
+        "moves": [
+            "Magnet Rise",
+            "Play Rough",
+            "Spikes",
+            "Thunder Wave",
+            "Toxic"
+        ],
+        "types": [
+            "steel",
+            "fairy"
+        ]
+    },
+    "Klinklang": {
+        "level": 84,
+        "abilities": [
+            "Clear Body"
+        ],
+        "items": [
+            "Leftovers"
+        ],
+        "moves": [
+            "Gear Grind",
+            "Shift Gear",
+            "Substitute",
+            "Wild Charge"
+        ],
+        "types": [
+            "steel"
+        ]
+    },
+    "Lucario": {
+        "level": 82,
+        "abilities": [
+            "Justified"
+        ],
+        "items": [
+            "Choice Band",
+            "Focus Sash",
+            "Life Orb"
+        ],
+        "moves": [
+            "Close Combat",
+            "Extreme Speed",
+            "Meteor Mash",
+            "Stone Edge",
+            "Swords Dance"
+        ],
+        "types": [
+            "fighting",
+            "steel"
+        ]
+    },
+    "Magearna": {
+        "level": 76,
+        "abilities": [
+            "Soul-Heart"
+        ],
+        "items": [
+            "Leftovers"
+        ],
+        "moves": [
+            "Agility",
+            "Calm Mind",
+            "Flash Cannon",
+            "Fleur Cannon"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "steel",
+            "fairy"
+        ]
+    },
+    "Magnezone": {
+        "level": 84,
+        "abilities": [
+            "Magnet Pull"
+        ],
+        "items": [
+            "Assault Vest",
+            "Choice Scarf"
+        ],
+        "moves": [
+            "Body Press",
+            "Flash Cannon",
+            "Mirror Coat",
+            "Thunderbolt",
+            "Volt Switch"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "electric",
+            "steel"
+        ]
+    },
+    "Mawile": {
+        "level": 86,
+        "abilities": [
+            "Intimidate",
+            "Sheer Force"
+        ],
+        "items": [
+            "Focus Sash",
+            "Life Orb"
+        ],
+        "moves": [
+            "Iron Head",
+            "Play Rough",
+            "Stealth Rock",
+            "Sucker Punch",
+            "Swords Dance"
+        ],
+        "types": [
+            "steel",
+            "fairy"
+        ]
+    },
+    "Melmetal": {
+        "level": 74,
+        "abilities": [
+            "Iron Fist"
+        ],
+        "items": [
+            "Choice Band",
+            "Leftovers"
+        ],
+        "moves": [
+            "Double Iron Bash",
+            "Earthquake",
+            "Superpower",
+            "Thunder Punch",
+            "Thunder Wave"
+        ],
+        "types": [
+            "steel"
+        ]
+    },
+    "Metagross": {
+        "level": 79,
+        "abilities": [
+            "Clear Body"
+        ],
+        "items": [
+            "Choice Band",
+            "Choice Scarf",
+            "Leftovers",
+            "Weakness Policy"
+        ],
+        "moves": [
+            "Agility",
+            "Bullet Punch",
+            "Earthquake",
+            "Explosion",
+            "Meteor Mash",
+            "Stealth Rock",
+            "Thunder Punch"
+        ],
+        "types": [
+            "steel",
+            "psychic"
+        ]
+    },
+    "Perrserker": {
+        "level": 86,
+        "abilities": [
+            "Steely Spirit",
+            "Tough Claws"
+        ],
+        "items": [
+            "Choice Band",
+            "Life Orb"
+        ],
+        "moves": [
+            "Close Combat",
+            "Crunch",
+            "Fake Out",
+            "Iron Head",
+            "U-turn"
+        ],
+        "types": [
+            "steel"
+        ]
+    },
+    "Registeel": {
+        "level": 83,
+        "abilities": [
+            "Clear Body"
+        ],
+        "items": [
+            "Chesto Berry",
+            "Leftovers"
+        ],
+        "moves": [
+            "Body Press",
+            "Curse",
+            "Iron Head",
+            "Protect",
+            "Rest",
+            "Sleep Talk",
+            "Stealth Rock",
+            "Toxic"
+        ],
+        "types": [
+            "steel"
+        ]
+    },
+    "Scizor": {
+        "level": 80,
+        "abilities": [
+            "Technician"
+        ],
+        "items": [
+            "Choice Band",
+            "Leftovers",
+            "Life Orb"
+        ],
+        "moves": [
+            "Bullet Punch",
+            "Dual Wingbeat",
+            "Knock Off",
+            "Roost",
+            "Superpower",
+            "Swords Dance",
+            "U-turn"
+        ],
+        "types": [
+            "bug",
+            "steel"
+        ]
+    },
+    "Skarmory": {
+        "level": 80,
+        "abilities": [
+            "Sturdy"
+        ],
+        "items": [
+            "Leftovers"
+        ],
+        "moves": [
+            "Body Press",
+            "Brave Bird",
+            "Roost",
+            "Spikes",
+            "Stealth Rock",
+            "Whirlwind"
+        ],
+        "types": [
+            "steel",
+            "flying"
+        ]
+    },
+    "Solgaleo": {
+        "level": 72,
+        "abilities": [
+            "Full Metal Body"
+        ],
+        "items": [
+            "Choice Band",
+            "Choice Scarf",
+            "Weakness Policy"
+        ],
+        "moves": [
+            "Close Combat",
+            "Flame Charge",
+            "Flare Blitz",
+            "Knock Off",
+            "Psychic Fangs",
+            "Sunsteel Strike"
+        ],
+        "types": [
+            "psychic",
+            "steel"
+        ]
+    },
+    "Stakataka": {
+        "level": 80,
+        "abilities": [
+            "Beast Boost"
+        ],
+        "items": [
+            "Air Balloon",
+            "Choice Band"
+        ],
+        "moves": [
+            "Body Press",
+            "Earthquake",
+            "Gyro Ball",
+            "Stealth Rock",
+            "Stone Edge",
+            "Trick Room"
+        ],
+        "evs": {
+            "spe": 0
+        },
+        "ivs": {
+            "spe": 0
+        },
+        "types": [
+            "rock",
+            "steel"
+        ]
+    },
+    "Steelix": {
+        "level": 84,
+        "abilities": [
+            "Rock Head",
+            "Sturdy"
+        ],
+        "items": [
+            "Leftovers"
+        ],
+        "moves": [
+            "Dragon Dance",
+            "Earthquake",
+            "Head Smash",
+            "Heavy Slam",
+            "Stealth Rock",
+            "Toxic"
+        ],
+        "types": [
+            "steel",
+            "ground"
+        ]
+    },
+    "Togedemaru": {
+        "level": 86,
+        "abilities": [
+            "Lightning Rod",
+            "Sturdy"
+        ],
+        "items": [
+            "Choice Band",
+            "Focus Sash",
+            "Leftovers"
+        ],
+        "moves": [
+            "Iron Head",
+            "Nuzzle",
+            "Spiky Shield",
+            "U-turn",
+            "Wish",
+            "Zing Zap"
+        ],
+        "types": [
+            "electric",
+            "steel"
+        ]
+    }
+}

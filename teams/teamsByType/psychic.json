@@ -1,0 +1,1149 @@
+{
+    "Alakazam": {
+        "level": 78,
+        "abilities": [
+            "Magic Guard"
+        ],
+        "items": [
+            "Focus Sash",
+            "Life Orb"
+        ],
+        "moves": [
+            "Counter",
+            "Focus Blast",
+            "Nasty Plot",
+            "Psychic",
+            "Shadow Ball"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "psychic"
+        ]
+    },
+    "Azelf": {
+        "level": 82,
+        "abilities": [
+            "Levitate"
+        ],
+        "items": [
+            "Choice Specs",
+            "Focus Sash",
+            "Leftovers",
+            "Life Orb"
+        ],
+        "moves": [
+            "Dazzling Gleam",
+            "Fire Blast",
+            "Nasty Plot",
+            "Psychic",
+            "Psyshock",
+            "Stealth Rock",
+            "Taunt",
+            "U-turn"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "psychic"
+        ]
+    },
+    "Beheeyem": {
+        "level": 86,
+        "abilities": [
+            "Analytic"
+        ],
+        "items": [
+            "Choice Specs",
+            "Life Orb"
+        ],
+        "moves": [
+            "Psychic",
+            "Shadow Ball",
+            "Thunderbolt",
+            "Trick",
+            "Trick Room"
+        ],
+        "evs": {
+            "atk": 0,
+            "spe": 0
+        },
+        "ivs": {
+            "atk": 0,
+            "spe": 0
+        },
+        "types": [
+            "psychic"
+        ]
+    },
+    "Bronzong": {
+        "level": 82,
+        "abilities": [
+            "Levitate"
+        ],
+        "items": [
+            "Leftovers"
+        ],
+        "moves": [
+            "Earthquake",
+            "Iron Head",
+            "Protect",
+            "Stealth Rock",
+            "Toxic"
+        ],
+        "types": [
+            "steel",
+            "psychic"
+        ]
+    },
+    "Calyrex": {
+        "level": 88,
+        "abilities": [
+            "Unnerve"
+        ],
+        "items": [
+            "Leftovers"
+        ],
+        "moves": [
+            "Calm Mind",
+            "Giga Drain",
+            "Leech Seed",
+            "Psyshock",
+            "Substitute"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "psychic",
+            "grass"
+        ]
+    },
+    "Celebi": {
+        "level": 82,
+        "abilities": [
+            "Natural Cure"
+        ],
+        "items": [
+            "Choice Scarf",
+            "Choice Specs",
+            "Leftovers",
+            "Life Orb"
+        ],
+        "moves": [
+            "Earth Power",
+            "Giga Drain",
+            "Leaf Storm",
+            "Nasty Plot",
+            "Psychic",
+            "Recover",
+            "Stealth Rock",
+            "U-turn"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "psychic",
+            "grass"
+        ]
+    },
+    "Claydol": {
+        "level": 86,
+        "abilities": [
+            "Levitate"
+        ],
+        "items": [
+            "Assault Vest",
+            "Leftovers"
+        ],
+        "moves": [
+            "Earthquake",
+            "Ice Beam",
+            "Psychic",
+            "Rapid Spin",
+            "Stealth Rock",
+            "Toxic"
+        ],
+        "types": [
+            "ground",
+            "psychic"
+        ]
+    },
+    "Cresselia": {
+        "level": 80,
+        "abilities": [
+            "Levitate"
+        ],
+        "items": [
+            "Leftovers"
+        ],
+        "moves": [
+            "Calm Mind",
+            "Moonblast",
+            "Moonlight",
+            "Psyshock",
+            "Thunder Wave",
+            "Toxic"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "psychic"
+        ]
+    },
+    "Espeon": {
+        "level": 82,
+        "abilities": [
+            "Magic Bounce"
+        ],
+        "items": [
+            "Leftovers",
+            "Life Orb"
+        ],
+        "moves": [
+            "Calm Mind",
+            "Dazzling Gleam",
+            "Morning Sun",
+            "Psychic",
+            "Shadow Ball"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "psychic"
+        ]
+    },
+    "Exeggutor": {
+        "level": 86,
+        "abilities": [
+            "Chlorophyll",
+            "Harvest"
+        ],
+        "items": [
+            "Leftovers",
+            "Sitrus Berry"
+        ],
+        "moves": [
+            "Giga Drain",
+            "Leech Seed",
+            "Psychic",
+            "Sleep Powder",
+            "Substitute"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "grass",
+            "psychic"
+        ]
+    },
+    "Gallade": {
+        "level": 82,
+        "abilities": [
+            "Justified"
+        ],
+        "items": [
+            "Choice Band",
+            "Choice Scarf",
+            "Life Orb"
+        ],
+        "moves": [
+            "Close Combat",
+            "Knock Off",
+            "Shadow Sneak",
+            "Swords Dance",
+            "Trick",
+            "Zen Headbutt"
+        ],
+        "types": [
+            "psychic",
+            "fighting"
+        ]
+    },
+    "Gardevoir": {
+        "level": 82,
+        "abilities": [
+            "Trace"
+        ],
+        "items": [
+            "Choice Scarf",
+            "Leftovers",
+            "Life Orb"
+        ],
+        "moves": [
+            "Calm Mind",
+            "Moonblast",
+            "Mystical Fire",
+            "Psyshock",
+            "Substitute",
+            "Trick",
+            "Will-O-Wisp"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "psychic",
+            "fairy"
+        ]
+    },
+    "Gothitelle": {
+        "level": 86,
+        "abilities": [
+            "Shadow Tag"
+        ],
+        "items": [
+            "Choice Scarf",
+            "Leftovers"
+        ],
+        "moves": [
+            "Nasty Plot",
+            "Psychic",
+            "Shadow Ball",
+            "Thunderbolt",
+            "Trick"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "psychic"
+        ]
+    },
+    "Indeedee": {
+        "level": 83,
+        "abilities": [
+            "Psychic Surge"
+        ],
+        "items": [
+            "Choice Scarf",
+            "Focus Sash",
+            "Life Orb"
+        ],
+        "moves": [
+            "Calm Mind",
+            "Expanding Force",
+            "Hyper Voice",
+            "Mystical Fire",
+            "Trick"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "psychic",
+            "normal"
+        ]
+    },
+    "Jirachi": {
+        "level": 79,
+        "abilities": [
+            "Serene Grace"
+        ],
+        "items": [
+            "Assault Vest",
+            "Choice Scarf",
+            "Leftovers"
+        ],
+        "moves": [
+            "Body Slam",
+            "Fire Punch",
+            "Iron Head",
+            "Stealth Rock",
+            "Toxic",
+            "Trick",
+            "U-turn"
+        ],
+        "types": [
+            "steel",
+            "psychic"
+        ]
+    },
+    "Jynx": {
+        "level": 86,
+        "abilities": [
+            "Dry Skin"
+        ],
+        "items": [
+            "Choice Scarf",
+            "Focus Sash",
+            "Heavy-Duty Boots",
+            "Leftovers",
+            "Life Orb"
+        ],
+        "moves": [
+            "Focus Blast",
+            "Ice Beam",
+            "Lovely Kiss",
+            "Nasty Plot",
+            "Psyshock",
+            "Trick"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "ice",
+            "psychic"
+        ]
+    },
+    "Latias": {
+        "level": 80,
+        "abilities": [
+            "Levitate"
+        ],
+        "items": [
+            "Choice Scarf",
+            "Leftovers"
+        ],
+        "moves": [
+            "Calm Mind",
+            "Draco Meteor",
+            "Healing Wish",
+            "Mystical Fire",
+            "Psychic",
+            "Roost"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "dragon",
+            "psychic"
+        ]
+    },
+    "Latios": {
+        "level": 78,
+        "abilities": [
+            "Levitate"
+        ],
+        "items": [
+            "Choice Specs",
+            "Life Orb",
+            "Soul Dew"
+        ],
+        "moves": [
+            "Calm Mind",
+            "Draco Meteor",
+            "Mystical Fire",
+            "Psyshock",
+            "Roost",
+            "Trick"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "dragon",
+            "psychic"
+        ]
+    },
+    "Lugia": {
+        "level": 74,
+        "abilities": [
+            "Multiscale"
+        ],
+        "items": [
+            "Heavy-Duty Boots"
+        ],
+        "moves": [
+            "Air Slash",
+            "Earthquake",
+            "Roost",
+            "Substitute",
+            "Toxic"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "psychic",
+            "flying"
+        ]
+    },
+    "Lunala": {
+        "level": 72,
+        "abilities": [
+            "Shadow Shield"
+        ],
+        "items": [
+            "Leftovers"
+        ],
+        "moves": [
+            "Calm Mind",
+            "Moonblast",
+            "Moongeist Beam",
+            "Psyshock",
+            "Roost"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "psychic",
+            "ghost"
+        ]
+    },
+    "Lunatone": {
+        "level": 86,
+        "abilities": [
+            "Levitate"
+        ],
+        "items": [
+            "Choice Specs",
+            "Focus Sash",
+            "Life Orb"
+        ],
+        "moves": [
+            "Earth Power",
+            "Moonblast",
+            "Nasty Plot",
+            "Power Gem",
+            "Psychic",
+            "Stealth Rock"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "rock",
+            "psychic"
+        ]
+    },
+    "Malamar": {
+        "level": 80,
+        "abilities": [
+            "Contrary"
+        ],
+        "items": [
+            "Chesto Berry",
+            "Leftovers"
+        ],
+        "moves": [
+            "Knock Off",
+            "Psycho Cut",
+            "Rest",
+            "Sleep Talk",
+            "Substitute",
+            "Superpower"
+        ],
+        "types": [
+            "dark",
+            "psychic"
+        ]
+    },
+    "Meowstic": {
+        "level": 84,
+        "abilities": [
+            "Prankster"
+        ],
+        "items": [
+            "Leftovers",
+            "Light Clay"
+        ],
+        "moves": [
+            "Light Screen",
+            "Psychic",
+            "Reflect",
+            "Thunder Wave",
+            "Yawn"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "psychic"
+        ]
+    },
+    "Mesprit": {
+        "level": 84,
+        "abilities": [
+            "Levitate"
+        ],
+        "items": [
+            "Choice Scarf",
+            "Choice Specs",
+            "Leftovers"
+        ],
+        "moves": [
+            "Energy Ball",
+            "Healing Wish",
+            "Ice Beam",
+            "Nasty Plot",
+            "Psychic",
+            "Stealth Rock",
+            "Thunder Wave",
+            "U-turn"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "psychic"
+        ]
+    },
+    "Metagross": {
+        "level": 79,
+        "abilities": [
+            "Clear Body"
+        ],
+        "items": [
+            "Choice Band",
+            "Choice Scarf",
+            "Leftovers",
+            "Weakness Policy"
+        ],
+        "moves": [
+            "Agility",
+            "Bullet Punch",
+            "Earthquake",
+            "Explosion",
+            "Meteor Mash",
+            "Stealth Rock",
+            "Thunder Punch"
+        ],
+        "types": [
+            "steel",
+            "psychic"
+        ]
+    },
+    "Mew": {
+        "level": 80,
+        "abilities": [
+            "Synchronize"
+        ],
+        "items": [
+            "Choice Band",
+            "Choice Scarf",
+            "Lum Berry"
+        ],
+        "moves": [
+            "Brave Bird",
+            "Close Combat",
+            "Dragon Dance",
+            "Flare Blitz",
+            "Psychic Fangs",
+            "Swords Dance"
+        ],
+        "types": [
+            "psychic"
+        ]
+    },
+    "Mewtwo": {
+        "level": 72,
+        "abilities": [
+            "Unnerve"
+        ],
+        "items": [
+            "Leftovers",
+            "Life Orb"
+        ],
+        "moves": [
+            "Fire Blast",
+            "Nasty Plot",
+            "Psystrike",
+            "Recover",
+            "Shadow Ball"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "psychic"
+        ]
+    },
+    "Musharna": {
+        "level": 86,
+        "abilities": [
+            "Synchronize"
+        ],
+        "items": [
+            "Leftovers"
+        ],
+        "moves": [
+            "Calm Mind",
+            "Moonblast",
+            "Moonlight",
+            "Psychic",
+            "Thunder Wave"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "psychic"
+        ]
+    },
+    "Necrozma": {
+        "level": 80,
+        "abilities": [
+            "Prism Armor"
+        ],
+        "items": [
+            "Leftovers"
+        ],
+        "moves": [
+            "Calm Mind",
+            "Heat Wave",
+            "Moonlight",
+            "Photon Geyser",
+            "Stealth Rock"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "psychic"
+        ]
+    },
+    "Oranguru": {
+        "level": 86,
+        "abilities": [
+            "Inner Focus"
+        ],
+        "items": [
+            "Leftovers"
+        ],
+        "moves": [
+            "Focus Blast",
+            "Nasty Plot",
+            "Psychic",
+            "Thunderbolt",
+            "Trick Room"
+        ],
+        "evs": {
+            "atk": 0,
+            "spe": 0
+        },
+        "ivs": {
+            "atk": 0,
+            "spe": 0
+        },
+        "types": [
+            "normal",
+            "psychic"
+        ]
+    },
+    "Orbeetle": {
+        "level": 86,
+        "abilities": [
+            "Frisk"
+        ],
+        "items": [
+            "Heavy-Duty Boots",
+            "Leftovers"
+        ],
+        "moves": [
+            "Body Press",
+            "Bug Buzz",
+            "Calm Mind",
+            "Psychic",
+            "Recover",
+            "Sticky Web",
+            "U-turn"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "bug",
+            "psychic"
+        ]
+    },
+    "Reuniclus": {
+        "level": 84,
+        "abilities": [
+            "Magic Guard"
+        ],
+        "items": [
+            "Life Orb"
+        ],
+        "moves": [
+            "Calm Mind",
+            "Focus Blast",
+            "Psychic",
+            "Recover",
+            "Shadow Ball",
+            "Trick Room"
+        ],
+        "evs": {
+            "atk": 0,
+            "spe": 0
+        },
+        "ivs": {
+            "atk": 0,
+            "spe": 0
+        },
+        "types": [
+            "psychic"
+        ]
+    },
+    "Sigilyph": {
+        "level": 83,
+        "abilities": [
+            "Magic Guard",
+            "Tinted Lens"
+        ],
+        "items": [
+            "Choice Specs",
+            "Life Orb"
+        ],
+        "moves": [
+            "Air Slash",
+            "Defog",
+            "Energy Ball",
+            "Heat Wave",
+            "Psychic"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "psychic",
+            "flying"
+        ]
+    },
+    "Slowbro": {
+        "level": 84,
+        "abilities": [
+            "Regenerator"
+        ],
+        "items": [
+            "Leftovers"
+        ],
+        "moves": [
+            "Future Sight",
+            "Ice Beam",
+            "Scald",
+            "Slack Off",
+            "Teleport",
+            "Thunder Wave"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "water",
+            "psychic"
+        ]
+    },
+    "Slowking": {
+        "level": 86,
+        "abilities": [
+            "Regenerator"
+        ],
+        "items": [
+            "Choice Specs",
+            "Leftovers"
+        ],
+        "moves": [
+            "Fire Blast",
+            "Future Sight",
+            "Psyshock",
+            "Scald",
+            "Slack Off",
+            "Teleport",
+            "Toxic",
+            "Trick"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "water",
+            "psychic"
+        ]
+    },
+    "Solgaleo": {
+        "level": 72,
+        "abilities": [
+            "Full Metal Body"
+        ],
+        "items": [
+            "Choice Band",
+            "Choice Scarf",
+            "Weakness Policy"
+        ],
+        "moves": [
+            "Close Combat",
+            "Flame Charge",
+            "Flare Blitz",
+            "Knock Off",
+            "Psychic Fangs",
+            "Sunsteel Strike"
+        ],
+        "types": [
+            "psychic",
+            "steel"
+        ]
+    },
+    "Solrock": {
+        "level": 88,
+        "abilities": [
+            "Levitate"
+        ],
+        "items": [
+            "Leftovers",
+            "Life Orb"
+        ],
+        "moves": [
+            "Earthquake",
+            "Explosion",
+            "Morning Sun",
+            "Rock Slide",
+            "Stealth Rock",
+            "Will-O-Wisp"
+        ],
+        "types": [
+            "rock",
+            "psychic"
+        ]
+    },
+    "Starmie": {
+        "level": 84,
+        "abilities": [
+            "Analytic",
+            "Natural Cure"
+        ],
+        "items": [
+            "Choice Specs",
+            "Heavy-Duty Boots",
+            "Leftovers",
+            "Life Orb"
+        ],
+        "moves": [
+            "Hydro Pump",
+            "Ice Beam",
+            "Psyshock",
+            "Rapid Spin",
+            "Recover",
+            "Scald",
+            "Thunderbolt"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "water",
+            "psychic"
+        ]
+    },
+    "Swoobat": {
+        "level": 86,
+        "abilities": [
+            "Simple"
+        ],
+        "items": [
+            "Focus Sash",
+            "Heavy-Duty Boots",
+            "Leftovers",
+            "Life Orb"
+        ],
+        "moves": [
+            "Air Slash",
+            "Calm Mind",
+            "Heat Wave",
+            "Roost",
+            "Stored Power"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "psychic",
+            "flying"
+        ]
+    },
+    "Uxie": {
+        "level": 82,
+        "abilities": [
+            "Levitate"
+        ],
+        "items": [
+            "Leftovers"
+        ],
+        "moves": [
+            "Heal Bell",
+            "Knock Off",
+            "Psychic",
+            "Stealth Rock",
+            "U-turn",
+            "Yawn"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "psychic"
+        ]
+    },
+    "Victini": {
+        "level": 78,
+        "abilities": [
+            "Victory Star"
+        ],
+        "items": [
+            "Assault Vest",
+            "Choice Band",
+            "Choice Scarf",
+            "Choice Specs"
+        ],
+        "moves": [
+            "Blue Flare",
+            "Bolt Strike",
+            "Energy Ball",
+            "Glaciate",
+            "U-turn",
+            "V-create",
+            "Zen Headbutt"
+        ],
+        "evs": {
+            "hp": 81
+        },
+        "types": [
+            "psychic",
+            "fire"
+        ]
+    },
+    "Wobbuffet": {
+        "level": 92,
+        "abilities": [
+            "Shadow Tag"
+        ],
+        "items": [
+            "Sitrus Berry"
+        ],
+        "moves": [
+            "Charm",
+            "Counter",
+            "Encore",
+            "Mirror Coat"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "psychic"
+        ]
+    },
+    "Xatu": {
+        "level": 89,
+        "abilities": [
+            "Magic Bounce"
+        ],
+        "items": [
+            "Heavy-Duty Boots",
+            "Leftovers"
+        ],
+        "moves": [
+            "Heat Wave",
+            "Psychic",
+            "Roost",
+            "Teleport",
+            "Thunder Wave"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "psychic",
+            "flying"
+        ]
+    }
+}

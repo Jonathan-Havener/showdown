@@ -1,0 +1,553 @@
+{
+    "Amoonguss": {
+        "level": 84,
+        "abilities": [
+            "Regenerator"
+        ],
+        "items": [
+            "Black Sludge"
+        ],
+        "moves": [
+            "Clear Smog",
+            "Giga Drain",
+            "Sludge Bomb",
+            "Spore",
+            "Synthesis",
+            "Toxic"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "grass",
+            "poison"
+        ]
+    },
+    "Crobat": {
+        "level": 82,
+        "abilities": [
+            "Infiltrator"
+        ],
+        "items": [
+            "Black Sludge",
+            "Heavy-Duty Boots"
+        ],
+        "moves": [
+            "Brave Bird",
+            "Defog",
+            "Roost",
+            "Super Fang",
+            "Taunt",
+            "Toxic",
+            "U-turn"
+        ],
+        "types": [
+            "poison",
+            "flying"
+        ]
+    },
+    "Dragalge": {
+        "level": 86,
+        "abilities": [
+            "Adaptability"
+        ],
+        "items": [
+            "Black Sludge",
+            "Choice Specs"
+        ],
+        "moves": [
+            "Draco Meteor",
+            "Dragon Pulse",
+            "Flip Turn",
+            "Focus Blast",
+            "Sludge Wave",
+            "Toxic Spikes"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "poison",
+            "dragon"
+        ]
+    },
+    "Drapion": {
+        "level": 82,
+        "abilities": [
+            "Sniper"
+        ],
+        "items": [
+            "Black Sludge",
+            "Choice Band",
+            "Life Orb"
+        ],
+        "moves": [
+            "Aqua Tail",
+            "Earthquake",
+            "Knock Off",
+            "Poison Jab",
+            "Swords Dance",
+            "Taunt",
+            "Toxic Spikes"
+        ],
+        "types": [
+            "poison",
+            "dark"
+        ]
+    },
+    "Eternatus": {
+        "level": 69,
+        "abilities": [
+            "Pressure"
+        ],
+        "items": [
+            "Black Sludge",
+            "Metronome"
+        ],
+        "moves": [
+            "Dynamax Cannon",
+            "Flamethrower",
+            "Recover",
+            "Sludge Wave",
+            "Toxic"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "poison",
+            "dragon"
+        ]
+    },
+    "Naganadel": {
+        "level": 74,
+        "abilities": [
+            "Beast Boost"
+        ],
+        "items": [
+            "Choice Specs",
+            "Life Orb"
+        ],
+        "moves": [
+            "Air Slash",
+            "Draco Meteor",
+            "Fire Blast",
+            "Nasty Plot",
+            "Sludge Wave"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "poison",
+            "dragon"
+        ]
+    },
+    "Nidoking": {
+        "level": 82,
+        "abilities": [
+            "Sheer Force"
+        ],
+        "items": [
+            "Life Orb"
+        ],
+        "moves": [
+            "Earth Power",
+            "Ice Beam",
+            "Sludge Wave",
+            "Substitute",
+            "Superpower"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "poison",
+            "ground"
+        ]
+    },
+    "Nidoqueen": {
+        "level": 84,
+        "abilities": [
+            "Sheer Force"
+        ],
+        "items": [
+            "Life Orb"
+        ],
+        "moves": [
+            "Earth Power",
+            "Ice Beam",
+            "Sludge Wave",
+            "Stealth Rock",
+            "Toxic Spikes"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "poison",
+            "ground"
+        ]
+    },
+    "Nihilego": {
+        "level": 79,
+        "abilities": [
+            "Beast Boost"
+        ],
+        "items": [
+            "Black Sludge",
+            "Choice Scarf",
+            "Choice Specs"
+        ],
+        "moves": [
+            "Grass Knot",
+            "Power Gem",
+            "Sludge Wave",
+            "Stealth Rock",
+            "Thunderbolt",
+            "Toxic Spikes"
+        ],
+        "evs": {
+            "atk": 0,
+            "spd": 53
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "rock",
+            "poison"
+        ]
+    },
+    "Qwilfish": {
+        "level": 84,
+        "abilities": [
+            "Intimidate"
+        ],
+        "items": [
+            "Black Sludge",
+            "Focus Sash"
+        ],
+        "moves": [
+            "Destiny Bond",
+            "Spikes",
+            "Taunt",
+            "Thunder Wave",
+            "Toxic Spikes",
+            "Waterfall"
+        ],
+        "types": [
+            "water",
+            "poison"
+        ]
+    },
+    "Roserade": {
+        "level": 84,
+        "abilities": [
+            "Natural Cure"
+        ],
+        "items": [
+            "Black Sludge",
+            "Focus Sash"
+        ],
+        "moves": [
+            "Leaf Storm",
+            "Sleep Powder",
+            "Sludge Bomb",
+            "Spikes",
+            "Synthesis",
+            "Toxic Spikes"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "grass",
+            "poison"
+        ]
+    },
+    "Salazzle": {
+        "level": 82,
+        "abilities": [
+            "Corrosion"
+        ],
+        "items": [
+            "Black Sludge"
+        ],
+        "moves": [
+            "Flamethrower",
+            "Protect",
+            "Substitute",
+            "Toxic"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "poison",
+            "fire"
+        ]
+    },
+    "Scolipede": {
+        "level": 80,
+        "abilities": [
+            "Speed Boost"
+        ],
+        "items": [
+            "Black Sludge",
+            "Focus Sash",
+            "Heavy-Duty Boots",
+            "Life Orb"
+        ],
+        "moves": [
+            "Earthquake",
+            "Megahorn",
+            "Poison Jab",
+            "Protect",
+            "Spikes",
+            "Swords Dance",
+            "Toxic Spikes"
+        ],
+        "types": [
+            "bug",
+            "poison"
+        ]
+    },
+    "Skuntank": {
+        "level": 85,
+        "abilities": [
+            "Aftermath"
+        ],
+        "items": [
+            "Black Sludge",
+            "Life Orb"
+        ],
+        "moves": [
+            "Crunch",
+            "Defog",
+            "Fire Blast",
+            "Poison Jab",
+            "Sucker Punch",
+            "Taunt",
+            "Toxic"
+        ],
+        "types": [
+            "poison",
+            "dark"
+        ]
+    },
+    "Tentacruel": {
+        "level": 84,
+        "abilities": [
+            "Clear Body",
+            "Liquid Ooze"
+        ],
+        "items": [
+            "Assault Vest",
+            "Black Sludge",
+            "Life Orb"
+        ],
+        "moves": [
+            "Haze",
+            "Knock Off",
+            "Rapid Spin",
+            "Scald",
+            "Sludge Bomb",
+            "Toxic Spikes"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "water",
+            "poison"
+        ]
+    },
+    "Toxapex": {
+        "level": 82,
+        "abilities": [
+            "Regenerator"
+        ],
+        "items": [
+            "Black Sludge"
+        ],
+        "moves": [
+            "Baneful Bunker",
+            "Haze",
+            "Recover",
+            "Scald",
+            "Toxic",
+            "Toxic Spikes"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "poison",
+            "water"
+        ]
+    },
+    "Toxicroak": {
+        "level": 84,
+        "abilities": [
+            "Dry Skin"
+        ],
+        "items": [
+            "Black Sludge",
+            "Choice Band",
+            "Choice Scarf",
+            "Life Orb"
+        ],
+        "moves": [
+            "Drain Punch",
+            "Gunk Shot",
+            "Ice Punch",
+            "Knock Off",
+            "Substitute",
+            "Sucker Punch",
+            "Swords Dance"
+        ],
+        "types": [
+            "poison",
+            "fighting"
+        ]
+    },
+    "Toxtricity": {
+        "level": 82,
+        "abilities": [
+            "Punk Rock"
+        ],
+        "items": [
+            "Choice Scarf",
+            "Choice Specs",
+            "Throat Spray"
+        ],
+        "moves": [
+            "Boomburst",
+            "Overdrive",
+            "Shift Gear",
+            "Sludge Wave",
+            "Volt Switch"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "electric",
+            "poison"
+        ]
+    },
+    "Venusaur": {
+        "level": 82,
+        "abilities": [
+            "Chlorophyll",
+            "Overgrow"
+        ],
+        "items": [
+            "Black Sludge"
+        ],
+        "moves": [
+            "Giga Drain",
+            "Leech Seed",
+            "Sleep Powder",
+            "Sludge Bomb",
+            "Substitute"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "grass",
+            "poison"
+        ]
+    },
+    "Vileplume": {
+        "level": 84,
+        "abilities": [
+            "Chlorophyll",
+            "Effect Spore"
+        ],
+        "items": [
+            "Black Sludge"
+        ],
+        "moves": [
+            "Aromatherapy",
+            "Giga Drain",
+            "Sleep Powder",
+            "Sludge Bomb",
+            "Strength Sap"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "grass",
+            "poison"
+        ]
+    },
+    "Weezing": {
+        "level": 86,
+        "abilities": [
+            "Levitate",
+            "Neutralizing Gas"
+        ],
+        "items": [
+            "Black Sludge"
+        ],
+        "moves": [
+            "Fire Blast",
+            "Pain Split",
+            "Sludge Bomb",
+            "Toxic Spikes",
+            "Will-O-Wisp"
+        ],
+        "evs": {
+            "atk": 0
+        },
+        "ivs": {
+            "atk": 0
+        },
+        "types": [
+            "poison"
+        ]
+    }
+}
