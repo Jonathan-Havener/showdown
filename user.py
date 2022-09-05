@@ -7,9 +7,11 @@ class User():
     user_to_challenge = None
 
 
-    def __init__(self, username, password, bot_mode, user_to_challenge = None):
+    def __init__(self, username, bot_mode, user_to_challenge = None):
+
         self.username = username
-        self.password = password
+        with open("password.txt") as f:
+            self.password = f.readlines()
         self.bot_mode = bot_mode
 
         if self.bot_mode == constants.CHALLENGE_USER:

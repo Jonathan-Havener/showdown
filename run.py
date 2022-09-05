@@ -83,10 +83,8 @@ if __name__ == "__main__":
     config.parse_args()
     apply_mods(config.pokemon_mode)
 
-    password ="" # set password
-
-    user1 = user.User("epsilonbot", password, "CHALLENGE_USER", "epsilonbot2")
-    user2 = user.User("epsilonbot2", password, "ACCEPT_CHALLENGE")
+    user1 = user.User("epsilonbot",  "CHALLENGE_USER", "epsilonbot2")
+    user2 = user.User("epsilonbot2", "ACCEPT_CHALLENGE")
 
     loop = asyncio.get_event_loop()
 
