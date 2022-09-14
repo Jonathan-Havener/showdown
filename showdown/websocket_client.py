@@ -33,7 +33,7 @@ class PSWebsocketClient:
         self.password = password
         self.address = "ws://{}/showdown/websocket".format(address)
         self.websocket = await websockets.connect(self.address)
-        self.login_uri = "https://play.pokemonshowdown.com/action.php"
+        self.login_uri = "http://localhost.psim.us//action.php"
         return self
 
     async def join_room(self, room_name):
@@ -48,6 +48,7 @@ class PSWebsocketClient:
 
     async def send_message(self, room, message_list):
         message = room + "|" + "|".join(message_list)
+        print(message)
         logger.debug("Sending message to websocket: {}".format(message))
         await self.websocket.send(message)
         self.last_message = message
@@ -114,6 +115,11 @@ class PSWebsocketClient:
         message = ["/challenge {},{}".format(user_to_challenge, battle_format)]
         await self.send_message('', message)
         self.last_challenge_time = time.time()
+
+    async def cancel_challenge(self, user_to_challenge):
+        logger.debug("Cancelling challenge {}...".format(user_to_challenge))
+        message = ["/cancelchallenge {}".format(user_to_challenge)]
+        await self.send_message('', message)
 
     async def accept_challenge(self, battle_format, team, room_name):
         if room_name is not None:

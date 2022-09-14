@@ -176,7 +176,7 @@ async def start_standard_battle(ps_websocket_client: PSWebsocketClient, pokemon_
             pokemon_battle_type,
             pokemon_names=set(p.name for p in battle.opponent.reserve + battle.user.reserve)
         )
-        data.pokemon_sets = smogon_usage_data
+        data.pokemon_sets.update(smogon_usage_data)
         for pkmn, values in smogon_usage_data.items():
             data.effectiveness[pkmn] = values["effectiveness"]
 
@@ -216,3 +216,4 @@ async def pokemon_battle(ps_websocket_client, pokemon_battle_type):
             if action_required and not battle.wait:
                 best_move = await async_pick_move(battle)
                 await ps_websocket_client.send_message(battle.battle_tag, best_move)
+            await asyncio.sleep(1)

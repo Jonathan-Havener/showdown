@@ -2,6 +2,7 @@ import asyncio
 from concurrent.futures import ProcessPoolExecutor
 import json
 from copy import deepcopy
+import sys
 
 import constants
 import config
@@ -55,7 +56,7 @@ async def showdown(user):
     wins = 0
     losses = 0
     while True:
-        team = load_team(user.team_name)
+        team = load_team(team_generator.generateTeam(user.team_name))
         if user.bot_mode == constants.CHALLENGE_USER:
             await asyncio.sleep(3)
             await ps_websocket_client.challenge_user(user.user_to_challenge, config.pokemon_mode, team)
@@ -82,19 +83,32 @@ async def showdown(user):
             break
 
 if __name__ == "__main__":
-    config.parse_args()
-    apply_mods(config.pokemon_mode)
+    args = sys.argv[1:]
 
-    types = ["bug", "dark", "dragon", "electric", "fairy", "fighting", "fire", "flying", "ghost", "grass", "ground", "ice", "normal", "poison", "psychic", "rock", "steel", "water"]
+    print(args[0])
 
-    teamALoc = team_generator.generateTeam(random.choice(types))
-    teamBLoc = team_generator.generateTeam(random.choice(types))
+    # config.parse_args()
+    # apply_mods(config.pokemon_mode)
 
-    user1 = user.User("epsilonbot",  teamALoc, "CHALLENGE_USER", "epsilonbot2")
-    user2 = user.User("epsilonbot2", teamBLoc, "ACCEPT_CHALLENGE")
+    # types = ["bug", "dark", "dragon", "electric", "fairy", "fighting", "fire", "flying", "ghost", "grass", "ground", "ice", "normal", "poison", "psychic", "rock", "steel", "water"]
 
-    loop = asyncio.get_event_loop()
+    # teamBLoc = team_generator.generateTeam(random.choice(types))
 
-    loop.run_until_complete(asyncio.gather(
-        showdown(user1), showdown(user2)
-    ))
+    # users = []
+    # for type in types:
+    #     username = "epsilonbot"+ type
+    #     users.append(user.User(username, type, "SEARCH_LADDER"))
+
+    # random.shuffle(users)
+    # tasks = [showdown(user) for user in users]
+    
+    # group1 = asyncio.gather(*tasks[0:4])
+    # group2 = asyncio.gather(*tasks[4:8])
+    # group3 = asyncio.gather(*tasks[12:18])
+    
+
+    # loop = asyncio.get_event_loop()
+
+    # loop.run_until_complete(asyncio.gather(group1))
+    # loop.run_until_complete(asyncio.gather(group2))
+    # loop.run_until_complete(asyncio.gather(group3))

@@ -7036,7 +7036,7 @@
         ]
     },
     "Spectrier": {
-        "level": 74,
+        "level": 75,
         "abilities": [
             "Grim Neigh"
         ],
@@ -8606,7 +8606,6 @@
             "Bulk Up",
             "Close Combat",
             "Darkest Lariat",
-            "Jungle Healing",
             "Power Whip",
             "U-turn"
         ],

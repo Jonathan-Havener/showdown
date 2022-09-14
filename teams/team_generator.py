@@ -46,9 +46,13 @@ def generateTeam(type):
         if "items" in dictData[pokemon]:
             printString+=pokemon+" @ "+ random.choice(dictData[pokemon]["items"])+'\n'
         printString+="Ability: "+random.choice(dictData[pokemon]["abilities"])+'\n'
+        printString+="Level: "+ str(dictData[pokemon]["level"])+'\n'
         # if "evs" in dictData[pokemon].keys():
-        printString += "EVs: 252 HP"+"\n"
-        moves = random.sample(list(dictData[pokemon]["moves"]), 4)
+        printString += "EVs: 1 HP"+"\n"
+        if len(dictData[pokemon]["moves"]) < 4 :
+            moves = dictData[pokemon]["moves"]
+        else:
+            moves = random.sample(list(dictData[pokemon]["moves"]), 4)
         for move in moves:
             printString+="- "+move+'\n'
         printString+='\n'
