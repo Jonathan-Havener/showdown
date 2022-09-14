@@ -2472,7 +2472,7 @@
         ]
     },
     "Eternatus": {
-        "level": 69,
+        "level": 72,
         "abilities": [
             "Pressure"
         ],
@@ -2878,7 +2878,6 @@
         ],
         "moves": [
             "Blaze Kick",
-            "Extreme Speed",
             "Iron Head",
             "Leech Life",
             "Shift Gear",
@@ -8072,10 +8071,7 @@
             "Choice Specs"
         ],
         "moves": [
-            "Blue Flare",
-            "Bolt Strike",
             "Energy Ball",
-            "Glaciate",
             "U-turn",
             "V-create",
             "Zen Headbutt"
